@@ -1,0 +1,5222 @@
+---- 172 filtered CJK strings ----
+有新版本：
+当前版本：
+番茄·人生
+开始时间
+结束时间
+专注事项
+进展记录
+开始时间：
+完成时间：
+专注事项：
+随笔进展记录（可选
+再次番茄
+再次计时
+保存记录
+专注时间记录
+专注时长
+正在专注中
+休息时间
+打开Excel报表？
+直接打开
+导出数据
+导出专注记录？
+导出任务？
+包含已归档任务？
+数据导出起点：
+行动注解、日志
+任务象限
+让自己变得更高效：不重要的尽量授权他人做
+置顶处理
+当前风险度
+任何可能影响该任务完美成功，包括影响
+按时按质按量
+完成的总体风险水平评估，甚至自己放弃的可能性
+增加里程碑
+标记一个待完成的里程碑
+标记里程碑已完成
+任务类别
+可以键入新任务类别
+计划开始时间
+按里程碑自动更新
+根据里程碑的状态
+自动计算任务进度
+计划完成时间
+完成时间
+右键设置资料库
+打开资料库
+右键点击设置资料库路径（注意，资料库不会被云同步
+实际完成时间
+暂时搁置到
+任务名称
+已经修改，您确定不保存退出吗？
+请选择本任务的资料库路径（注意，资料库不会被云同步
+路径不存在
+请右键点击设置资料库路径（注意，资料库不会被云同步
+请右键点击设置资料库路径
+加一个任务
+开始计时前，可在此输入专注事项
+开始番茄
+正向计时
+在任务前显示勾选框以选择任务导出
+精简模式
+切换任务列表显示模式（本开关可以在设置中隐藏
+可以在创建任务时输入新任务类别
+显示归档任务
+在下方固定该任务日志
+多坚持5分钟
+已导出任务和专注时间记录
+导出成功
+状态(颜色为风险程度
+计划开始
+计划完成
+实际完成
+更新时间
+创建时间
+标红代表专注时长达到初定时长
+进度/行动注解、日志
+紧急度/倒计
+风险/状态
+专注该任务，开始一个番茄
+专注该任务，开始正向计时
+取消该任务置顶
+设置该任务置顶
+转为待处理
+重审该任务
+归档该任务
+此次专注了
+今日专注
+多项任务
+尚未专注过
+隐藏归档任务
+开始番茄或正向计时前，可以在这里写下您要专注的事项哦！
+您确定要退出吗？
+人生 时间管理软件
+可以休息一会了 - 时长：
+休息结束啦
+这是您第一次使用番茄·人生吗？是否需要引入示例任务帮助您理解番茄·人生的功能？
+登录账号
+密码错误。自动云同步将被关闭。
+登录失败
+默认番茄时长
+在任务栏中显示倒计时
+进度条随计时往右变长
+选择番茄提示音
+默认休息时长
+按实际专注长短调整休息时长
+专注时显示专注对话框
+允许休息的最短专注时间
+标识开工时间和收工时间：
+选字体（需重启
+查看设置说明网页
+主窗口只显示任务最后一行日志
+低于此天数时显示任务倒计天：
+不倒计选
+显示精简模式切换框
+在主窗口的下方显示一个可以自由切换任务显示模式的复选框
+启用系统托盘
+最小化到系统托盘
+主窗口显示专注时间记录(需重启
+主窗口显示任务预览区(需重启
+注册番茄·人生账号
+已登录
+点击访问紧急重要分析网页
+自动同步
+选中此项则程序会在后台自动云同步数据，否则只有当您点击
+立即云同步
+时才会执行单次云同步
+清除本地数据和备份
+自动检查新版本
+警告！本操作将删除本程序在本地保存的用户数据以及自动数据备份，确认？
+确认清除数据
+退出账号
+当前版本为最新版本
+点击访问官网检查更新
+未进行新版本自动检查
+向服务器发起通讯失败
+向服务器发起通讯成功
+接收回应数据成功
+解析回应数据失败
+登录成功，解析回应数据成功
+接收回应数据失败
+是否清空主窗口中现有任务？选择是，则将清空所有任务
+是否清空任务？
+请输入番茄·人生账户名
+同步云端任务
+请输入您的密码
+登录成功
+同步结果
+当前最新版番茄·人生
+检查下载数据成功
+检查下载数据失败
+已下载%d条云端任务
+条本地任务需上传
+上传云端数据失败
+上传云端数据成功
+云端接收成功
+云端接收失败
+意义很小、影响轻微
+意义较小、影响有限
+有一般意义和影响
+有明显意义和影响
+意义重要、影响很大
+意义极重要、影响极大
+时间很宽裕
+有足够时间
+时间有限
+时间紧张
+时间特别急迫
+立即马上
+重要且紧急
+重要不紧急
+紧急不重要
+不重要不急
+株式会社
+
+---- ASCII tokens ----
+t%H+
+@u%H9
+HT$xHt%H
+u%HA
+1%H$
+Ht%H
+%Hs`H$ 
+L%ML
+Iu%H
+Lf%H$
+HP%H$
+H:%H$
+C`%HC`L{pf
+LP0L%b%M
+L%%Y
+F@Ht%HF
+C@Ht%HC
+C`%HC`Lspf
+%%HIq9
+H%H$
+%HC`LspE1f
+,%HC`Lsp1f
+L%dJ
+L%MI
+L%hH
+%HC`1f
+%HC`Lsp1f
+%HC`L{p
+ATUWVSH L%S
+IHHH0[^_H%S
+LHL%S
+H9t%Ht L$H
+H9t%Ht L$P
+%HC`LCpf
+%HCh1f
+%HC`H{pp
+%HC`H{p
+C`%H
+HH-%D
+LL$XLP0LL$XHT$PHt%H
+Ht%Hm
+H9t*Ht%HT$xL$
+u%MB
+H%mL$
+HP0L%M
+L9t%Ht L$
+L%m@
+L%d@
+C`g%HHC`LCpf
+L%hK?
+11%H$ 
+L%h>
+%H~`
+C`%H{`
+IHHH0[^_H%HI
+IHHH0[^_H%H
+t%Ht L$
+%HC`LCpE1f
+2L%H
+2L%HC`1f
+L%D7
+L%yA7
+L%s6
+0%HFhf
+ILL$`LLLL$(%m#
+Ht*H9t%HT$xL$
+HT$xLHD$pL\$hAP0HT$xHD$pL\$hHt%H*
+u%HQ
+IP(Ht%H)
+HHo L%h0
+H9t%Ht H$0
+L%m/
+L%S/
+%HF`LFpf
+LP0L;%D;
+L%yH.
+%HL$hH
+L:%H|$h
+%HD$PH
+C`%DHC`Lspf
+HHD$hp%HT$hH
+%MH$
+L%D8
+DH%M
+H%HT$pHt
+Ho%Mt
+L\%H$
+%HC`f
+IHHH0[^_H%M6
+LD$HHLT$@P0LD$HLT$@Ht%Hm
+HD$P%HL$PA
+Ht%H9t L$
+L%H'
+u%H$
+2H%HC`LKpE1f
+L%H/
+LT$pHLL$hP0LT$pLL$hHt%Hm
+L%y.
+H9t%Ht H$
+L%dM
+LHD$xA%HD$xHtjHE HL$pHE
+LT$PLP0LT$PH\$HHt%H
+L\$PLP0L\$PHT$HHt%H
+C`%HC`E1f
+L%y(
+t\H9tWL%h(
+AWAVAUATUWVSHhL%Yy
+u%MN
+LP0L%s
+LL$xHP0LL$xHT$`Ht%H
+%DL$HL
+1HCp1HD$p%H
+L%mS#
+LD$PLLT$HP0LD$PLT$HHt%Hm
+HT$XLHD$PL\$HAP0HT$XHD$PL\$HHt%H(
+Ht%H$
+L9t%Ht H$
+G@Ht%HG
+HB(Ht%H)
+Iu%H$
+%M9o
+C`%HHC`L{pf
+L\$PHP0L\$PHT$xHt%H
+L%S7
+C`%HC`f
+%HF`Lvpf
+L%y_
+t%HH([^_]A\A]
+H9t*Ht%HT$`L$
+u%D$
+u%MC
+t%Ht MLHLT$`L$
+HK8'%H$
+F`%H
+H%H+
+_UHwhL%d
+LD$PHP0LD$PH|$HHt%H
+E1LH%HH
+L%hI/
+F%H$
+%HC`H{p}
+HT$hLHD$`LT$XAP0HT$hHD$`LT$XHt%H*
+F`%H$H
+^%HFhLv`LNpL$
+MHH%Hm
+HL$8Ht*H9t%HT$xL$
+@@Ht%H@
+I>L%Sv
+IHHH0[^_H%M
+%HF`LNpf
+LL$XHP0LL$XHT$`Ht%H
+C`%HC`LCpf
+H9P8r%H$
+L%hB
+F`%HF`H$
+%HF`f
+%HC`LKp1f
+I%H-
+HH%H
+%H@(HB
+Ht*L9t%HT$xL$
+LT$XLHT$PHD$HAP0LT$XHT$PHD$HHt%H(
+%HC`LCpAz
+H%H$p
+H~%H$x
+HZ%H$h
+H6%H$X
+C`%HS`f
+cL%M
+M%HC`L{pE11E1L$0
+C`%HC`H
+HM%H$(
+%HC`LKpf
+C`%HC`LKpf
+-%H$
+%HC`E1f
+HL%y
+LL%y
+%HC`
+,1%H
+HL%m
+HL%S
+HL%s
+HL%M
+L%y7
+a%H$
+Ht%H(
+%HC`L{pf
+%HT$8H
+H%HH
+%HT$@H
+LL$XHLD$PP0LL$XLD$PHt%Hm
+H(Iu%H
+L%so
+HHL%s9
+LL$0LLT$(P0LL$0LT$(Ht%Hm
+E1E1HD$XHFpL%S
+F`HD$01HFp%HFhf
+IHH%H.
+%HG`f
+%HF`E1f
+L%y{
+HD$h%H
+Ln%H$(
+HJ%H$
+T%H$
+uL%HC`f
+uH%HC`f
+%HC`H$
+LT$pLL\$XP0LT$pL\$XHt%Hm
+Hc%H
+%HN8LH
+L%sU
+HL%yI
+Lc%M
+L7%M
+2H %HF`f
+%S1E1I
+HH'%HtYfH
+L%H$
+H%Hm
+C`%H$
+C`C%HC`LCpE1f
+6%H$h
+%H$`
+LH%H$
+%HF`H$@
+%HF`H$
+1%HF`H$8
+_%HF`H$8
+H#%H$H
+1HGp%HG`f
+t%H$
+H4%H$
+L\$0Lt$@P0LT$@L\$0Ht%Hm
+HD$H%HC`f
+LT$@HP0LT$@H|$8Ht%H
+LT$@HP0LT$@H|$0Ht%H
+LT$(HP0LT$(H|$8Ht%H
+HT$@LLD$(P0HT$@LD$(Ht%Hm
+Hc%Hm
+HT%H
+%HL$pH
+%HL$xH
+<L%%h
+LL$hHP0LL$hHT$`Ht%H
+%HC`LCp1E1E1f
+C`%DHC`LCpf
+L9t%Ht L$P
+C`~%H$
+I'%H
+%H{`Lch
+IHHH0[^_H%Y
+HHH8[^_]H%Y
+LHD$`%HD$`Mt
+Ht%H+
+%H$(
+LP0L%yf
+M'L%H
+HHD$pLL$h%HD$pLL$hH
+C`%HC`Hkpf
+HP0HT$HMMHE1%hH+
+G`%H
+Ht%HL$xH9t
+HP0%H
+LL%H|$h
+MQ%H
+-E1%H$
+HT$xLHD$pL\$hAP0HT$xHD$pL\$hHt%H(
+HP0%HA
+LL$PHIt%H
+AWAVAUATUWVSHxL%Y
+HT$XLHD$PLT$HAP0HT$XHD$PLT$HHt%H(
+HT$XLHD$PLT$HAP0HT$XHD$PLT$HHt%H*
+m%H$
+E1%H
+HR0%HD$hH
+L9%H
+HKp%H
+Ht%H*
+L9t*Ht%HT$xL$
+%HF`Lnpf
+HP0%HG
+LB%H
+G`%HG`Lop1f
+lH1E1%H$
+%HG`Lop1f
+HH%HH
+uL%H
+D$x%H
+t%HL$xH
+LHD$p%HD$pI.
+HT$xLHD$pLT$`AP0HT$xHD$pLT$`Ht%H(
+LD$pHLT$hP0LD$pLT$hHt%Hm
+HL$@H9t*Ht%HT$xL$
+L%d5
+LP0%HG
+DD$h%HC`Lspf
+L9%D8
+EL%y
+z%Ht$hH
+ILb(Ht%H)
+Lcp%H
+%H{`HkhA
+%HC`Lcp
+2LM%H
+2Lq%H
+H%D$pF
+LD$pHP0LD$pH|$hHt%H
+H9t%Ht L$
+Lj%H
+HS%H
+H|$xHt%H
+t%Ht IHHL\$pL$
+u L%H$
+HK8%H
+HT$HLHD$@LT$8AP0HT$HHD$@LT$8Ht%H*
+HT$HLHD$@LT$8AP0HT$HHD$@LT$8Ht%H(
+C`LCpHt%H)
+LT$pLP0LT$pHT$XHt%H
+MH%h
+t\H9tWL%m
+L%DW
+H9P8r%Ht$PHVpHt
+LT$xLP0LT$xHT$hHt%H
+LL$@LT$8P0LL$@LT$8Ht%Hm
+F`%HD$x
+L9t%Ht ILHLT$pL$
+LH%S
+H%YI.
+%HMH#
+L3%H
+I%yf
+HH~%HHt#H
+H%Ht
+H%HC`f
+LP0%HG`L
+H%H.
+H%H/
+11%H
+H2%H
+uH%H
+HD%H
+HHH8[^_]H%h
+HP0Lt$h%HC`L{pf
+L=%m
+Lkp%H
+Lsp%H
+L\$(LP0L\$(H|$@Ht%H
+L%yd
+L\$`HP0L\$`HT$PHt%H
+HD$`HR0HD$`H\$pHt%H
+HHL%s
+HL%h
+HHL%d
+LH%s
+HH@%s
+1%S0>x
+HHL%dR
+HL%SC
+HLD$X%s
+Ht%HL$pH9t
+Ht%HT$pH9t
+H%dHH
+LL$pHP0LL$pH|$PHt%H
+LL$`HP0LL$`HT$XHt%H
+HD$@HD$pLt$8HD$0HD$xL|$(HD$ %m
+LL$pHD\$hP0LL$pD\$hHt%Hm
+Ht%HT$xH9t
+HE11k%H$
+L%yo
+L%%m
+L%he
+ILL$XLH%m
+IMLL%m
+IMLLG%m
+DT$`HP0DT$`HT$HHt%H
+DT$@HP0DT$@HT$PHt%H
+%HF`1f
+yHb%h
+C`%HC`H{pf
+H%sj
+MH%he
+E1%d
+HH%d
+N%HC`LCpf
+H%D$ 
+HH%D$ 
+$u%D$
+%D$ 
+HI%H$0
+H%H$ 
+HD$(%Y`
+HT$pLHD$hL\$`AP0HT$pHD$hL\$`Ht%H(
+Ht/HL$@H9t%HT$xL$
+L%Yx
+1%HP
+LH%M
+L%yw
+L%DK}
+Hu%H$(
+HCp%H
+L%Ms
+?L%Yr
+E1HH%HH
+LH%HH
+LT$HLHT$@HD$8AP0LT$HHT$@HD$8Ht%H*
+C`%H(
+L%yFr
+HH@%Y
+L%hq
+L%Mq
+%M9n
+%HK`E1E1LshHkpL
+L%yyp
+LT$0LT$(HD$ a%Y
+HP0%H{
+H!%Y
+H9P8r%H\$@HSpHt
+HL$HH9t*Ht%HT$xL$
+F`%HF`f
+L\$xLLT$pP0L\$xLT$pHt%Hm
+L%ym
+#%H+
+H!%S
+L%Hj
+L%H#j
+L%Hi
+F`yL%Yi
+Ht%H9t HT$xML$
+IL%S
+t\H9tWL%Sq
+L%hh
+%HC`L{p=
+%HT$`tL$
+L%Sg
+L%Mg
+L%Df
+HHH8[^_]H%Mn
+L%M)f
+LP0%HE`HD$8H
+Lt$xL%Sm
+1HCp%H
+I%HC`E11f
+I}%HC`H{pH$
+HD$ %M
+HY%H
+HD$ z%M
+L;%y
+L;%d
+t\H9tWL%h
+IHHH0[^_H%h
+Hh%M
+HD$ %H
+L9%S`
+L%M`
+HD$PHGhHD$X%H
+a3L[`LShLKp%H
+%HC`Lspf
+L%hG_
+LH%HD$xH
+L%HJ^
+t%Ht L$ 
+E`5%HE`LMpE1f
+HHH8[^_]H%d
+%DHF`L^pf
+H9t%Ht H$(
+LH%mB
+HILH%Hm
+3%H$
+O%HnhL-TZ
+IHHH0[^_H%Yb
+t%H/
+.HwhL-%Y
+L%d^a
+L\$PHP0L\$PHt$8Ht%H
+HHz(Ht%H)
+%HD$H
+L%hW
+L%YNW
+%HF`Lfpf
+P0%HD$h
+L%MnU
+HP0LL%mU
+LT$PHP0LT$PH|$pHt%H
+L%sR
+B%H$
+LD$@HLT$8P0LD$@LT$8Ht%Hm
+L%H.N
+Hj%HL$`HG`HT$XE1f
+L%hM
+L%mU
+C`tIu%H$
+C`jL%%M
+H%H$`
+L%HS`LCpHA4
+L%yBM
+L\$hLP0L\$hHt$pHt%H
+L%mK
+L%YK
+%HChL$
+Iu%H$p
+LP0%H=\9K
+I%Hk`H{h1f
+HT$`LHD$XLT$PAP0HT$`HD$XLT$PHt%H*
+H9t%Ht MLHL\$PL$
+F`%HF`LFpf
+u%HP
+L%mG
+L%YG
+L%mF
+LL$pHP0LL$pHT$xHt%H
+L-%D
+H(Iu%H$
+t%Ht L$h
+H9t%Ht H$H
+!%HC`L$
+HH%Ht
+H4%Mt
+L %H$
+%H$x
+%HChf
+L%SM
+IHHH0[^_H%D
+%HD$@
+HL$XH9t%HT$xL$
+LP0%HA
+L=%h9
+HT$hHt%H
+M%HF`Lnp
+HH%H$
+L%d=
+L%Hl$h*
+L%y5
+L%Y4
+L9t%Ht H$P
+L%y2
+L%Y2
+L%M2
+LD$PHLT$HP0LD$PLT$HHt%Hm
+D\$hHLL$PP0D\$hLL$PHt%Hm
+L\$`HP0L\$`HT$hHt%H
+LHD$p%HD$pH$
+HP0L%M0
+HP0L%SA0
+Hf%Hm
+Ht%H9t H$0
+LP0L%m/
+LL$pLP0LL$pH|$xHt%H
+H|$pHt%H
+H9t%Ht H$`
+L%D:.
+H%H=-
+L%sx-
+I1HK8z%H
+C`%yH
+L%H,
+HH%H/
+L%Y+
+L%M+
+HP0LL$HLD$@H1HT$8%HHh[^_]A\A]A^A_
+L%mP'
+nL%M'
+L%MI'
+Ht/Ht$@H9t%HT$xL$
+%HG`L
+L%Y&
+HT$XLHD$PLT$@AP0HT$XHD$PLT$@Ht%H(
+L%M$
+L\$xLHT$pHD$hAP0L\$xHT$pHD$hHt%H*
+LT$hHP0LT$hH|$`Ht%H
+L%D"
+YIu%H
+u%MF
+LP0%HE
+LT$`HP0LT$`H|$PHt%H
+L%H!
+L%HC`Lspf
+L%H 
+LP0L%H 
+%H{`
+L[hLKp%H-'
+HQ%H
+ML%H
+L\$@HP0L\$@H|$HHt%H
+L\$@HP0L\$@H|$PHt%H
+Ht%H)
+H%H|$p
+L%m|
+1HCp%HC`f
+%HF`LFhLNpH$
+%HFhLnpf
+LT$xL%D
+I%H{
+LE%H$
+H!%H$
+HT$`LLT$XHD$HAP0HT$`LT$XHD$HHt%H(
+LT$hLHT$`HD$XAP0LT$hHT$`HD$XHt%H(
+HT$hLLT$`HD$XAP0HT$hLT$`HD$XHt%H*
+H9P8r%HL$pHQpHt
+L%sN
+H\$hHt%H
+LT$hHP0LT$hHT$pHt%H
+E1E1%H
+HT$XE1H%HH
+HT$pHt%H
+L%h/
+dLLT$p%H$
+o%HD$@H
+L%MM
+I:1L%S
+Iw%H
+%D$8Ln`
+H\$`Ht%H
+LT$`LP0LT$`HT$hHt%H
+H9P8r%HT$HHRpHt
+LT$`HP0LT$`HT$pHt%H
+LT$`HP0LT$`H\$hHt%H
+HHD$h%HD$hH\$pH
+%HC`L{pE1f
+%HD$@H
+LU%H
+L%mA
+LD$xLP0LD$xHT$hHt%H
+HT$xLHD$pDT$hAP0HT$xHD$pDT$hHt%H*
+DT$x%DT$x$
+HT$XLHD$PL\$HAP0HT$XHD$PL\$HHt%H*
+H>%H
+HL$X{%HH
+LT$pL%y
+DL%m
+HD$p%HT$pHIHD$hL$
+L%H|$p
+HL%HHt&HD$hC
+L%sH
+eHD$X%H(
+MbL%S8
+H9P8r%HL$xHQpHt
+L%HL$hH
+LP0H=%m
+MxL%Y
+LP0L%S
+ML%s
+LD$pt%HLL$h*
+L%h%
+%Hl$`H|$`H|$hLt$hHF`L^pf
+HHT$h%HT$hH$
+L%Ys
+E1Ll$`L%h
+E@Ht%HE
+HK8%H$
+1%HC`f
+HH%HHt#H
+L%s{
+[%Hm
+HL%H$
+LHD$p%HD$pHteIG HL$hL
+L_%M
+C`%HT
+%HC`D$pt
+HHHD$8%d
+MX%H
+f%HD$P
+qH~hL%D
+O%HH
+LHIHt"H%Y
+%D\$xL$
+B@Ht%HB
+%hL$
+LHD$x%HD$xHtjHE HL$hH8
+L%S_
+HHH8[^_]H%D
+LP0%H
+w`LgpL_pHt%H*
+%HG`Lwpf
+LD$hHP0LD$hH|$xHt%H
+HN8%H
+L7%H$
+HT$`HP0HT$`H|$hHt%H
+ML%Y
+HHD$p%DLD$pM
+L%H+
+e%Ht\H
+C`HKp%HC`f
+L%S6
+%HC`u
+H%mH$P
+%HC`r
+H$%H
+MT$p%H
+L;%D
+P0L%d
+DT$pHP0DT$pHT$HHt%H
+DT$HHP0DT$HHT$`Ht%H
+IHHH0[^_H%d
+%D$p
+LP0IMLHG1%HA
+1HCp%HC`E1f
+LH%HHt-HE&
+xL%H$
+L%h8
+7H~hL%D
+LT$hLP0LT$hH|$xHt%H
+IuhL%s
+SL%S#
+L\$@LHT$8P0L\$@HT$8Ht%Hm
+LHD$h%HD$hHt^HE HL$`H
+IHH%s
+\%Hm
+L%su
+M%H-FR
+HD$h%s
+C`HD$p1HCp%HC`f
+IHHH0[^_H%y
+%HF`LvhLLfpHD$ ff.
+L%Su
+H%H\$@H
+%HfL$
+HD$hHChHD$p%H
+Mr%H
+LL$PHHLD$HVHw`%HO`HohH
+%HC`H{pf
+HP0L%H
+HP0H%HChf
+%HD$h
+L9t%Ht L$ 
+%H-`
+u%HE
+HT$PLHD$HLT$@AP0HT$PHD$HLT$@Ht%H(
+LP0%H{
+L%s$
+%SLT$xII*
+HL%HHt&HD$h
+fL%yo
+L%dx
+MKL%s
+pL%y&
+u%MG
+Le%Ht
+HQ%Hm
+HB%H
+LT$hHLL$`P0LT$hLL$`Ht%Hm
+HR0L5%s
+{L%h]
+R%H$
+I%HC8HP
+IIHL%y
+L%Y`
+L%Y*
+L%sA
+kL%H$ 
+LL$HHP0LL$HHT$@Ht%H
+LP0L%Ds
+HH%s
+1%HA
+L%Yk
+H%H|$`
+L%yk
+HHD$x%HD$xHtdIG HL$pL.o
+L4%HC`f
+HHM%m
+L%DD
+L%yH
+P0H+L%y(
+%H$0
+C`MIE11%HC`L{pf
+HT$XHG%m
+LD$HLP0LD$HHT$XHt%H
+L\$HL%D
+MHL%h=
+I%HC`Lcpf
+LT$PHP0LT$PHT$pHt%H
+HP0%HE
+L%y9
+LL$8%h
+L1L%D
+MMLHD$0%D$0
+L\$PLLD$HP0L\$PLD$HHt%Hm
+LT$8LP0LT$8HT$@Ht%H
+%HFhf
+L%yW
+LIH0%h
+HT$PHP0HT$PH|$HHt%H
+LD$pHP0LD$pH|$`Ht%H
+H%HK8
+2H>H%H
+H=%m
+LL$8P0LL$8HT$@Ht%H
+HD$hHT$`L\$XAP0HD$hHT$`L\$XHt%H*
+D\$`HP0D\$`HT$XHt%H
+L%m}
+%HC`H{pE1f
+L%m{
+%HS`HCh1f
+L%Hf{
+%Hl$@HT$8H
+L%Yz
+L%Sz
+LD$HLP0LD$HHT$PHt%H
+L%my
+?AF$AE(5L%y
+IHHH0[^_H%h{
+L%Sx
+GI~hL%Yw
+H=%Sw
+H%yX
+L%hv
+L%Hx
+L%yOv
+L%Mu
+L%H|$h
+M%HL$xH
+HHZSHHt%H
+HHk%HHt"H+U
+%HNX
+%H"4X
+u%HC`f
+HD$p%HC`HD$hH
+HHD$@%mHD$@
+HL%Ds
+HD$H%Hl$HLKHC`f
+DL%Y
+L%dcr
+HP0L%s
+%HV`H
+DT$pHP0DT$pHT$XHt%H
+L%s[
+E1L%m[
+E1L%h[
+%HtwH(HtoHE
+L%yn
+H=%hn
+L9%m
+HT$hLHD$`AP0HT$hHD$`Ht%H/
+H9P8r%H|$0HWpHt
+L5%m
+L%hl
+%Hk`H{h1f
+LL$HHHT$@P0LL$HHT$@Ht%Hm
+LP0L%mk
+LHLT$0%M
+%HK8!I.
+L9t%Ht HT$xML$
+HK8%H|$hH
+HT$pHD$hH9t%H$
+T$h%H
+L-G%h
+u%HF
+L%yg
+L%Yg
+L%Mf
+L%Se
+L%HKf
+L%se
+IHHH0[^_H%Dg
+,HT$h%HT$h
+HD$(%D
+HD$(h%D
+L%Sc
+H%sI
+L%Mb
+Lx%H
+L%Ha
+HL\$8\%D
+%H9F
+HT$PLL\$HHD$@AP0HT$PL\$HHD$@Ht%H*
+t%HN8
+Lw%M
+HC%H
+X%H\$HH
+@`%H
+H8L%sY
+,%H$`
+@`m%H
+K%H$`
+@`%mH$`
+H%HtgHk HL
+@`7%H
+AVAUATUWVSH L%S
+L%yV
+IHHH0[^_H%YW
+?L%yU
+HT$xLL\$pHD$hAP0HT$xL\$pHD$hHt%H*
+L%mM
+C`HD$@%HC`f
+%HD$8
+LP0L%M
+JL%S
+HT$@LHD$8L\$0AP0HT$@HD$8L\$0Ht%H(
+HT$@LL\$8HD$0AP0HT$@L\$8HD$0Ht%H*
+L\$@HP0L\$@HT$HHt%H
+L%YI
+F`HD$X%H
+L=%H
+F`%MAQ3
+HR0%HF`f
+LT$h%yLT$hOHC`LKpf
+C`%HC`LCpE1f
+LT$hLL\$`P0LT$hL\$`Ht%Hm
+C`%HC`LCp1f
+HO8%H
+LT$XHP0LT$XH|$hHt%H
+H%HD$pH
+F`%HF`LFpHFp
+%HC`LCp1f
+L%H#?
+HD$XLR0HD$XH\$PHt%H
+L%s<
+C`%HS`E1f
+u%H$(
+%HC`H$(
+u%D$ 
+H%H$x
+{%H/
+H%D$
+HI%D$
+g%HC`LCpf
+u%D$0
+%D$0
+C`%DHC`LCpE1f
+H9P8r%H|$hHWpHt
+D%HD$@H
+L%H.
+IL$8%H;N
+H9P8r%HL$hHQpHt
+HP0UfHG8L%M+
+L%s*
+L%y*
+L%d)
+L\$hHP0L\$hHt$PHt%H
+L%S&
+L%s&
+%HV`f
+L%m&
+F`YfL%d&
+HP0%HF
+%HF`LvpE1f
+t%HL$XH
+%HD$ 
+C`fL%Y+#
+Ht%HF
+%HIH)LQI
+HH [H%y"
+HttL%Dd"
+HttL%DV"
+L%S"
+L%M"
+HttL%dK"
+fL%YK"
+HttL%DH"
+LP0Mt%HHAH;
+LP0Mt%H
+HH%Y!
+L%Y!
+K H [H%M!
+L%S!
+H [H%M!
+HK H [H%M!
+Ht%H;
+u%Hx AR
+L;%yV 
+HAL%D 
+MtkE1L%Y
+HMs%HH
+Ht9HH~%HH
+L%M!
+HP0%H@
+HH%Hdff.
+Mt%HtlLd$pI
+Ht5HHHIH%H+
+I1H)%H
+<%H=
+H%HC
+HLt?HPxHtFHIHtSLL$(HH%Hx>HD$(H
+HM`MHt%HUI
+2H%H.
+E1HHL%y
+Ht2L%Mw
+AUATUWVSH(L%Y
+Ht2L%mA
+Ht4L%m
+Ht2L%M
+AUATUWVSH(L%M
+H(H%d
+ft%H
+u%HLZI|$`
+t%H H
+A H([^H%YR
+t%HE
+~%HE
+%HEH
+f6u%H
+f3u%H
+t%HMHHUH
+HE0HE(H;E u%HE A
+t%HEH
+HEhH_HEhHUxHEhH%HE HExH
+EHEHt%HM
++E9}%HE
+@%DB
+unbound compiled_method %s%s must be called with %s instance as first argument (got %s instance instead)
+%s() returned a result with an exception set
+cannot create '%s' instances
+__init__() should return None, not '%s'
+'%s' object is not callable
+'%s' object has no attribute '%s'
+PIL.IcoImagePlugin
+PIL.ImageFont
+numpy._core.records
+numpy.ma.mrecords
+openpyxl.chart.print_settings
+openpyxl.pivot.record
+openpyxl.styles.fonts
+openpyxl.worksheet.print_settings
+wx.lib.colourutils
+http
+http.client
+http.cookiejar
+http.cookies
+'%s' object is not an iterator
+sequence index must be integer, not '%s'
+type '%s' is not subscriptable
+'%s' object is not subscriptable
+iter() returned non-iterator of type '%s'
+'%s' object is not iterable
+cannot unpack non-iterable %s object
+not enough values to unpack (expected %d, got %d)
+'%s' object does not support item assignment
+??sequence index must be integer, not '%s'
+not enough values to unpack (expected at least %d, got %d)
+have multiple reasons. Please check https://nuitka.net/info/segfault.html
+<compiled_async_generator_asend of %s at %p>
+<compiled_coroutine object %s at %p>
+<compiled_coroutine_wrapper object %s at %p>
+<compiled_async_generator object %s at %p>
+<compiled_frame at %p, file %R, line %d, code %S>
+<nuitka_resource_reader_files for package '%s' file %R>
+<nuitka_resource_reader for '%s'>
+<compiled_cell at %p: %s object at %p>
+<nuitka_module_loader for '%s'>
+Critical error loading %s.
+%s ([Error %ld] %s)
+import %s # created module
+import %s # considering responsibility (find_module)
+import %s # claimed responsibility (%s)
+import %s # claimed responsibility (frozen)
+import %s # denied responsibility
+<compiled_function %s at %p>
+unsupported operand type(s) for +: '%s' and 'str'
+unsupported operand type(s) for +: '%s' and 'bytes'
+unsupported operand type(s) for +: '%s' and 'tuple'
+unsupported operand type(s) for +: '%s' and 'list'
+unsupported operand type(s) for +: '%s' and 'int'
+unsupported operand type(s) for +: '%s' and 'float'
+unsupported operand type(s) for <<: '%s' and 'int'
+unsupported operand type(s) for |: '%s' and 'int'
+unsupported operand type(s) for ^: '%s' and 'int'
+unsupported operand type(s) for %%: '%s' and 'float'
+unsupported operand type(s) for &: '%s' and 'int'
+unsupported operand type(s) for >>: '%s' and 'int'
+unsupported operand type(s) for %%: '%s' and 'int'
+unsupported operand type(s) for +=: '%s' and 'str'
+unsupported operand type(s) for +=: '%s' and 'tuple'
+unsupported operand type(s) for +=: '%s' and 'bytes'
+unsupported operand type(s) for +=: '%s' and 'list'
+unsupported operand type(s) for /: '%s' and 'float'
+unsupported operand type(s) for -: '%s' and 'int'
+unsupported operand type(s) for divmod(): '%s' and 'int'
+unsupported operand type(s) for /: '%s' and 'int'
+unsupported operand type(s) for |: '%s' and 'set'
+unsupported operand type(s) for //: '%s' and 'int'
+unsupported operand type(s) for ^: '%s' and 'set'
+unsupported operand type(s) for &: '%s' and 'set'
+unsupported operand type(s) for //: '%s' and 'float'
+unsupported operand type(s) for -: '%s' and 'float'
+unsupported operand type(s) for divmod(): '%s' and 'float'
+unsupported operand type(s) for ** or pow(): '%s' and 'int'
+unsupported operand type(s) for ** or pow(): '%s' and 'float'
+unsupported operand type(s) for +=: '%s' and 'int'
+unsupported operand type(s) for +=: '%s' and 'float'
+unsupported operand type(s) for %%=: '%s' and 'int'
+unsupported operand type(s) for ^=: '%s' and 'int'
+unsupported operand type(s) for //=: '%s' and 'int'
+unsupported operand type(s) for &=: '%s' and 'int'
+unsupported operand type(s) for >>=: '%s' and 'int'
+unsupported operand type(s) for |=: '%s' and 'int'
+unsupported operand type(s) for -=: '%s' and 'float'
+unsupported operand type(s) for -=: '%s' and 'int'
+unsupported operand type(s) for ^=: '%s' and 'set'
+unsupported operand type(s) for /=: '%s' and 'float'
+unsupported operand type(s) for %%=: '%s' and 'float'
+unsupported operand type(s) for <<=: '%s' and 'int'
+unsupported operand type(s) for &=: '%s' and 'set'
+unsupported operand type(s) for /=: '%s' and 'int'
+unsupported operand type(s) for //=: '%s' and 'float'
+unsupported operand type(s) for |=: '%s' and 'set'
+unsupported operand type(s) for **=: '%s' and 'int'
+unsupported operand type(s) for **=: '%s' and 'float'
+unsupported operand type(s) for ^: 'int' and '%s'
+unsupported operand type(s) for -: 'float' and '%s'
+unsupported operand type(s) for %%: 'float' and '%s'
+unsupported operand type(s) for -: 'int' and '%s'
+unsupported operand type(s) for //: 'int' and '%s'
+unsupported operand type(s) for >>: 'int' and '%s'
+unsupported operand type(s) for %%: 'str' and '%s'
+unsupported operand type(s) for //: 'float' and '%s'
+unsupported operand type(s) for &: 'set' and '%s'
+unsupported operand type(s) for &: 'int' and '%s'
+unsupported operand type(s) for +: 'float' and '%s'
+unsupported operand type(s) for /: 'float' and '%s'
+unsupported operand type(s) for %%: 'bytes' and '%s'
+unsupported operand type(s) for %%: 'int' and '%s'
+unsupported operand type(s) for /: 'int' and '%s'
+unsupported operand type(s) for ^: 'set' and '%s'
+unsupported operand type(s) for divmod(): 'float' and '%s'
+unsupported operand type(s) for +: 'int' and '%s'
+unsupported operand type(s) for |: 'set' and '%s'
+unsupported operand type(s) for divmod(): 'int' and '%s'
+unsupported operand type(s) for <<: 'int' and '%s'
+unsupported operand type(s) for |: 'int' and '%s'
+unsupported operand type(s) for ** or pow(): 'float' and '%s'
+unsupported operand type(s) for ** or pow(): 'int' and '%s'
+<module '%s' from %R>
+unsupported operand type(s) for %%=: 'float' and '%s'
+unsupported operand type(s) for ^=: 'int' and '%s'
+unsupported operand type(s) for -=: 'int' and '%s'
+unsupported operand type(s) for //=: 'int' and '%s'
+unsupported operand type(s) for -=: 'float' and '%s'
+unsupported operand type(s) for >>=: 'int' and '%s'
+unsupported operand type(s) for %%=: 'bytes' and '%s'
+unsupported operand type(s) for //=: 'float' and '%s'
+unsupported operand type(s) for &=: 'int' and '%s'
+unsupported operand type(s) for <<=: 'int' and '%s'
+unsupported operand type(s) for +=: 'int' and '%s'
+unsupported operand type(s) for +=: 'float' and '%s'
+unsupported operand type(s) for /=: 'int' and '%s'
+unsupported operand type(s) for /=: 'float' and '%s'
+unsupported operand type(s) for |=: 'int' and '%s'
+unsupported operand type(s) for %%=: 'str' and '%s'
+unsupported operand type(s) for %%=: 'int' and '%s'
+unsupported operand type(s) for **=: 'int' and '%s'
+unsupported operand type(s) for **=: 'float' and '%s'
+__await__() returned non-iterator of type '%s'
+object %s can't be used in 'await' expression
+unsupported operand type(s) for &=: 'set' and '%s'
+unsupported operand type(s) for ^=: 'set' and '%s'
+unsupported operand type(s) for |=: 'set' and '%s'
+'async with' received an object from __aenter__ that does not implement __await__: %s
+'async with' received an object from __aexit__ that does not implement __await__: %s
+'async for' requires an iterator with __anext__ method, got %s
+'async for' received an invalid object from __anext__: %s
+unhashable type: '%s'
+invalid literal for int() with base %d: %R
+cannot access free variable '%s' where it is not associated with a value in enclosing scope
+cannot import name %R from %R (%S)
+%s is not a mapping
+object of type '%s' has no len()
+'%s' object cannot be interpreted as an integer
+__index__ returned non-int (type %s)
+can't multiply sequence by non-int of type '%s'
+cannot fit '%s' into an index-sized integer
+unsupported operand type(s) for *: '%s' and 'int'
+unsupported operand type(s) for *: '%s' and 'float'
+unsupported operand type(s) for *=: '%s' and 'int'
+unsupported operand type(s) for *=: '%s' and 'float'
+unsupported operand type(s) for *: 'int' and '%s'
+unsupported operand type(s) for *: 'float' and '%s'
+unsupported operand type(s) for *=: 'int' and '%s'
+unsupported operand type(s) for *=: 'float' and '%s'
+'%s' cannot be interpreted as an integer
+an integer is required (got type %s)
+ord() expected string of length 1, but %s found
+%s() missing %zd required positional argument%s: %s
+%s() missing %zd required keyword-only argument%s: %s
+__str__ returned non-string (type %s)
+unicode() argument 2 must be string, not %s
+unicode() argument 3 must be string, not %s
+bad operand type for abs(): '%s'
+'%s' object has no attribute '__dict__'
+'%s' object has no attribute '__class__'
+'%s' object has no attributes (assign to %s)
+'%s' object has only read-only attributes (assign to %s)
+'%s' object has no attributes (assign to __dict__)
+'%s' object has only read-only attributes (assign to __dict__)
+'%s' object has no attributes (assign to __class__)
+'%s' object has only read-only attributes (assign to __class__)
+'%s' object does not support the context manager protocol (missed __exit__ method)
+'%s' object does not support the asynchronous context manager protocol (missed __aexit__ method)
+'%s' object does not support the asynchronous context manager protocol
+'%s' object does not support the context manager protocol
+unsupported operand type(s) for +: '%s' and '%s'
+unsupported operand type(s) for &: '%s' and '%s'
+unsupported operand type(s) for |: '%s' and '%s'
+unsupported operand type(s) for ^: '%s' and '%s'
+unsupported operand type(s) for divmod(): '%s' and '%s'
+unsupported operand type(s) for //: '%s' and '%s'
+unsupported operand type(s) for <<: '%s' and '%s'
+unsupported operand type(s) for %%: '%s' and '%s'
+unsupported operand type(s) for *: '%s' and '%s'
+unsupported operand type(s) for ** or pow(): '%s' and '%s'
+unsupported operand type(s) for >>: '%s' and '%s'
+unsupported operand type(s) for -: '%s' and '%s'
+unsupported operand type(s) for /: '%s' and '%s'
+unsupported operand type(s) for @: '%s' and 'int'
+unsupported operand type(s) for @: 'int' and '%s'
+unsupported operand type(s) for @: '%s' and 'float'
+unsupported operand type(s) for @: 'float' and '%s'
+unsupported operand type(s) for @: '%s' and '%s'
+unsupported operand type(s) for +=: '%s' and '%s'
+unsupported operand type(s) for &=: '%s' and '%s'
+unsupported operand type(s) for |=: '%s' and '%s'
+unsupported operand type(s) for ^=: '%s' and '%s'
+unsupported operand type(s) for //=: '%s' and '%s'
+unsupported operand type(s) for <<=: '%s' and '%s'
+unsupported operand type(s) for %%=: '%s' and '%s'
+unsupported operand type(s) for *=: '%s' and '%s'
+unsupported operand type(s) for **=: '%s' and '%s'
+unsupported operand type(s) for >>=: '%s' and '%s'
+unsupported operand type(s) for -=: '%s' and '%s'
+unsupported operand type(s) for /=: '%s' and '%s'
+unsupported operand type(s) for @=: '%s' and 'int'
+unsupported operand type(s) for @=: 'int' and '%s'
+unsupported operand type(s) for @=: '%s' and 'float'
+unsupported operand type(s) for @=: 'float' and '%s'
+unsupported operand type(s) for @=: '%s' and '%s'
+Can't instantiate abstract class %s with abstract method%s %s
+%s() got multiple values for argument '%s'
+ positional argument%s (and %zd keyword-only argument%s)
+%s() takes %zd positional argument%s but %zd%s were given
+%s() takes from %zd to %zd positional argument%s but %zd%s were given
+import %s # considering responsibility (find_spec)
+%s.__match_args__ must be a tuple (got %s)
+%s() accepts %d positional sub-pattern%s (%d given)
+__match_args__ elements must be strings (got %s)
+%s() got multiple sub-patterns for attribute %R
+cannot create method %s
+Cannot create compiled_ method from type '%s'
+'async for' requires an object with __aiter__ method, got %s
+'async for' received an object from __aiter__ that does not implement __anext__: %s
+'async for' received an invalid object from __aiter__: %s
+PyInitU_%s
+PyInit_%s
+import %s # LoadLibraryExW("%S");
+LoadLibraryExW '%S' failed with error code %d
+LoadLibraryExW '%S' failed: %s
+import %s # calling entrypoint
+import %s # return from entrypoint
+dynamic module '%s' not initialized properly
+import %s # entrypoint returned module def
+dynamic module '%s' not initialized properly from def
+import %s # executed module def
+Loaded %s
+Requested resource reader for unhandled module %s
+import %s # get_resource_reader (%s)
+Value after * must be an iterable, not %s
+attribute name must be string, not '%s'
+%s() takes 0 positional arguments but %zd was given
+unbound compiled_method %s%s must be called with %s instance as first argument (got nothing instead)
+calling %s should have returned an instance of BaseException, not %s
+exceptions must be classes or instances deriving from BaseException, not %s
+calling %s() should have returned an instance of BaseException, not '%s'
+exception causes must derive from BaseException (%s does not)
+%s.%S
+%s() got an unexpected keyword argument '%s'
+%s() got some positional-only arguments passed as keyword arguments: '%s'
+'>=' not supported between instances of '%s' and '%s'
+'>=' not supported between instances of '%s' and 'str'
+'>=' not supported between instances of 'str' and '%s'
+'>=' not supported between instances of '%s' and 'bytes'
+'>=' not supported between instances of 'bytes' and '%s'
+'>=' not supported between instances of '%s' and 'int'
+'>=' not supported between instances of 'int' and '%s'
+'>=' not supported between instances of '%s' and 'float'
+'>=' not supported between instances of 'float' and '%s'
+'>=' not supported between instances of '%s' and 'tuple'
+'>=' not supported between instances of 'tuple' and '%s'
+'>=' not supported between instances of '%s' and 'list'
+'>=' not supported between instances of 'list' and '%s'
+'>' not supported between instances of '%s' and '%s'
+'>' not supported between instances of '%s' and 'str'
+'>' not supported between instances of 'str' and '%s'
+'>' not supported between instances of '%s' and 'bytes'
+'>' not supported between instances of 'bytes' and '%s'
+'>' not supported between instances of '%s' and 'int'
+'>' not supported between instances of 'int' and '%s'
+Missing anon value for %d
+Missing special value for %d
+Missing decoding for %d
+'>' not supported between instances of '%s' and 'float'
+'>' not supported between instances of 'float' and '%s'
+'>' not supported between instances of '%s' and 'tuple'
+'>' not supported between instances of 'tuple' and '%s'
+'>' not supported between instances of '%s' and 'list'
+'>' not supported between instances of 'list' and '%s'
+'<=' not supported between instances of '%s' and '%s'
+'<=' not supported between instances of '%s' and 'str'
+'<=' not supported between instances of 'str' and '%s'
+'<=' not supported between instances of '%s' and 'bytes'
+'<=' not supported between instances of 'bytes' and '%s'
+'<=' not supported between instances of '%s' and 'int'
+'<=' not supported between instances of 'int' and '%s'
+'<=' not supported between instances of '%s' and 'float'
+'<=' not supported between instances of 'float' and '%s'
+'<=' not supported between instances of '%s' and 'tuple'
+'<=' not supported between instances of 'tuple' and '%s'
+'<=' not supported between instances of '%s' and 'list'
+'<=' not supported between instances of 'list' and '%s'
+'<' not supported between instances of '%s' and '%s'
+'<' not supported between instances of '%s' and 'str'
+'<' not supported between instances of 'str' and '%s'
+'<' not supported between instances of '%s' and 'bytes'
+'<' not supported between instances of 'bytes' and '%s'
+'<' not supported between instances of '%s' and 'int'
+'<' not supported between instances of 'int' and '%s'
+'<' not supported between instances of '%s' and 'float'
+'<' not supported between instances of 'float' and '%s'
+'<' not supported between instances of '%s' and 'tuple'
+'<' not supported between instances of 'tuple' and '%s'
+'<' not supported between instances of '%s' and 'list'
+'<' not supported between instances of 'list' and '%s'
+Loading %s
+import %s # execute module
+cannot locate package '%s' associated with metadata
+cannot reuse already awaited compiled_coroutine %S
+%Ml]
+%hWo 
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+%d bit pseudo relocation at %p out of range, targeting %p, yielding the value %p.
+Record of phased-in incompatible language changes.
+OptionalRelease records the first release in which
+Else MandatoryRelease records when the feature became part of the language;
+tkFontz
+tkinter.font
+httplibz
+http.serverz
+BaseHTTPServerz
+HTTPError)
+SimpleHTTPServer
+CGIHTTPServerrT
+SimpleHTTPRequestHandler)
+CGIHTTPRequestHandlerr
+$%H7ST:%U
+    http://speleotrove.com/decimal/decarith.html
+    http://en.wikipedia.org/wiki/IEEE_854-1987
+    Any occurrence of a mixed operation is silently recorded by setting
+z%Set this thread's context to context.N)
+Decimal('%s'))
+z%Swaps self/other and returns __mod__.rp
+z%Swaps self/other and returns __pow__.rp
+%djAoo
+Z%d$
+%s must be an integer
+%s must be in [%s, %d]. got: %srZ
+%s must be in [%d, %s]. got: %sz
+%s must be in [%d, %d]. got %s)
+%s must be a signal dictz
+%s is not a valid signal dict)
+%s: invalid rounding moderi
+z.'decimal.Context' object has no attribute '%s')
+%dD%
+%s cannot be deleted)
+Unable to convert %s to Decimal)
+<%s [closed]>
+<%s fd=%d mode=%r closefd=%r>)
+    records the types of newlines encountered.  When used with
+Z%d-d%
+can't write %s to text streamr
+W^^Ct^%D%D!E!E
+z!Type %s() to see the full %s text
+%s))
+%a %b %d %H:%M:%S %Yc
+stray %% in format '%s'z
+unconverted data remains: %sr>
+Z$e$Z%d
+"%d))
+    args.log.write('%s' % sum(args.integers))
+**%s
+%*s%s
+A#%D'*6{{Q
+[%s]T)
+(%s) z
+ (%s)z
+{%s}
+%srd
+[%s [%s ...]]z
+[%s ...]z
+%s [%s ...]r
+%s ...ru
+conflicting subparser: %sz
+conflicting subparser alias: %sr
+z%dest= is required for options like %rr
+_handle_conflict_%sz%invalid conflict_resolution value: %r)
+conflicting option string: %sz
+conflicting option strings: %sr!
+d%d 
+unrecognized arguments: %sr
+not allowed with argument %s)
+z(the following arguments are required: %sr!
+z#one of the arguments %s is requiredr
+expected %s argumentz
+expected %s argumentsrd
+unexpected option string: %s)
+(-*%s-*)z
+z3parse_intermixed_args: positional arg with nargs=%sr
+%<%<%D
+Z%d(
+1 %D
+a#d Z$d!Z%d:d"
+d%d&
+    https://docs.python.org/3.11/library/binascii.html#binascii.a2b_base64
+!%dIc
+z#bad base85 character at position %dz+base85 overflow in hunk starting at byte %dr4
+Nz"expected bytes-like object, not %s)
+z(expected 1-D data, not %d-D data from %s)
+Nzusage: %s [-h|-d|-e|-u|-t] [file|-]
+<td class="%s">&nbsp;</td>z
+<td class="%s">%d</td>)
+<tr>%s</tr>r
+        =<table border="0" cellpadding="0" cellspacing="0" class="%s">r
+z,<tr><th colspan="%d" class="%s">%s</th></tr>rH
+        Nz$<?xml version="1.0" encoding="%s"?>
+zn<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+zC<meta http-equiv="Content-Type" content="text/html; charset=%s" />
+z4<link rel="stylesheet" type="text/css" href="%s" />
+<title>Calendar for %d</title>
+Z&d%d
+        log("%s: %s", "a", "b")
+            for the page sending the form (content-type : meta http-equiv or
+fp must be file pointerz#outerboundary must be bytes, not %sr
+z%Dictionary style __contains__ method.Nr
+    Write minimal HTTP headers and dump all information provided to
+In addition, HTTP headers sent by the server may be passed in the
+<LI>HTTP_ACCEPT
+<LI>HTTP_CONNECTION
+<LI>HTTP_HOST
+<LI>HTTP_PRAGMA
+<LI>HTTP_REFERER
+<LI>HTTP_USER_AGENT
+<body bgcolor="#f0f0f8"><font color="#f0f0f8" size="-5"> -->
+<body bgcolor="#f0f0f8"><font color="#f0f0f8" size="-5"> --> -->
+</font> </font> </font> </script> </object> </blockquote> </pre>
+</table> </table> </table> </table> </table> </font> </font> </font>
+<font color="#909090">z
+</font>r
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br>
+<big><big><strong>zo</strong></big></big></font></td>
+<font color="#ffffff" face="helvetica, arial">z
+<br>z</font></td>
+</tt>z&<tr><td bgcolor="#ffccee">%s</td></tr>z
+<tr><td>%s</td></tr>rN
+<em>%s</em> r
+%s</table>
+recordsr 
+wz*%s contains the description of this error.z*Tried to save traceback to %s, but failed.z
+<p>%s</p>
+%s|~~
+*** No help on %s
+*** Unknown syntax: %s
+z list[i] not a string for i in %sz
+now exiting %s...
+Z%d&
+*z%Failed to load the builtin codecs: %s),
+Nz%<%s.%s object for encoding %s at %#x>)
+can't serialize %s
+Z%d%
+Conversion functions between RGB and other color systems.
+  rgb_to_abc(r, g, b) --> a, b, c
+  abc_to_rgb(a, b, c) --> r, g, b
+RGB: Red, Green, Blue components
+rgb_to_yiq
+yiq_to_rgb
+rgb_to_hls
+hls_to_rgb
+rgb_to_hsv
+hsv_to_rgbgUUUUUU?gUUUUUU?gUUUUUU?c
+[line %2d]: %s)
+file: %r, line: %d
+%1invalid interpolation syntax in %r at position %d
+%%(%s)s)
+"%D8
+Not a boolean: %s)
+_GeneratorContextManagerz%Helper for @contextmanager decorator.c
+__reduce__z%un(shallow)copyable object of type %s)
+z"un(deep)copyable object of type %s)
+ignorez-extrasaction (%s) must be 'raise' or 'ignore')
+use_last_error!unexpected keyword argument(s) %sc
+z"sizeof(%s) wrong: %d instead of %d)
+%s(<NULL>))
+<%s '%s', handle %x at %#x>r
+libpython%d.%d.dllr
+    z+This type does not support other endian: %s)
+RGBr7
+HFONT
+Z%d"
+See http://www.iana.org/time-zones/repository/tz-link.html for
+day must be in 1..%d)
+%s%02d:%02dz
+a%%d
+Nz4tzinfo.tzname() must return None or string, not '%s')
+year must be in %d..%dr
+;z$timedelta # of days is too large: %dr
+days=%dz
+seconds=%dz
+microseconds=%d
+%d:%02d:%02dc
+%d day%s, r
+Z%d!
+%s.%s(%d, %d, %d))
+%s %s %2d 00:00:00 %04d)
+        Example: "%d/%m/%Y, %H:%M:%S"
+must be str, not %sr
+        - http://www.w3.org/TR/NOTE-datetime
+        - http://www.cl.cam.ac.uk/~mgk25/iso-time.html
+        http://www.phys.uu.nl/~vgent/calendar/isocalendar.htm
+z%datetime -> string name of time zone.z&tzinfo subclass must override tzname()
+, %d, %dz
+, %drz
+%s.%s(%d, %d%s)Nr
+Z%d'
+%s %s %2d %02d:%02d:%02d %04d)
+%d&6&6uz&B&B&*4
+Z$e%d*k
+    ...     print("a[%d] and b[%d] match for %d elements" % block)
+    ...     print("%6s a[%d:%d] b[%d:%d]" % opcode)
+        ...    print(("%7s a[%d:%d] (%s) b[%d:%d] (%s)" %
+record_sub_infoz3_mdiff.<locals>._make_line.<locals>.record_sub_info
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <meta http-equiv="Content-Type"
+        table.diff {font-family:Courier; border:medium;}
+from%d_z
+to%d_r0
+zV            <tr><td class="diff_next"%s>%s</td>%s<td class="diff_next">%s</td>%s</tr>
+<thead><tr>z!<th class="diff_next"><br /></th>z+<th colspan="2" class="diff_header">%s</th>z
+Disassembly of %s:
+(don't know how to disassemble %s objects)
+Name:              %sz
+Filename:          %sz
+Argument count:    %sz
+Positional-only arguments: %sz
+Kw-only arguments: %sz
+Number of locals:  %sz
+Stack size:        %sz
+Flags:             %sz
+%4d: %sz
+%%%dd
+%d1gm
+       obs-utext = %d0 / obs-NO-WS-CTL / LF / CR
+    z%Missing MIME version number (eg: 1.0)r
+%dE67&*&=w
+"%s"r
+[%s]r
+Record 'defect' on 'obj'.
+%s: rq
+%MM$*=*.*=
+InvalidDateDefectz%Header has unparsable or invalid dateNr
+string payload expected: %s
+%%0%dd)
+ [%s])
+Expected list, got %sz
+"%s"Tr 
+%dDd
+HTTPz
+Nz"%s, %02d %s %04d %02d:%02d:%02d %s)
+    is needed for HTTP, and is only used when localtime==False.
+    RFC2822.  This is to support HTTP headers involving date stamps.
+<%d.%d.%d%s@%s>)
+Nz!Invalid date value or format "%s"rM
+"%s"Fz
+cp%s)
+d%d#
+%s5zz
+d%d$
+z Invalid extended code point '%s'r)
+begin %o %s
+invalid enum member name(s) %sr
+|%s)
+"!%D
+alias %s is missingz
+   %sz
+"%)*<*A*A*C*C%D%D
+to a backup file and standard output is directed to the input file.
+in place.  If the keyword argument backup=".<some extension>" is also
+given, it specifies the extension for the backup file, and the backup
+backupr
+FileInput([files[, inplace[, backup]]], *, mode=None, openhook=None)
+_backup
+_backupfilename
+backupfilenames
+%d: %s[%d]%s %s
+%d: %s[%d])
+Z$Z%d
+Fraction(%s, 0))
+%dnd6F
+Z%d5d
+got more than %d bytesz
+REST %sr
+MLSD %s
+    See:  https://en.wikipedia.org/wiki/Cache_replacement_policies#Least_recently_used_(LRU)
+J!%D
+    Adapted from https://www.python.org/download/releases/2.3/mro/.
+option --%s requires argumentr
+z%option --%s must not have an argumentr
+option --%s not recognizedFr6
+option --%s not a unique prefixr
+option -%s requires argumentr
+option -%s not recognized)
+    Always restores terminal settings before returning.
+INVALIDz invalid token in plural form: %s
+Nz#unexpected token in plural form: %sz
+%s%dd
+(%s)r8
+                return int(%s)
+%DNNNr%
+%dOO
+%s.mo)
+$%MT%M%M%M
+Z$e%d
+code for hash %s was not found.)
+T(^d8n%D%D
+z:block_size of %d seems too small; using our default of %d.
+z<No block_size attribute on given digest object; Assuming %d.
+</\s*%s\s*>)
+%HdI
+HTTPStatus
+HTTPMethodc
+HTTP status codes and reason phrases
+        * RFC 7231: Hypertext Transfer Protocol (HTTP/1.1), obsoletes 2616
+        * RFC 6585: Additional HTTP Status Codes
+        * RFC 3229: Delta encoding in HTTP
+        * RFC 4918: HTTP Extensions for WebDAV, obsoletes 2518
+        * RFC 2295: Transparent Content Negotiation in HTTP
+        * RFC 2774: An HTTP Extension Framework
+        * RFC 7725: An HTTP Status Code to Report Legal Obstacles
+        * RFC 7540: Hypertext Transfer Protocol Version 2 (HTTP/2)
+        * RFC 8297: An HTTP Status Code for Indicating Hints
+        * RFC 8470: Using Early Data in HTTP
+http.pyr
+HTTPStatus.__new__
+HTTP Version Not Supportedz
+HTTP_VERSION_NOT_SUPPORTED
+zHTTP methods and descriptions
+        * RFC 5789: PATCH Method for HTTP
+HTTPMethod.__new__
+HTTPMethod.__repr__
+HTTP/1.1 client library
+HTTPConnection goes through a number of "states", which define when a client
+      | HTTPConnection()
+Note: this enforcement is applied by the HTTPConnection class. The
+      HTTPResponse class does not enforce this state machine, which
+HTTPResponse
+HTTPConnection
+HTTPException
+http\client.py
+HTTPMessagec
+getallmatchingheadersz!HTTPMessage.getallmatchingheaders
+got more than %d headers
+HTTPResponse.__init__
+HTTP/r!
+HTTPResponse._read_status
+HTTP/1.0z
+HTTP/0.9
+HTTP/1.
+HTTPResponse.begin>
+HTTPResponse._check_close
+HTTPResponse._close_conn
+HTTPResponse.close
+HTTPResponse.flush
+HTTPResponse.readable
+HTTPResponse.isclosed
+HTTPResponse.read
+HTTPResponse.readinto
+_read_next_chunk_sizez"HTTPResponse._read_next_chunk_size
+_read_and_discard_trailerz&HTTPResponse._read_and_discard_trailer#
+HTTPResponse._get_chunk_left1
+HTTPResponse._read_chunkedI
+HTTPResponse._readinto_chunked_
+HTTPResponse._safe_readw
+HTTPResponse._safe_readinto
+HTTPResponse.read1
+HTTPResponse.peek
+HTTPResponse.readline
+HTTPResponse._read1_chunked
+HTTPResponse._peek_chunked
+HTTPResponse.fileno
+        If the headers are unknown, raises http.client.ResponseNotReady.
+HTTPResponse.getheader
+HTTPResponse.getheaders
+HTTPResponse.__iter__
+        When the method is HTTP, these headers are those returned by
+HTTPResponse.info
+        In some cases, the HTTP server redirects a client to another
+HTTPResponse.geturl
+zuReturn the HTTP status code that was sent with the response,
+        or None if the URL is not an HTTP URL.
+HTTPResponse.getcode
+HTTP/1.1rA
+HTTPConnection._is_textIO+
+_get_content_lengthz"HTTPConnection._get_content_length1
+_HTTPConnection__response
+_HTTPConnection__staterk
+HTTPConnection.__init__Q
+Set up host and port for HTTP CONNECT tunnelling.
+        In a connection that uses HTTP CONNECT tunneling, the host passed to the
+        the endpoint passed to `set_tunnel`. This done by sending an HTTP
+        This method must be called before the HTTP connection has been
+        The headers argument should be a mapping of extra HTTP headers to send
+HTTPConnection.set_tunnelg
+nonnumeric port: '%s'r
+HTTPConnection._get_hostport
+HTTPConnection.set_debuglevel
+HTTPConnection._wrap_ipv6
+CONNECT %s:%d HTTP/1.0
+HTTPConnection._tunnel
+http.client.connectrA
+HTTPConnection.connect
+z(Close the connection to the HTTP server.N)
+HTTPConnection.close
+http.client.sendz9data should be a bytes-like object or an iterable, got %r)
+HTTPConnection.send
+HTTPConnection._output
+HTTPConnection._read_readable
+_http_vsnrC
+HTTPConnection._send_output
+        `method' specifies an HTTP request method, e.g. 'GET'.
+_http_vsn_strrF
+HTTPConnection.putrequestO
+HTTPConnection._encode_request
+HTTPConnection._validate_method
+HTTPConnection._validate_path
+HTTPConnection._validate_host
+HTTPConnection.putheader
+HTTPConnection.endheaders
+HTTPConnection.request
+<genexpr>z/HTTPConnection._send_request.<locals>.<genexpr>
+HTTPConnection._send_request
+        If the HTTPConnection is in the correct state, returns an
+        instance of HTTPResponse or of whatever object is returned by
+        not be handled, ResponseNotReady is raised.  If the HTTP
+HTTPConnection.getresponseG
+HTTP_PORTr
+HTTPSConnectionz(This class allows communication via SSL.Nr
+http/1.1TzMcheck_hostname needs a SSL context with either CERT_OPTIONAL or CERT_REQUIRED)
+_create_default_https_contextrM
+HTTPSConnection.__init__
+HTTPSConnection.connect
+HTTPS_PORTr
+%s(%i bytes read%s))
+Nz&got more than %d bytes when reading %s)
+t%M(0)'<
+HTTP cookie handling for web clients.
+HTTP::Cookies, from the libwww-perl library.
+attributes of the HTTP cookie system as cookie-attributes, to distinguish
+http://wwwsearch.sf.net/):
+http.cookiejar)
+http\cookiejar.py
+HTTPOnlyz
+#HttpOnly_z
+# http://curl.haxx.se/rfc/cookie_spec.html
+http.cookiejar bug!
+    Nz#%s, %02d-%s-%04d %02d:%02d:%02d GMTr%
+    Wed, 09 Feb 1994 22:23:32 GMT       -- HTTP format
+    Tuesday, 08-Feb-94 14:15:29 GMT     -- old rfc850 HTTP format
+    Tuesday, 08-Feb-1994 14:15:29 GMT   -- broken rfc850 HTTP format
+    09 Feb 1994 22:23:32 GMT            -- HTTP format (no weekday)
+LOOSE_HTTP_DATE_REr~
+http2timer
+    As for http2time, but parses the ISO 8601 formats:
+    follow this syntax (BNF as from the HTTP/1.1 specification, but we relax
+"%s"
+    that Netscape Cookie headers contain.  Ronald Tschalar's HTTPClient
+nonnumeric port: '%s')
+DEFAULT_HTTP_PORT)
+%%%sr%
+zEEscape any invalid characters in HTTP URL, and uppercase all escapes.)
+HTTP_PATH_SAFE
+HTTP Cookie.
+rest=%sz
+rfc2109=%s
+https
+ - checking cookie %s=%sN)
+Nz0   Set-Cookie2 without version attribute (%s=%s)Fr
+$z'   illegal name (starts with '$'): '%s'FT)
+z7   path attribute %s is not a prefix of request path %sFT)
+N"   domain %s is in user block-listF&   domain %s is not in user allow-listr
+euz&   country-code second level domain %sr
+   bad port %s (not numeric)Fz$   request port (%s) not found in %sT)
+return_ok_versionz%DefaultCookiePolicy.return_ok_versionZ
+return_ok_expiresz%DefaultCookiePolicy.return_ok_expiresu
+z0   request port %s does not match cookie port %sFT)
+- checking cookie path=%sTr
+  %s does not path-match %sF)
+zCollection of HTTP cookies.
+    urllib.request.build_opener(HTTPCookieProcessor).open(url).
+Nz!Checking %s for cookies to returnz
+$Version=%sNr
+$Path="%s"r
+$Domain="%s"z
+="%s")
+z!   missing value for %s attribute)
+\s+z2Expiring cookie, domain='%s', path='%s', name='%s')
+extract_cookies: %sz
+ setting cookie: %sN)
+Set-Cookie3: %s
+    WARNING: you may want to backup your browser's cookies file if you use
+    domain as set in the HTTP header started with a dot (yes, I'm aware some
+HTTPONLY_PREFIX
+HTTPONLY_ATTRr
+   >>> from http import cookies
+HTTP_COOKIE environment variable.
+http\cookies.pyr
+[%s]+c
+timez#%s, %02d %3s %4d %02d:%02d:%02d GMT)
+HttpOnly
+httponly
+        document.cookie = "%s";
+%s=%drc
+        representation.  The VALUE is the value read from HTTP
+z"Return a string suitable for HTTP.)
+zLoad cookies from a string (presumably HTTP_COOKIE) or
+    received from HTTP are kept as strings.
+Z$d9Z%d=Z&
+imaplib version %sz
+new IMAP4 connection, tag=%s
+Unknown IMAP4 command: '%s')
+got more than %d bytes)
+(%s)Ns
+%s is not writable
+Unknown IMAP4 UID command: %s
+ {%s}T
+socket error: %srx
+write literal size %s)
+read literal size %sr
+%dMDM$,F
+%M:%Sz
+  %s.%02d %s
+last %d IMAP4 interactions:rx
+"%d-{}-%Y %H:%M:%S %z")
+PROTOCOL_VERSION = %sz
+%sz:(FLAGS INTERNALDATE RFC822.SIZE RFC822.HEADER RFC822.TEXT)z
+try: %s -d5
+rgbNr%
+test_rgbr1
+%dHd
+Z%d?d-
+%d.%dr8
+%d&=&?&?
+l$m%Z%m&Z&m'Z'm(Z(
+    <https://packaging.python.org/specifications/entry-points/>`_
+        (i.e. RECORD for dist-info or SOURCES.txt for egg-info) is
+make_filez%Distribution.files.<locals>.make_file
+        Read the lines of RECORD
+RECORD)
+z%Distribution._deps_from_requires_text
+z%DistributionFinder.find_distributions
+z%MetadataPathFinder.find_distributions
+%DQTIE
+    http://code.activestate.com/recipes/577452-a-memoize-decorator-for-instance-methods/
+z*%s() missing %i required %s argument%s: %s
+at least %dTz
+from %d to %dr
+z7 positional argument%s (and %d keyword-only argument%s)r]
+z5%s() takes %s positional argument%s but %d%s %s given
+zGet a list of records for a frame and all higher (calling) frames.
+    Each record contains a frame object, filename, line number, function
+zGet a list of records for a traceback's frame and all lower frames.
+z@Return a list of records for the stack above the caller's frame.r7
+zCReturn a list of records for the stack below the current exception.r
+z%Signature.__init__.<locals>.<genexpr>
+%d6+<&=&=
+z-%d (< 0) is not permitted as an IPv%d addressz2%d (>= 2**%d) is not permitted as an IPv%d address)
+Nz6%r (len %d != %d) is not permitted as an IPv%d address)
+%s/%d)
+%s is not a network objectz
+prefix length diff must be > 0z0prefix length diff %d is invalid for netblock %s)
+z;current prefixlen is %d, cannot have a prefixlen_diff of %d)
+Octet %d (> 255) not permitted)
+%s has host bits setr6
+z At least %d parts expected in %rrb
+z!At most %d colons permitted in %rz At most one '::' permitted in %rr
+JSON (JavaScript Object Notation) <https://json.org> is a subset of
+%s: line %d column %d (char %d))
+&:tf}%M
+Simple JSON <https://json.org> decoder
+Extensible JSON <https://json.org> encoder for Python data structures.
+%srR
+stacklevelzHformat() must be given exactly one %%char format specifier, %s not valid)
+) zIFormats val according to the currency settings
+zHParses a string as a normalized number according to the locale settings.r=
+zBParses a string as locale number according to the locale settings.rh
+z<Parses a string as a float according to the locale settings.)
+zAConverts a string to an integer according to the locale settings.)
+unknown locale: %s)
+ Tries to determine the default locale settings and returns
+Locale settings on startup:z
+   Encoding: z,Locale settings after calling resetlocale():r0
+z4Locale settings after calling setlocale(LC_ALL, ""):z
+,=%M
+LogRecord
+makeLogRecord
+getLogRecordFactory
+setLogRecordFactory
+    'Level %s' % level is returned.
+Level %s)
+    A LogRecord instance represents an event being logged.
+    LogRecord instances are created every time something is logged. They
+    using str(msg) % args to create the message field of the record. The
+    record also includes information such as when the record was created,
+        Initialize a logging record with interesting information.
+LogRecord.__init__$
+<LogRecord: 
+LogRecord.__repr__l
+        Return the message for this LogRecord.
+        Return the message for this LogRecord after merging any user-supplied
+LogRecord.getMessagep
+    Set the factory to be used when instantiating a log record.
+    a log record.
+_logRecordFactory)
+    Return the factory to be used when instantiating a log record.
+    Make a LogRecord whose attributes are defined by the specified dictionary,
+    a socket connection (which is sent as a dictionary) into a LogRecord
+recordr
+Nz(Formatting field not found in record: %s)
+invalid format: %sN
+    Formatter instances are used to convert a LogRecord to text.
+    Formatters need to know how a LogRecord is constructed. They are
+    responsible for converting a LogRecord to (usually) a string which can
+    knowledge of the LogRecord attributes - e.g. the default value mentioned
+    formatted into a LogRecord's message attribute. Currently, the useful
+    attributes in a LogRecord are described by:
+    %(created)f         Time when the LogRecord was created (time.time()
+    %(asctime)s         Textual time when the LogRecord was created
+    %(relativeCreated)d Time in milliseconds when the LogRecord was created,
+    %(message)s         The result of record.getMessage(), computed just as
+                        the record is emitted
+Style must be one of: %s
+%Y-%m-%d %H:%M:%Sz
+%s,%03dc
+        Return the creation time of the specified LogRecord as formatted text.
+        record. Otherwise, an ISO8601-like (or RFC 3339-like) format is used.
+        Check if the format uses the creation time of the record.
+        Format the specified record as text.
+        The record's attribute dictionary is used as the operand to a
+        are carried out. The message attribute of the record is computed
+        using LogRecord.getMessage(). If the formatting string uses the
+    A formatter suitable for formatting a number of records.
+        individual record.
+        Return the header string for the specified records.
+recordss
+        Return the footer string for the specified records.
+        Format the specified records and return the result as a string.
+    Filter instances are used to perform arbitrary filtering of LogRecords.
+    records as desired. The base filter class only allows events which are
+        Determine if the specified record is to be logged.
+        Returns True if the record should be logged, or False otherwise.
+        If deemed appropriate, the record may be modified in-place.
+        Determine if a record is loggable by consulting all the filters.
+        The default is to allow the record to be logged; any filter can veto
+        this and the record is then dropped. Returns a zero value if a record
+    records as desired. By default, no formatter is specified; in this case,
+    the 'raw' message as determined by record.message is logged.
+        Format the specified record.
+        Do whatever it takes to actually log the specified logging record.
+        Conditionally emit the specified logging record.
+        Wrap the actual emission of the record with acquisition/release of
+        the I/O thread lock. Returns whether the filter passed the record for
+        The record which was being processed is passed in to this method.
+    A handler class which writes logging records, appropriately formatted,
+        Emit a record.
+        If a formatter is specified, it is used to format the record.
+        The record is then written to the stream with a trailing newline.  If
+    A handler class which writes formatted logging records to disk files.
+        If stream is not open, current mode is 'w' and `_closed=True`, record
+logRecordFactory)
+        Set the factory to be used when instantiating a log record with this
+Manager.setLogRecordFactory[
+        logger.debug("Houston, we have a %s", "thorny problem", exc_info=True)
+        logger.info("Houston, we have a %s", "interesting problem", exc_info=True)
+        logger.warning("Houston, we have a %s", "bit of a problem", exc_info=True)
+        logger.error("Houston, we have a %s", "major problem", exc_info=True)
+        logger.critical("Houston, we have a %s", "major disaster", exc_info=True)
+        logger.log(level, "We have a %s", "mysterious problem", exc_info=True)
+        specialized LogRecords.
+z$Attempt to overwrite %r in LogRecord)
+makeRecordz
+Logger.makeRecord;
+        Low-level logging routine which creates a LogRecord and then calls
+        all the handlers of this logger to handle the record.
+        Call the handlers for the specified record.
+        This method is used for unpickled records received from a socket, as
+        Pass a record to all relevant handlers.
+Nz+No handlers could be found for logger "%s"
+Unrecognised argument(s): %s)
+        When opening a file for writing, the settings used by the
+    compression settings, as for LZMACompressor, LZMADecompressor and
+z%Mailcap file handling.  See RFC 1524.
+/etc/httpd/mime.typesz
+/etc/httpd/conf/mime.typesz
+/etc/apache2/mime.types$/usr/local/etc/httpd/conf/mime.typesz"/usr/local/lib/netscape/mime.typesr
+.mp3z
+.wavz
+.icoz
+image/vnd.microsoft.iconz
+.rgbz
+image/x-rgbz
+  %-25s %s)
+uid %sz
+a%%D
+%s,f%d=f[%d]
+f%d(v)r
+z"Failed to use fortranname from %s
+#%s#)
+applyrules: ignoring rule %s.
+%"*%M%'T
+Z%d^
+z;Failed to apply user defined f2cmap changes: %s. Skipping.
+%hhuz
+%hdz
+%huz
+\"%s\"z
+vars,getctype: function %s has no return value?!
+z2getctype: No C-type found in "%s", assuming void.
+z0getstrlength: function %s has no return value?!
+z;getstrlength: expected a signature of a string but got: %s
+(\*|:)zMgetstrlength:intent(hide): expected a string with defined length but got: %s
+.*?\b%s\b.*)
+%s#varname#_Dims[%d]=%s,
+, optional\n    Default: %sz
+ => %sz
+ : call-back functionz7getpydocsign: Could not resolve docsignature for "%s".
+'%s')
+F2PY_%s
+dims(%s)
+)=%d 
+=\"%s\"z
+debug-capi:%s=%%pz
+end of %srQ
+z.routsign2map: no c2buildvalue key for type %s
+                       " return value (index=%d, type=#ctype#)\n",capi_i);
+_checkzB    fprintf(stderr,"debug-capi:cb:#name#:%d:\n",return_value_len);z)#ctype# return_value,int return_value_lenz
+                " return value (index=%d, type=#ctype#)\n",capi_i);
+warning: empty body for %s
+      %s
+eAaCj%H
+        sprintf(errstring, "%s: "show, "("tcheck") failed for "name, slen(var), var);\
+        sprintf(errstring, "%s: "show, "("tcheck") failed for "name, var);\
+#error You need to install NumPy version 0.13 or higher. See https://scipy.org/install.html
+   see https://lists.gnu.org/archive/html/commit-hurd/2012-07/msg00180.html,
+fprintf(stderr, "try_pyarr_from_string(str='%s', len=%d, obj=%p)\n",
+fprintf(stderr,"string_from_pyobj(str='%s',len=%d,inistr='%s',obj=%p)\n",
+                "but got %s.\n",
+            "tot,opt,ext,siz,nofargs = %d(-%d), %zd, %zd, %zd, %zd, %d\n",
+pyarr_from_p_%s1z
+zh#define %s(v,dims) (PyArray_New(&PyArray_Type, 1, dims, NPY_STRING, NULL, v, 1, NPY_ARRAY_CARRAY, NULL)))
+append_needs: unknown need %s
+z2append_needs: expected list or string but got :%s
+AS)<)<gxPQ{%S%S
+z subroutine f2pyinit%s(setupfunc)z
+common %sz
+call setupfunc(%s)z
+z'static FortranDataDef f2py_%s_def[] = {
+(%s)z
+));z static void f2py_init_%s(void) {
+if (F2PyDict_SetItemString(d, "%s", tmp) == -1) return NULL;z
+\_z&\subsection{Common block \texttt{%s}}
+\item[]{{}\verb@%s@{}}
+--- %sz
+line=%s
+z6Flag sourcecodeform must be either 'fix' or 'free': %sz
+Line #%d in %s:"%s"
+interfacedz5(?P<before>[^"]*)\b%s\b\s*@\(@(?P<args>[^@]*)@\)@.*\Zr
+)z8crackline: could not resolve function call for line=%s.
+z"crackline:%d: No pattern for line
+z>crackline: groupcounter(=%s) is nonpositive. Check the blocks.
+%dEDL
+dependz"appenddecl: "%s" not implemented.
+d$d%d!
+zBanalyzeline: no group yet. Creating program group with name "%s".
+z&analyzeline: Creating module block %s
+zDanalyzeline: Creating additional interface block (groupcounter=%s).
+z,analyzeline: intent(callback) %s is ignored
+z=analyzeline: intent(callback) %s is already in argument list
+zManalyzeline: could not extract types pattern of implicit statement part "%s"
+zZanalyzeline: expected "<char>-<char>" instead of "%s" in range list of implicit statement
+z^analyzeline: expected "<char>-<char>" instead of "%s" in range list of implicit statement (2)
+z>analyzeline: implied-DO list "%s" is not supported. Skipping.
+z=Comment line in declaration "%s" is not supported. Skipping.
+localz0analyzeline: Not local=>use pattern found in %s
+E^B%7%7%=%=e%D%D
+z;updatevars: no name pattern found for entity=%s. Skipping.
+dimension(%s)
+z?updatevars: could not crack entity declaration "%s". Ignoring.
+z4cracktypespec: no kindselector pattern found for %s
+z4cracktypespec: no charselector pattern found for %s
+z'cracktypespec: no typename found in %s
+z'cracktypespec: no selector used for %s
+z,get_useparameters: mapping for %s not impl.
+%s_%ir
+%3AGGFOO%D%D%J%J5%Q%Q
+z6buildimplicitrules: no implicit rules for routine %s.
+z,_get_depend_dict: no dependence info for %s
+.*\b%s\br
+z'analyzevars: prefix (%s) were not used
+%d1gk&:
+z:determineexprtype: selected kind types not supported (%s)
+z%determineexprtype.<locals>.<listcomp>
+z>determineexprtype: could not determine expressions (%s) type.
+%C%C%C%I%I#PR(UX.%Y%Y
+(%s)r'
+ result (%s)r0
+! in %sr
+%s only:r
+isintent_%s)
+z7vars2fortran: Confused?!: "%s" is not defined in vars.
+z/vars2fortran: No definition for argument "%s".
+z-vars2fortran: No typespec for argument "%s".
+%s)z
+! This file was auto-generated with f2py (version:%s).
+! https://web.archive.org/web/20140822061353/http://cens.ioc.ee/projects/f2py2e
+    See https://github.com/numpy/numpy/pull/19388 for more information.
+Unknown option %s
+z Writing fortran code to file %s
+Z%d$d
+Z.d%d"
+https://numpy.org/doc/stable/f2py/index.html
+Creating build directory %s
+zFSignature file "%s" exists!!! Use --overwrite-signature to overwrite.
+Saving signatures to file "%s"
+%smodule.c
+%s-f2pywrappers.f)
+"%s"N
+z2All blocks must be python module blocks but got %sr)
+/%r!%d
+Unknown vendor: "%s"r#
+See https://numpy.org/doc/stable/f2py/buildtools/meson.html
+      integer(%d) s(*)
+Constructing F90 module support for "%s"...
+  Variables: %s
+z'static FortranDataDef f2py_%s_def[] = {z.\subsection{Fortran 90/95 module \texttt{%s}}
+\item[]{{}\verb@%s@{}}z
+--- %s
+z8void (*%s)(int*,npy_intp*,void(*)(char*,npy_intp*),int*)z6void (*)(int*,npy_intp*,void(*)(char*,npy_intp*),int*)z
+;z#subroutine %s(r,s,f2pysetdata,flag)z
+ allocate(d(%s))
+s(%s)r$
+end subroutine %sz
+char *%sz
+%s()
+z$subroutine f2pyinit%s(f2pysetupfunc)z
+external %sz
+call f2pysetupfunc(%s)z
+end subroutine f2pyinit%s
+Nz1var2fixfortran: No definition for argument "%s".
+typespecz/var2fixfortran: No typespec for argument "%s".
+%s(len=*)
+%sf2pywrapr
+external %sr!
+out=%sr9
+%h%&8
+z%See f2py2e/cb_rules.py: buildcallbackz
+    Building module "%s"...
+zKbuildmodule: Could not find the body of interfaced routine "%s". Skipping.
+buildmodule: unknown need %s.
+ltxz6%% This file is auto-generated with f2py (version:%s)
+z8C     This file is autogenerated with f2py (version:%s)
+z*    Fortran 77 wrappers are saved to "%s"
+%s-f2pywrappers2.f90z
+z8!     This file is autogenerated with f2py (version:%s)
+     &z*    Fortran 90 wrappers are saved to "%s"
+%s<'8'8'8
+z.        Constructing wrapper function "%s"...
+              %s
+          %s
+!8D!%d
++L+L%M%MuuUcOdOd
+- J3/21-007: Draft Fortran 202x. https://j3-fortran.org/doc/year/21/21-007.pdf
+%dioo&7&7
+d%d&d!'
+printf("c: %d\n",F_MODFUNC(#usemodulename#,#USEMODULENAME#,#realname#,#REALNAME#));
+Building use variable hooks for module "%s" (feature only for F90/F95)...
+z%Same as a + b, for a and b sequences.
+__getitem__!'%s' object can't be concatenated
+    z/'%s' object cannot be interpreted as an integerz'__length_hint__ must be integer, not %sr9
+str expected, not %s)
+bytes expected, not %s)
+Nz&invalid cmd type (%s, expected string))
+Nz&invalid fd type (%s, expected integer)r
+COM%sr'
+LPT%sr'
+Z%d+
+data must be str, not %s
+m#Z#m$Z$m%Z%m~Z~m
+)!%D
+pickle protocol must be <= %dr
+%s must return string or tupler
+z2Tuple returned by %s must have two to six elementsr
+z?can't pickle global identifier '%s.%s' using pickle protocol %i) r
+unsupported pickle protocol: %d)
+frame size > sys.maxsize: %d)
+z2BINBYTES exceeds system's maximum size of %d bytes
+z4BINUNICODE exceeds system's maximum size of %d bytesrz
+z5BINUNICODE8 exceeds system's maximum size of %d bytesrz
+z3BINBYTES8 exceeds system's maximum size of %d bytesr
+z4BYTEARRAY8 exceeds system's maximum size of %d bytes)
+unregistered extension code %d)
+%HVAY
+Z%d0
+latin-1z2expected %d bytes in a string1, but only %d remain)
+string4 byte count < 0: %dr[
+z2expected %d bytes in a string4, but only %d remain)
+z1expected %d bytes in a bytes1, but only %d remain)
+z#bytes4 byte count > sys.maxsize: %dz1expected %d bytes in a bytes4, but only %d remain)
+z#bytes8 byte count > sys.maxsize: %dz1expected %d bytes in a bytes8, but only %d remain)
+z'bytearray8 byte count > sys.maxsize: %dz5expected %d bytes in a bytearray8, but only %d remain)
+surrogatepassz9expected %d bytes in a unicodestring1, but only %d remain)
+z+unicodestring4 byte count > sys.maxsize: %dru
+z9expected %d bytes in a unicodestring4, but only %d remain)
+z+unicodestring8 byte count > sys.maxsize: %dru
+z9expected %d bytes in a unicodestring8, but only %d remain)
+long4 byte count < 0: %dz'not enough data in stream to read long4)
+      z%repeated name %r at indices %d and %dz%repeated code %r at indices %d and %dFc
+    opcode is an OpcodeInfo record, describing the current opcode.
+(MARK at %d)r
+(as %d)z
+z3tries to pop %d items from stack with only %d itemsz highest protocol among opcodes =z
+%DIOO
+d"d#d$d%d&d'
+Z%d<
+IronPythonz*failed to parse IronPython sys.version: %sr"
+Jythonz&failed to parse Jython sys.version: %s
+PyPyz$failed to parse PyPy sys.version: %sz'failed to parse CPython sys.version: %s
+Z%d!d 
+USER %s
+PASS %srQ
+LIST %s
+RETR %s
+DELE %srQ
+RPOP %srQ
+UIDL %s
+Message %d:z
+"V_%@%M
+{%s}r
+[%s]z
+(%s,))
+(%s)r
+Invalid timing data %s
+r"R%yy1A1AO
+(%d primitive calls)z
+%d/%dz
+%St{
+    Each instance records a list of tuple-indices (from most significant
+%s:%d(%s))
+File "%s"z
+all_tasks_done
+unfinished_tasks
+        The count of unfinished tasks goes up whenever an item is added to the
+        When the count of unfinished tasks drops to zero, join() unblocks.
+        To create code that needs to wait for all queued tasks to be
+l%m&Z'
+z(empty range for randrange() (%d, %d, %d)z
+        http://en.wikipedia.org/wiki/Triangular_distribution
+l%Z%d
+[%s]
+(to %d)z
+%*d%s 
+d d!d"d#d$d%d&d'd(d)d*
+%s at position %d
+%s (line %d, column %d))
+Z<d%S
+too many groupsz7redefinition of group name %r as group %d; was group %d)
+missing %s, unterminated namer
+z-bad character in group name %a at position %d
+incomplete escape %s
+.octal escape value %s outside of range 0-0o377
+bad escape %s)
+invalid group reference %dr
+z"Possible nested set at position %dr
+Possible set %s at position %d
+unionz&Possible set difference at position %drw
+-bad character in group name %s at position %dr
+/%HUOO
+array('%s')z
+array('%s', [
+<%s instance at %#x>r
+https://peps.python.org/pep-0506/
+%d&:&:7&C&C
+shlex: popping to %s, line %dr
+z%shlex: I see whitespace in word statez&shlex: I see punctuation in word statez
+!!%DJ
+"%s", line %d: )
+Z%dud
+`%s` is a named pipe
+shutil.moveNz$Destination path '%s' already existsz
+creating %sz
+w|%s
+z#creating '%s' and adding '%s' to it
+adding '%s')
+The %s object is not callablez!extra_args needs to be a sequencer6
+unknown archive format '%s'N)
+changing into '%s'z
+changing back to '%s')
+z!%s is already registered for "%s"z*The registered function must be a callableN)
+%s is not a zip file
+Nz/%s is not a compressed or uncompressed tar filerT
+e'e%d
+z*Valid name, no data record requested type.i*
+Fz,<%s.%s%s fd=%i, family=%s, type=%s, proto=%iz
+, laddr=%sz
+, raddr=%s
+%dkkmm[
+%dkkmm
+    None. port is a string service name such as 'http', a numeric port number or
+On the other hand, if you are building e.g. an HTTP server, where all
+        self.timeout. If you need to do periodic tasks, do them in
+WV^%D%D
+m%Z%m&Z&m'Z'm(Z(m)Z)m*Z*m+Z+m,Z,m-Z-m.Z.
+http://www.iana.org/assignments/tls-parameters/tls-parameters.xml#tls-parameters-6
+ALERT_DESCRIPTION_BAD_RECORD_MAC
+ALERT_DESCRIPTION_RECORD_OVERFLOW
+_TLSContentTypez@Content types (record layer)
+Z!d Z"d!Z#d"Z$d#Z%d$S
+BAD_RECORD_MAC
+RECORD_OVERFLOW
+zCreate a SSLContext object with default settings.
+    NOTE: The protocol and settings may change anytime without prior
+    objects in order to keep common settings in one place. The configuration
+Can't dup() %s instances)
+z3non-zero flags not allowed in calls to send() on %s)
+Nz%sendto not allowed on instances of %s)
+Nz&sendmsg not allowed on instances of %s
+z6non-zero flags not allowed in calls to sendall() on %s
+z3non-zero flags not allowed in calls to recv() on %s)
+z8non-zero flags not allowed in calls to recv_into() on %s)
+Nz'recvfrom not allowed on instances of %s)
+Nz,recvfrom_into not allowed on instances of %s)
+Nz&recvmsg not allowed on instances of %srU
+Nz+recvmsg_into not allowed on instances of %srU
+    in ``"%b %d %H:%M:%S %Y %Z"`` strptime format (C locale).
+ %d %H:%M:%S %Y GMTNr
+_create_default_https_contextr
+Z"e"Z#d Z$d!Z%d"Z&d#Z'd$Z(d!Z)d"Z*d#Z+d%Z,d&Z-d'Z.d
+%DAq
+initial type T is boolz"don't know how to coerce %s and %s)
+z%mean requires at least one data point)
+z.Invalid placeholder in string: line %d, col %d)
+d%d0
+m Z m!Z!m"Z"m#Z#m$Z$m%Z%m&Z&m'Z'm(Z(m)Z)
+.z)Command '%s' died with unknown signal %d.z.Command '%s' returned non-zero exit status %d.)
+%s(%d))
+    optimization settings in sys.flags.r
+    settings in sys.flags, sys.warnoptions and sys._xoptions.
+}$|%d
+|%d!|
+subprocess %s is still running)
+cmd.exez:shell not found: neither %ComSpec% nor %SystemRoot% is setz
+%dj)2G
+%dk93G
+%s r
+d#d#d$d$d%d&d!d"
+d'd'd(d(d%d&d!d"
+Z%d2e
+Z%dUd3
+Z%dG
+Z3d%S
+<%s %r at %#x>)
+%s may not be Nonez
+%dsr=
+records
+z1Decode a single field from a pax record.
+RECORDSIZEr
+%d,%dz
+%d-%02d-%02d %02d:%02d:%02dr
+tarfile: %sN)
+$T%;%;G%D%D%/
+0x%X: %sz
+%s is closedNz
+%SYSTEMROOT%\Tempz
+z)No usable temporary directory found in %s)
+(%s+)z
+Nz)<%s %s.%s object owner=%r count=%d at %s>
+<Condition(%s, %d)>)
+#%DK
+Thread-%dz
+ %sr
+Dummy-%dTr
+_stmt()z%stmt is neither a string nor callable)
+%.*g %s)
+raw times: %sz
+z"%d loop%s, best of %d: %s per looprh
+Z%dsd
+{%s}z
+Z#d Z$d!Z%d"Z&d#Z'd$Z(d%Z)d&S
+zNReturn a tuple of integer RGB values in range(65536) for color in this widget.r
+rgbrL
+winfo_rgbz
+Misc.winfo_rgb
+idletasksNrp
+update_idletasksz
+Misc.update_idletasks^
+z%Misc.place_slaves.<locals>.<listcomp>
+-%sN)
+Z$e$Z%d%d
+Z*e*Z+d%d
+Z,e,Z-d%d
+Z2e2Z3d%d
+Z4e4Z5d%d
+        explicitly.  DEFAULT can be the relative path to a .ico file
+        (example: root.iconbitmap(default='myicon.ico') ).  See Tk
+.%s.tclz
+.%s.pyrL
+%D9-1-F
+!%s%drE
+            disabledforeground, font, foreground
+        file. Valid options: colormap, colormode, file, fontmap,
+        disabledforeground, fg, font, foreground, height,
+        exportselection, fg, font, foreground, highlightbackground,
+            disabledforeground, font, foreground,
+        exportselection, fg, font, foreground, height, highlightbackground,
+        disabledforeground, fg, font, foreground, postcommand, relief,
+        bg, borderwidth, command, cursor, digits, fg, font, foreground, from,
+            exportselection, font, foreground,
+%dgll47G&D&D
+        as all the insert and delete commands that are recorded
+%M')
+            cursor, exportselection, font, foreground,
+zRecords x and the current view in the spinbox window;
+            borderwidth, cursor, font, foreground,
+Records x and y for the sash given by index;
+This is Tcl/Tk %s
+%d (%s)z8TokenInfo(type=%s, string=%r, start=%r, end=%r, line=%r))
+read_or_stopz%detect_encoding.<locals>.read_or_stopC
+%s:%d:%d: error: %sz
+error: %srZ
+%d,%d-%d,%d:
+unexpected error: %s)
+HHS$%H
+%5d   %3d%%   %s   (%s)
+z"Can't save counts files because %srC
+%s(%d): %sr1
+d$d%d
+Z%d"Z&
+%m&:&@&@&B&B
+!Y-2H%H%H
+!Y-2D%D%D
+ SY[[[[[[%.Yty/G%H%HN#,9TZ-B#C#CL#*>,+F#GL&),&7&7#l>Q>Q>S>S:T:T&TO"&)":_"LK#.
+#&>!#4#;#;%d#;#S#S
+%+.1f %sz
+%.1f %si
+%+.0f %sz
+%.0f %si
+%s: size=%s, count=%iF
+, average=%s)
+Nz %s: size=%s (%s), count=%i (%+i)FTr+
+    %s)
+<Traces len=%s>)
+%dn*<
+        z)filters must be a list of filters, not %sc
+    argument types, see https://github.com/python/cpython/issues/86361.
+!%m!4!4
+%DOOO
+%d3ii
+$%MPS%S
+    At runtime, this decorator records its arguments in the
+HTTPError is an exception class that is also a valid HTTP response
+instance.  It behaves this way because HTTP protocol errors are valid
+HTTPError
+<urlopen error %s>)
+zBRaised when HTTP error occurs, but also acts like non-error returnc
+_HTTPError__super_init)
+HTTPError.__init__'
+HTTP Error 
+HTTPError.__str__1
+<HTTPError r"
+HTTPError.__repr__4
+HTTPError.reason9
+HTTPError.headers=
+HTTPError.headersA
+shttp
+z%Specifies URL scheme for the request.z0
+*%%d
+m Z m!Z!m"Z"m#Z#m$Z$m%Z%m&Z&m'Z'm(Z(
+HTTPHandler performs HTTP GET and POST requests and deals with
+non-error returns.  The HTTPRedirectHandler automatically deals with
+HTTP 301, 302, 303, 307, and 308 redirect errors, and the
+HTTPDigestAuthHandler deals with digest authentication.
+urllib.  pass the url and optionally data to post to an HTTP URL, and
+OSError); for HTTP errors, raises an HTTPError, which can also be
+state can be as simple as the URL.  It can also include extra HTTP
+authinfo = urllib.request.HTTPBasicAuthHandler()
+                      uri='https://mahler:8092/site-updates.py',
+proxy_support = urllib.request.ProxyHandler({"http" : "http://ahad-haam:3128"})
+f = urllib.request.urlopen('https://www.python.org/')
+HTTPDefaultErrorHandler
+HTTPRedirectHandler
+HTTPCookieProcessor
+HTTPPasswordMgr
+HTTPPasswordMgrWithDefaultRealm
+HTTPPasswordMgrWithPriorAuth
+HTTPBasicAuthHandler
+HTTPDigestAuthHandler
+HTTPHandler
+HTTPErrorProcessor
+%d.%d
+    urllib.request module uses HTTP/1.1 and includes a "Connection:close"
+    header in its HTTP requests.
+    global default timeout setting will be used). This only works for HTTP,
+    HTTPS and FTP connections.
+    the various SSL options. See HTTPSConnection for more details.
+    certificates for HTTPS requests. cafile should point to a single file
+    For HTTP and HTTPS URLs, this function returns a http.client.HTTPResponse
+    headers as it is specified in the documentation for HTTPResponse.
+    In addition, if proxy settings are detected (for example, when a *_proxy
+    environment variable like http_proxy is set), ProxyHandler is default
+http/1.1)
+HTTPSHandlerr3
+https_handler
+    data file as well as the resulting HTTPMessage object.
+z3Return a string indicating the HTTP request method.N
+https)
+Python-urllib/%sz
+httpr
+http_error_%sr_
+http_error_default)
+http_err
+    for HTTP, FTP and when applicable HTTPS.
+HTTPSConnection)
+Process HTTP error responses.i
+http_responsez HTTPErrorProcessor.http_responset
+https_responser
+z*HTTPDefaultErrorHandler.http_error_default
+        This is called by the http_error_30x methods when a
+        take place, return a new Request to allow http_error_30x to
+        perform the redirect.  Otherwise, raise HTTPError if no-one
+<dictcomp>z8HTTPRedirectHandler.redirect_request.<locals>.<dictcomp>
+z$HTTPRedirectHandler.redirect_request
+http_error_302z"HTTPRedirectHandler.http_error_302
+zoThe HTTP server returned a redirect error that would lead to an infinite loop.
+http_error_301
+http_error_303
+http_error_307
+http_error_308r\
+%s_openc
+HTTPPasswordMgr.__init__D
+<genexpr>z/HTTPPasswordMgr.add_password.<locals>.<genexpr>N
+HTTPPasswordMgr.add_passwordG
+find_user_passwordz"HTTPPasswordMgr.find_user_passwordR
+%s:%d)
+HTTPPasswordMgr.reduce_uri\
+HTTPPasswordMgr.is_suburis
+z2HTTPPasswordMgrWithDefaultRealm.find_user_password
+z%HTTPPasswordMgrWithPriorAuth.__init__
+z)HTTPPasswordMgrWithPriorAuth.add_password
+z1HTTPPasswordMgrWithPriorAuth.update_authenticated
+z-HTTPPasswordMgrWithPriorAuth.is_authenticated
+retry_http_basic_authrD
+http_error_auth_reqedz.AbstractBasicAuthHandler.http_error_auth_reqed
+z.AbstractBasicAuthHandler.retry_http_basic_auth
+http_requestz%AbstractBasicAuthHandler.http_request
+z&AbstractBasicAuthHandler.http_response
+https_requestr6
+http_error_401z#HTTPBasicAuthHandler.http_error_401
+http_error_407z$ProxyBasicAuthHandler.http_error_407)
+zEAbstractDigestAuthHandler does not support the following scheme: '%s')
+retry_http_digest_authrD
+z/AbstractDigestAuthHandler.http_error_auth_reqedO
+Digest %srU
+parse_http_list
+z0AbstractDigestAuthHandler.retry_http_digest_authc
+qop '%s' is not supported.z
+, opaque="%s"z
+, digest="%s"z
+, algorithm="%s"z
+z$HTTPDigestAuthHandler.http_error_401
+z%ProxyDigestAuthHandler.http_error_407
+AbstractHTTPHandlerr
+AbstractHTTPHandler.__init__
+set_http_debuglevelz'AbstractHTTPHandler.set_http_debuglevel
+z'AbstractHTTPHandler._get_content_length
+AbstractHTTPHandler.do_request_
+zReturn an HTTPResponse object for the request, using http_class.
+        http_class must implement the HTTPConnection API from http.client.
+z/AbstractHTTPHandler.do_open.<locals>.<dictcomp>)
+z/AbstractHTTPHandler.do_open.<locals>.<dictcomp>6
+http_classr
+http_conn_argsr
+AbstractHTTPHandler.do_open
+http_openz
+HTTPHandler.http_open`
+HTTPSHandler.__init__i
+https_openz
+HTTPSHandler.https_openn
+HTTPCookieProcessor.__init__w
+z HTTPCookieProcessor.http_request}
+z!HTTPCookieProcessor.http_response
+unknown url type: %s)
+<listcomp>z#parse_http_list.<locals>.<listcomp>
+usegmtz6Content-type: %s
+Content-length: %d
+Last-modified: %s
+Content-type: %s
+text/plain;charset=US-ASCIIz$Content-type: %s
+zdAdd a header to be used by the HTTP interface only
+invalid proxy for %sr
+Make an HTTP connection using connection_class.
+        open_http() or open_https().
+          HTTPConnection instance.
+http errorrA
+Basic %sr1
+z$http protocol error: bad status liner0
+http:)
+http_errorrs
+http_connrt
+_open_generic_httpz
+URLopener._open_generic_httpO
+Use HTTP protocol.)
+open_httpz
+URLopener.open_http
+zHandle http errors.
+        named http_error_DDD where DDD is the 3-digit error code.z
+http_error_%d)
+URLopener.http_error
+URLopener.http_error_default
+_https_connectionz
+URLopener._https_connection
+Use HTTPS protocol.)
+open_httpsz
+URLopener.open_https
+z6Content-Type: %s
+Content-Length: %d
+./zAlocal file url may start with / or file:. Unknown url of type: %sz#local file error: not on local host)
+Content-Type: %s
+Date: %sz
+%a, %d %b %Y %H:%M:%S GMTz
+Content-type: %sr
+%dkk'&:&:
+z!FancyURLopener.http_error_defaultd
+http_error_500r&
+FancyURLopener.http_error_302h
+z( Redirection to url '%s' is not allowed.)
+FancyURLopener.http_error_301
+FancyURLopener.http_error_303
+FancyURLopener.http_error_307
+FancyURLopener.http_error_308
+FancyURLopener.http_error_401
+FancyURLopener.http_error_407
+http://r
+retry_proxy_http_basic_authz*FancyURLopener.retry_proxy_http_basic_auth
+https://r
+retry_proxy_https_basic_authz+FancyURLopener.retry_proxy_https_basic_auth
+z$FancyURLopener.retry_http_basic_auth
+retry_https_basic_authz%FancyURLopener.retry_https_basic_auth
+%DHLL
+    proxy_settings come from _scproxy._get_proxy_settings or get mocked ie:
+proxy_settingsr
+    Internet settings proxy override registry value.
+_get_proxy_settings
+        Checks proxy settings gathered from the environment, if specified,
+N;Software\Microsoft\Windows\CurrentVersion\Internet Settings
+http={0};https={0};ftp={0}r_
+internetSettings
+        Returns settings gathered from the environment, if specified,
+http.clientr
+Warning: %s
+(%s)c
+  %s
+    %s
+?%D$
+NN,C%D%D
+    The 'record' argument specifies whether warnings should be captured by a
+recordrD
+zSpecify whether to record warnings and if an alternative module
+_recordr
+record=Truer
+https://peps.python.org/pep-0205/
+<%s at %#x>
+<%s object at %#x; dead>z!<%s object at %#x; for %r at %#x>)
+expected 0, 1, or 2, got %sc
+openURL(%s%action)rB
+WAYLAND_DISPLAYz$xdg-settings get default-web-browser)
+open location "%s"
+toWindow %dr"
+OpenURL "%s"z
+                   tell application "%s"
+                       open location "%s"
+zDUsage: %s [-n | -t] url
+expected an Element, not %s)
+ns%dr
+<!--%s-->
+<?%s?>r
+basefontc
+$http://www.w3.org/XML/1998/namespacez
+    http://www.iana.org/assignments/character-sets
+Expat %d.%d.%d)%
+z'undefined entity %s: line %d, column %d
+z+{http://www.w3.org/XML/1998/namespace}space
+    Read the ZIP64 end-of-archive records and use that to update endrec
+zReturn data from the "End of Central Directory" record, or None.
+    record followed by a tenth item, the file seek offset of this record.r
+ compress_type=%sr-
+z"Corrupt extra field %04x (size=%d)r!
+compression type %d (%s)z
+compression type %d)
+%d-%02d-%02d %02d:%02d:%02dNr&
+%-46s %s %12d)
+pwd: expected bytes, got %sN)
+comment: expected bytes, got %sr
+z3Archive comment is too long; truncating to %d bytesr"
+_write_end_recordr
+ZipFile._write_end_record~
+"+U-@'7"')]I"%h--
+%dgnnS&9&9
+aRGBA
+aRGB
+  https://creativecommons.org/publicdomain/zero/1.0/
+u%s.__prepare__() must return a mapping, not %s
+argb_mask
+argba_mask
+l wAaRGBA
+w1wLwPaRGB
+argb
+w<wIadds_rgb
+aBC7_UNORM_SRGB
+aR8G8B8A8_UNORM_SRGB
+https://creativecommons.org/publicdomain/zero/1.0/
+lFlGlHaBC1_UNORM_SRGB
+lKaBC2_UNORM_SRGB
+lNaBC3_UNORM_SRGB
+l[aB8G8R8A8_UNORM_SRGB
+l]aB8G8R8X8_UNORM_SRGB
+cRGBG
+cGRGB
+aMULTI2_ARGB8
+aDDS_RGB
+aDDS_RGBA
+aDXGI_FORMAT_R8G8B8A8_UNORM_SRGB
+aDXGI_FORMAT_BC7_UNORM_SRGB
+aDdsRgbDecoder
+uDdsRgbDecoder.decode
+c%%%%BoundingBox: 0 0 %d %d
+c%%ImageData: %d %d 
+c%d %d 0 1 1 "%s"
+c/buf %d string def
+c%d %d scale
+c%d %d 8
+c[%d 0 0 -%d 0 %d]
+aPreviewSettingsName
+aPreviewSettingsDigest
+The format value is 0 for DXT1 compressed textures and 1 for 24-bit RGB
+aRGB_ALWAYS
+aRGB_AFTER_DIFFERENT_PALETTE_ONLY
+a_rgb
+uGifImageFile._seek.<locals>._rgb
+    :param palette_bytes: Unpadded palette bytes, in RGBRGB form
+ucannot add non-opaque RGBA color to RGB palette
+aRGB_AFTER_FIRST
+argba
+argb1
+argb0
+ucannot handle HSV colour space
+    Read a 32bit RGB icon resource.  Seems to be either uncompressed or
+.PIL.IcoImagePlugin
+uPIL.IcoImagePlugin
+    PIL read-only image support for Microsoft Windows .ico files.
+    image to "RGBA" mode before saving.
+    https://code.google.com/archive/p/casadebender/wikis/Win32IconImagePlugin.wiki
+u.ico
+wxu<module PIL.IcoImagePlugin>
+uRGB;L
+uRGB;T
+uImage size (x*y): %d*%d
+uRGB image
+uRGB3 image
+uRGBA image
+uRGBX image
+uRGBA;L
+uRGBX;L
+wFaRGB
+aRGBX
+    images that contain grayscale data, and "RGB" for images that
+    :returns: "L" or "RGB".
+uImporting %s
+weuImage: failed to import %s: %s
+uError closing: %s
+u<%s.%s image mode=%s size=%dx%d at 0x%X>
+u<%s.%s image mode=%s size=%dx%d>
+wPaRGB
+wLaRGB
+aRGBa
+uPalette images with Transparency expressed in bytes should be converted to RGBA images
+asRGB
+        This supports all possible conversions between "L", "RGB" and "CMYK". The
+        ``matrix`` argument only supports "L" and "RGB".
+        The default method of converting a grayscale ("L") or "RGB"
+        When converting from "RGBA" to "P" without a ``matrix`` argument,
+        When converting from "PA", if an "RGBA" palette is present, the alpha
+           mode "RGB" to "P" or from "RGB" or "L" to "1".
+        :param palette: Palette to use when converting from mode "RGB"
+uFast Octree (method == 2) and libimagequant (method == 3) are the only valid methods for quantizing RGBA images
+uonly RGB or L mode images can be quantized to a palette
+                       The exception to this is RGBA images. :data:`Quantize.MEDIANCUT`
+                       and :data:`Quantize.MAXCOVERAGE` do not support RGBA images, so
+        For example, ``getbands`` on an RGB image returns ("R", "G", "B").
+        The colors will be in the image's mode. For example, an RGB image will
+           value (e.g. 0 to get the "R" band from an "RGB" image).
+        example, the histogram for an "RGB" image contains 768 values).
+        with the given color.  When creating RGB images, you can
+        indicated by the mask. You can use either "1", "L", "LA", "RGBA"
+        or "RGBa" images (if present, the alpha band is used as mask).
+        does not have an alpha layer, it's converted to "LA" or "RGBA".
+        For example, if the raw mode is "RGB", then it can contain at most 768
+        If the raw mode is "RGBA", then it can contain at most 1024 values,
+        :param rawmode: The raw mode of the palette. Either "RGB", "RGBA", or a mode
+           that can be transformed to "RGB" or "RGBA" (e.g. "R", "BGR;15", "RGBA;L").
+        multi-band images. In addition to this, RGB and RGBA tuples are
+        splitting an "RGB" image creates three new images each
+          (0 for "R" channel of "RGB") or channel name
+          ("A" for alpha channel of "RGBA").
+       per band).  When creating RGB or HSV images, you can also use color
+    share memory; supported modes include "L", "RGBX", "RGBA", and "CMYK".
+        im = Image.fromarray(a, mode="RGB")
+    :param im1: The first image. Must have mode RGBA.
+    :param im2: The second image.  Must have mode RGBA, and the same size as
+       "1", "L", or "RGBA", and must have the same size as the
+wLwPaRGBX
+asrgb
+    to handle that mode.  I.e., if converting im from RGB to CMYK using
+    profiles, the input profile must handle RGB data, and the output
+    :param outputMode: A valid PIL mode for the output image (i.e. "RGB",
+    i.e. "RGB", "RGBA", "CMYK", etc.).
+    images using the same input/output settings, this can save you time.
+        also supports (i.e. "RGB", "RGBA", "CMYK", etc.)
+    color format (PIL mode, i.e. "RGB", "RGBA", "CMYK", etc.).
+    If colorSpace not in ``["LAB", "XYZ", "sRGB"]``,
+        Currently only "LAB", "XYZ", and "sRGB" are supported.
+        profiles, and is ignored for XYZ and sRGB.
+    https://www.cazabon.com
+    pyCMS home page:  https://www.cazabon.com/pyCMS
+    littleCMS home page:  https://www.littlecms.com
+uLiteral['LAB', 'XYZ', 'sRGB']
+agetrgb
+nurgb\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)$
+urgb\(\s*(\d+)%\s*,\s*(\d+)%\s*,\s*(\d+)%\s*\)$
+ahls_to_rgb
+ahsv_to_rgb
+urgba\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)$
+     Convert a color string to an RGB or RGBA tuple. If the string cannot be
+argb_to_hsv
+    Same as :py:func:`~PIL.ImageColor.getrgb` for most modes. However, if
+    ``mode`` is HSV, converts the RGB value to a HSV value, or if ``mode`` is
+    not color or a palette image, converts the RGB value to a grayscale value.
+argb_tuple
+wmahls_to_rgb
+argb_floats
+w1wPwIwFw1afontmode
+        :param mode: Optional mode to use for color values.  For RGB
+           images, this argument can be RGB or RGBA (to blend the
+afont
+aImageFont
+        Get the current default font.
+        To set the default font for this ImageDraw instance::
+            from PIL import ImageDraw, ImageFont
+            draw.font = ImageFont.truetype("Tests/fonts/FreeMono.ttf")
+        To set the default font for all future ImageDraw instances::
+            ImageDraw.ImageDraw.font = ImageFont.truetype("Tests/fonts/FreeMono.ttf")
+        If the current default font is ``None``,
+        it is initialized with ``ImageFont.load_default()``.
+        :returns: An image font.
+agetfont
+uEmbedded color supported only in RGB and RGBA modes
+a_getfont
+afont_size
+    :param mode: Optional mode to use for color values.  For RGB
+       images, this argument can be RGB or RGBA (to blend the
+unot enough values to unpack (expected at least 1, got %d)
+uImageFont.ImageFont | ImageFont.FreeTypeFont | ImageFont.TransposedFont | None
+uImageFont.ImageFont | ImageFont.FreeTypeFont | ImageFont.TransposedFont
+uImageDraw.getfont
+uImageDraw._getfont
+uStores a TrueType font and color
+aFont
+uFont.__init__
+    Kernels can only be applied to "L" and "RGB" images.
+    <https://www.mia.uni-saarland.de/Publications/gwosdek-ssvm11.pdf>
+    .. _digital unsharp masking: https://en.wikipedia.org/wiki/Unsharp_masking#Digital_unsharp_masking
+.PIL.ImageFont
+a_load_pilfont_data
+cPILfont
+uNot a PILfont file
+l(uinvalid font image mode
+        If the font uses antialiasing, the bitmap should have mode ``L`` and use a
+ufont size must be greater than 0
+uFreeTypeFont.__init__.<locals>.load_from_bytes
+afont_bytes
+        :return: A tuple of the font family (e.g. Helvetica) and the font style
+        :return: A tuple of the font ascent (the distance from the baseline to
+        in font with provided direction, features, and language.
+        Text bounding box may extend past the length in some fonts,
+          hello = font.getlength("Hello")
+          world = font.getlength("World")
+          assert hello_world == font.getlength("HelloWorld")  # may fail
+          hello = font.getlength("HelloW") - font.getlength("W")  # adjusted for kerning
+          assert hello_world == font.getlength("HelloWorld")  # True
+          hello = draw.textlength("Hello", font, features=["-kern"])
+          world = draw.textlength("World", font, features=["-kern"])
+          assert hello_world == draw.textlength("HelloWorld", font, features=["-kern"])
+        :param features: A list of OpenType font features to be used during text
+                         font features that are not enabled by default,
+                         used to turn off default font features for
+                         https://learn.microsoft.com/en-us/typography/opentype/spec/featurelist
+                         the font which language the text is in, and to apply the
+                         <https://www.w3.org/International/articles/language-tags/>`_
+        when rendered in font with provided direction, features, and language.
+        some fonts, e.g. italics or accents.
+        maximum value of 255. If the font has embedded color data, the bitmap
+        should have mode ``RGBA``. Otherwise, it should have mode ``1``.
+        :param ink: Foreground ink for rendering in RGBA mode.
+uFreeTypeFont.getmask2.<locals>.fill
+aFreeTypeFont
+        Create a copy of this FreeTypeFont object,
+        using any specified arguments to override the settings.
+        :return: A FreeTypeFont object.
+        :returns: A list of the named styles in a variation font.
+        :exception OSError: If the font is not a variation font.
+        :returns: A list of the axes in a variation font.
+        Wrapper that creates a transposed font from any existing font
+        :param font: A font object.
+a_load_pilfont
+    Load a font file.  This function loads a font object from the given
+    bitmap font file, and returns the corresponding font object.
+    :param filename: Name of font file.
+    :return: A font object.
+afonts
+afirst_font_with_a_different_extension
+    Load a TrueType or OpenType font from a file or file-like object,
+    and create a font object.
+    This function loads a font object from the given file or file-like
+    object, and creates a font object for a font of the given size.
+    Pillow uses FreeType to open font files. On Windows, be aware that FreeType
+    will keep the file open as long as the FreeTypeFont object exists. Windows
+    fonts are opened simultaneously and that limit is approached, an
+    :param font: A filename or file-like object containing a TrueType font.
+                 * The :file:`fonts/` directory on Windows,
+                 * :file:`/Library/Fonts/`, :file:`/System/Library/Fonts/`
+                   and :file:`~/Library/Fonts/` on macOS.
+                 * :file:`~/.local/share/fonts`, :file:`/usr/local/share/fonts`,
+                   and :file:`/usr/share/fonts` on Linux; or those specified by
+                   for user-installed and system-wide fonts, respectively.
+    :param index: Which font face to load (default is first available face).
+    :param encoding: Which font encoding to use (default is Unicode). Possible
+                     :attr:`.ImageFont.Layout.BASIC` or :attr:`.ImageFont.Layout.RAQM`.
+    :exception ValueError: If the font size is not greater than zero.
+ucannot find font file
+    Load font file. Same as :py:func:`~PIL.ImageFont.load`, but searches for a
+    bitmap font along the Python path.
+aload_default_imagefont
+    https://dotcolon.net/font/aileron, with a more limited character set.
+    Otherwise, load a "better than nothing" font.
+    :param size: The font size of Aileron Regular.
+uPIL.ImageFont
+uPIL font wrapper
+aImagingFont
+uImageFont._load_pilfont
+uImageFont._load_pilfont_data
+uImageFont.getmask
+uImageFont.getbbox
+uImageFont.getlength
+uFreeType font wrapper (requires _imagingft service)
+uFreeTypeFont.__init__
+uFreeTypeFont.__getstate__
+uFreeTypeFont.__setstate__
+uFreeTypeFont.getname
+uFreeTypeFont.getmetrics
+uFreeTypeFont.getlength
+uFreeTypeFont.getbbox
+nuFreeTypeFont.getmask
+uFreeTypeFont.getmask2
+nnnnnafont_variant
+uFreeTypeFont.font_variant
+uFreeTypeFont.get_variation_names
+uFreeTypeFont.set_variation_by_name
+uFreeTypeFont.get_variation_axes
+uFreeTypeFont.set_variation_by_axes
+aTransposedFont
+nuTransposedFont.__init__
+uTransposedFont.getmask
+uTransposedFont.getbbox
+uTransposedFont.getlength
+uFreeTypeFont | ImageFont
+uPIL\ImageFont.py
+u<module PIL.ImageFont>
+afont_bytes_path
+afontpath
+w1wLwIwFwPaRGB
+    The ``black`` and ``white`` arguments should be RGB tuples or color names;
+argb_black
+argb_white
+argb_mid
+naRGBA
+uGiven an rgb tuple, allocate palette entry.
+        :ref:`concept-modes`. Defaults to "RGB"
+        all channels for one color followed by the next color (e.g. RGBRGBRGB).
+w1aRGBA
+w1wLaRGB
+    everywhere Tkinter expects an image object.  If the image is an RGBA
+    how to specify colours.
+    "L", "P", or "RGB".
+    are allocated. For an "RGB" image, a 6x6x6 colour cube is used, together
+                  "L", "P", or "RGB".
+%d %d
+uAPP%d
+http://ns.adobe.com/xap/1.0/
+akeep_rgb
+wLpaRGB
+JPEG quality settings equivalent to the Photoshop settings.
+(ref.: https://en.wikipedia.org/wiki/Chroma_subsampling)
+(ref.: https://web.archive.org/web/20240227115053/https://exiv2.org/tags.html)
+(ref.: https://en.wikipedia.org/wiki/Quantization_matrix#Quantization_matrices,
+https://en.wikipedia.org/wiki/JPEG#Quantization)
+https://web.archive.org/web/20120328125543/http://www.jpegcameras.com/libjpeg/libjpeg-3.html
+lZqZaRGB
+uBBox: %s %s %s %s
+lAlBuPCX version %s, bits %s, planes %s, stride %s
+wPuP;%dL
+nnuRGB;L
+usize: %sx%s
+uPcxImagePlugin._save: xwidth: %d, bits: %d, stride: %d
+aDeviceRGB
+wfc%d %d
+nu%Y%m%d%H%M%S
+c<%s>
+u%Y%m%d%H%M%SZ
+    https://www.adobe.com/content/dam/acom/en/devnet/acrobat/pdfs/PDF32000_2008.pdf
+uSTREAM %r %s %s
+uCompression method %s
+u>%dI
+uTruncated sRGB chunk
+u%r %s %s (unknown)
+csRGB
+uRGB;16B
+uRGBA;16B
+achunk_sRGB
+uPngStream.chunk_sRGB
+l0l1cInvalid token for this mode: %s
+cToken too long found in data: %s
+cPyRGBA
+wFwPaRGBA
+        multi-band images. In addition to this, RGB and RGBA tuples
+ustruct Pixel_RGBA **
+uPyAccess Not Implemented: %s
+    struct Pixel_RGBA {
+uRGB and friends, stored in the first three bytes of a 32 bit word
+uRGBA etc, all 4 bytes of a 32 bit word
+uimage/rgb
+wLaRGBA
+u.rgb
+u.rgba
+u%s - unsupported type %s
+l u<table: %d bytes>
+uTag %s, Type: %s, Value: %s
+u%s %s %s %s %s
+u- __first: %s
+u- ifh: %s
+uSeeking to frame %s, on frame %s, __next %s, location: %s
+uLoading tags, location: %s
+        https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/#50577409_pgfId-1037727
+u- compression: %s
+u- photometric_interpretation: %s
+u- planar_configuration: %s
+u- fill_order: %s
+u- YCbCr subsampling: %s
+u- size: %s
+uMore samples per pixel than can be decoded: %s
+uformat key: %s
+u- raw mode: %s
+u- pil mode: %s
+uTiffinfo Keys: %s
+uItems: %s
+uConverted items: %s
+uRGB;R
+aRGBXX
+aRGBXXX
+aRGBaX
+aRGBaXX
+aRGBAX
+aRGBAXX
+uRGB;16L
+uRGBA;16L
+uRGBX;16L
+uRGBX;16B
+uRGBa;16L
+uRGBa;16B
+uRGB Palette
+uBackground color is not an RGBA tuple clamped to (0-255): 
+w_wcwiargb
+    https://github.com/python-pillow/Pillow/
+aSetTextColour
+u%Y,%m,%d,%H,%M,%S
+u%Y,%m,%d,0,0,0
+afont_count_down
+afont_progess
+aC_RECORD_MARKS
+uresource\favicon.ico
+asettings
+aSetItemBackgroundColour
+aColour
+aSetFont
+aGetFont
+atasks
+aSetBackgroundColour
+ainclude_tasks
+ainclude_archived_tasks
+uC:\Windows\Media\Alarm05.wav
+aSetNativeFontInfo
+aSetForegroundColour
+aPanelTimeRecordBar
+aOnDoubleClickRecordBar
+aDrawTimeRecordBar
+aCloudCheckInBoxTasks
+aTasks
+aselected_tasks
+u%Y-%m-%dT%H:%M:%S
+uTime Records
+aD2_SettingsDialog
+u%H:%M - 
+u%H:%M   
+u\record.json
+u\record.txt
+afont_bar
+u%H:%M
+u\tasks.t
+aGetBaseFont
+aGetForegroundColour
+w0u %d:%s:%s
+u %s:%s
+tu\settings.t
+u\resource\tasks.t
+ais_record
+ain_box_tasks
+nain_box_tasks
+abtnFont
+paOnChangeFont
+uhttps://www.tomatolist.com/show_blog_page.html?no=9d0a69ef-bfbb-4ec1-95ed-060c0912f844
+uD2_SettingsDialog.__init__.<locals>.link_1
+uD2_SettingsDialog.__init__.<locals>.link_2
+uD2_SettingsDialog.__init__.<locals>.link_3
+uD2_SettingsDialog.__init__.<locals>.link_4
+uhttps://www.tomatolist.com/imporgency.html?from=
+uhttps://www.tomatolist.com/history.html?ver=
+uWAV|*.wav
+aFontData
+aSetInitialFont
+aFontDialog
+aGetFontData
+aGetChosenFont
+aGetNativeFontInfoDesc
+uhttps://www.tomatolist.com/?ver=
+uwww.tomatolist.com
+u\Backup\
+utasks.t
+usettings.t
+urecord.json
+urecord.txt
+aConfirmCleanTasks
+aSetColours
+pu%sTomatoLife%s
+aC_URL_R_TASKS
+alocal_fresher_tasks
+aC_URL_W_TASKS
+abackup_dir
+u%Y%m%d%H%M
+uTomatoList-%s
+abackup_files
+u%s argument after ** must be a mapping, not %s
+u%s got multiple values for keyword argument '%s'
+u%s argument after * must be an iterable, not %s
+u'%s' object is not a mapping
+uhttps://www.tomatolist.com/
+w1atomatolist_hidden_records_for_special_usages
+uD0_MainFrame.OnDoubleClickRecordBar
+uD0_MainFrame.DrawTimeRecordBar
+aCreateRecord
+uD0_MainFrame.CreateRecord
+aGetRecord
+uD0_MainFrame.GetRecord
+uD0_MainFrame.CloudCheckInBoxTasks
+uD2_SettingsDialog.__init__
+uD2_SettingsDialog.OnChangeSound
+uD2_SettingsDialog.OnChangeFont
+uD2_SettingsDialog.OnButtonExport
+uD2_SettingsDialog.OnSetAutoCheckUpdate
+uD2_SettingsDialog.OnAbout
+uD2_SettingsDialog.OnCleanLocalData
+uD2_SettingsDialog.SetLoginSyncBtn
+uD2_SettingsDialog.QuitLogin
+uD2_SettingsDialog.Refresh_UpdateURL
+uD2_SettingsDialog.OnOK
+uD2_SettingsDialog.CloudLogin
+uD2_SettingsDialog.ConfirmCleanTasks
+uD2_SettingsDialog.ChangeLogin
+uD2_SettingsDialog.OnCloudSync
+arecord_name
+wfais_sample_tasks
+at_font
+alocal_tasks_index
+aout_box_tasks
+atasks_2_post
+ucp_isolation is set. use this flag for debugging purpose. limited list of encoding allowed : %s.
+ucp_exclusion is set. use this flag for debugging purpose. limited list of encoding excluded : %s.
+uDetected declarative mark in sequence. Priority +1 given for %s.
+uDetected a SIG or BOM mark on first %i byte(s). Priority +1 given for %s.
+uEncoding %s won't be tested as-is because it require a BOM. Will try some sub-encoder LE/BE.
+uEncoding %s won't be tested as-is because detection is unreliable without BOM/SIG.
+uEncoding %s does not provide an IncrementalDecoder
+uCode page %s does not fit given bytes sequence at ALL. %s
+u%s is deemed too similar to code page %s and was consider unsuited already. Continuing!
+uCode page %s is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+uLazyStr Loading: After MD chunk decode, code page %s does not fit given bytes sequence at ALL. %s
+uLazyStr Loading: After final lookup, code page %s does not fit given bytes sequence at ALL. %s
+u%s was excluded because of initial chaos probing. Gave up %i time(s). Computed mean chaos is %f %%.
+u%s passed initial chaos probing. Mean measured chaos is %f %%
+f?uEncoding detection: %s is most likely the one.
+uEncoding detection: %s is most likely the one as we detected a BOM or SIG within the beginning of the sequence.
+uEncoding detection: %s will be used as a fallback match
+uEncoding detection: Found %s as plausible (best-candidate) for content. With %i alternatives.
+at <https://github.com/Ousret/charset_normalizer>.
+uGUID("%s")
+uExpected comtypes.COMERROR or WindowsError instance, got %s
+uunimplemented method %s_%s called
+uException in %s.%s implementation:
+uUnimplemented method %s.%s called
+uMethod should have returned a %s-tuple
+u%s: %s
+u%s_%s
+u%r: %s.%s not implemented
+uVtbl_%s
+u%d active COM objects: Added   %r
+u%d active COM objects: Removed %r
+uRemaining: %s
+u%r.AddRef() -> %s
+u%r.Release() -> %s
+u%r.QueryInterface(%s) -> S_OK
+u%r.QueryInterface(%s) -> E_NOINTERFACE
+u_get_%s
+u_set_%s
+u_setref_%s
+u%s.%s
+uPOINTER(%s)
+apvRecord
+a_tagBRECORD
+a_tagBRECORD_format
+u%s(%r)
+So it is necessary to maintain minimal settings to keep the lightweight action
+ubaseinterface '%s' has no _methods_
+u_%s__com_%s
+u_%s
+uRelease %s
+u<%s ptr=0x%x at %x>
+uInterface %s not supported
+        See http://msdn.microsoft.com/en-us/library/cc234586.aspx for the tagDEC
+a_recordinfo_
+aGetRecordInfoFromGuids
+aVT_RECORD
+aRecordCreateCopy
+aIRecordInfo
+aRecordCopy
+utypecode %d = 0x%x)
+u<EXCEPINFO %s>
+uTypeError: Parameter %s
+utagVARIANT.U_VARIANT1.__tagVARIANT.U_VARIANT2._tagBRECORD
+ucomtypes_cache\%s-%s
+uCreating writeable comtypes cache directory: '%s'
+uUsing writeable comtypes cache directory: '%s'
+uImported existing %s
+uCreated comtypes.gen directory: '%s'
+uWriting __init__.py file: '%s'
+puCreating comtypes.gen package failed: %s
+uStart advise %s
+uUnadvised %s
+u%s using sinkinterface %s
+u%s using sinkinterface from clsid %s
+u%s using sinkinterface from iid %s
+u%s has more than one connection point
+nuEvent %s(%s)
+uGetModule(%s), resolved: %s
+uGetModule(%s): could not resolve to a filename
+uGetModule(%s)
+uCLSID\%s\TypeLib
+nnnuCLSID\%s\Version
+nnuTypeLib\%s
+uCould not import %s: %s
+u# Generating %s
+uwrap_outparam(%s)
+uGetBestInterface(%s)
+uNo Dispatch interface: %s
+uIDispatch.GetTypeInfo(0) failed: %s
+uDefault interface is %s
+uImplements default interface from typeinfo %s
+uFinal result is %s
+u%s -> %s
+uCoCreateInstance(%s, clsctx=%s, interface=%s)
+uCoCreateInstanceEx(%s, clsctx=%s, interface=%s, machine=%s,                        pServerInfo=%s)
+ufunckind %d not yet implemented
+uCoInitializeEx(None, %s)
+For more details, please check: https://learn.microsoft.com/en-us/windows/win32/com
+arecord
+u%s: %s (%s, line %d)
+uSAFEARRAY_%s
+uCannot create SAFEARRAY type VT_RECORD without IRecordInfo.
+ufilename: "%s": tlib_mtime: %s
+w"w'u%s"""%s"""
+u# %s %s
+uclass %s(%s):
+uclass %s(_com_interface):
+uclass %s(Structure):
+u    _recordinfo_ = %r
+uclass %s(Union):
+u%s._pack_ = %s
+uStructure %s: %s
+u# WARNING: %s
+u%s._fields_ = [
+u    # %s %s
+u_%d
+u    # Unnamed field renamed to '%s'
+u    ('%s', %s),
+u    ('%s', %s, %s),
+# The size and alignment check for %s is skipped.
+uassert sizeof(%s) == %s, sizeof(%s)
+uassert alignment(%s) == %s, alignment(%s)
+u%s._methods_ = [
+        %s,
+        '%s',
+u        ([], %s),
+u%s = %r  # Constant %s
+uclass %s(CoClass):
+u    _idlflags_ = %s
+u    _reg_typelib_ = (%r, %s, %s)
+u%s._com_interfaces_ = [%s]
+u%s._outgoing_interfaces_ = [%s]
+u# code template for %s implementation
+u# class %s_Impl(object):
+u#     def %s(%s):
+u#         #return %s
+u#     def _set(%s):
+u#     %s = property(fset = _set, doc = _set.__doc__)
+u#     def _get(%s):
+u#     %s = property(_get, _set, doc = _set.__doc__)
+u%s._disp_methods_ = [
+udispid(%s)
+u_midlSAFEARRAY(%s)
+u%s%s%s
+u%s * %s
+uWINFUNCTYPE(%s)
+uCFUNCTYPE(%s)
+u_%s_%s_%s_%s
+ucomtypes.gen.%s
+ufrom %s import %s
+ufrom %s import (
+ufrom %s import *
+uimport %s
+u%s = %s
+u  # %s
+ufield %s offset (%s/%s)
+utotal alignment (%s/%s)
+utotal size (%s/%s)
+uPACKING FAILED: %s
+argbounds
+u__error_hreftype_%d__
+GetRefTypeInfo failed in %s: %s
+generating type '%s' instead
+uIgnoring interface %s which has no base interface
+uBug: Multiple registered name '%s': %r
+aTKIND_RECORD
+aParseRecord
+uParser.ParseRecord
+u<TypeLib(%s: %s, %s, %s)>
+uName %s not found
+a_IRecordInfo__com_GetFieldNames
+aGetRecordInfoFromTypeInfo
+uReturn an IRecordInfo pointer to the UDT described in tinfo
+uTLIBATTR(GUID=%s, Version=%s.%s, LCID=%s, FLags=0x%x)
+uTYPEATTR(GUID=%s, typekind=%s, funcs=%s, vars=%s, impltypes=%s)
+uIRecordInfo.GetFieldNames
+aRecordInit
+aRecordClear
+argBstrNames
+aRecordCreate
+aRecordDestroy
+uhttps://foss.heptapod.net/openpyxl/et_xmlfile
+       https://dmlc.github.io/dlpack/latest/python_spec.html
+    a.tofile(fid, sep="", format="%s")
+    np.record((9, 10), dtype=[('a', 'i1'), ('b', 'i1')])
+u'S%d'
+u'%sU'
+u'%sU%d'
+u'V%d'
+u'%sM8%s'
+u'%sm8%s'
+w=w|u'%s%c%d'
+u'%s%d'
+u{'names'%s[
+u], 'formats'%s[
+u], 'offsets'%s[
+u], 'titles'%s[
+u], 'itemsize'%s%d
+u, 'aligned'%sTrue}
+tu%d
+uformat number %d of "%s" is not recognized
+uinconsistent byte-order specification %s and %s
+wfwju Replace names which are None with the next unused f%d name 
+lNuDid not converge after %d tries with %s
+ucould not determine machine tolerance for 'negep', locals() -> %s
+    handled like floating point, and are affected by these settings.
+        - log: Record error in a Log object specified by `seterrcall`.
+    old_settings : dict
+        Dictionary containing the old settings.
+    .. [1] https://en.wikipedia.org/wiki/IEEE_754
+    >>> orig_settings = np.seterr(all='ignore')  # seterr to known value
+    >>> old_settings = np.seterr(all='warn', over='raise')
+    >>> old_settings = np.seterr(all='print')
+    >>> np.seterr(**orig_settings)  # restore original
+    >>> oldsettings = np.seterr(all='warn', invalid='raise')
+    >>> oldsettings = np.seterr(**oldsettings)  # restore original
+    ...     print("Floating point error (%s), with flag %s" % (type, flag))
+    ...         print("LOG: %s" % msg)
+    >>> orig_settings = np.seterr(all='call')
+    >>> old_settings = np.seterr(**orig_settings)  # restore original
+u'%s'
+u[], shape=%s
+    https://numpy.org/devdocs/user/troubleshooting-importerror.html
+  * The Python version is: Python%d.%d from "%s"
+  * The NumPy version is: "%s"
+Original error was: %s
+arecords
+uCharacter %s is not a valid symbol.
+uOutput character %s appeared more than once in the output.
+uOutput character %s did not appear in the input
+uDid not understand the path: %s
+uEinstein sum subscript %s does not contain the correct number of indices for operand %d.
+uSize of label '%s' for operand %d (%d) does not match previous terms (%d).
+uPath name %s not found
+u  Complete contraction:  %s
+u         Naive scaling:  %d
+u     Optimized scaling:  %d
+uDid not understand the following kwargs: %s
+        `einops <https://github.com/arogozhnikov/einops>`_ package to cover
+        The `opt_einsum <https://optimized-einsum.readthedocs.io/en/stable/>`_
+    `contiguous <https://numpy.org/doc/stable/glossary.html#term-contiguous>`_
+    `introsort <https://en.wikipedia.org/wiki/Introsort>`_.
+    `heapsort <https://en.wikipedia.org/wiki/Heapsort>`_.
+    `timsort <https://en.wikipedia.org/wiki/Timsort>`_
+    or `radix sort <https://en.wikipedia.org/wiki/Radix_sort>`_
+    <https://github.com/python/cpython/blob/3.7/Objects/listsort.txt>`_
+           https://people.eecs.berkeley.edu/~wkahan/ieee754status/IEEE754.PDF
+uNumber of samples, %s, must be non-negative.
+u%s%d
+u%s(min=%s, max=%s, dtype=%s)
+           pp.1-70, 2008, https://doi.org/10.1109/IEEESTD.2008.4610935
+           https://en.wikipedia.org/wiki/Denormal_number
+           https://en.wikipedia.org/wiki/Cross-correlation
+        https://en.wikipedia.org/wiki/Convolution
+u'%s' arg requires %d <= %s < %d, but %d was passed in
+        https://en.wikipedia.org/wiki/Two's_complement
+    ``allclose(1e-9, 2e-9)`` is ``True`` with default settings. Be sure
+    ``isclose(1e-9, 2e-9)`` is ``True`` with default settings. Be sure
+uimplementation and dispatcher for %s have different function signatures
+.numpy._core.records
+w,uillegal input names %s
+uf%d
+uDuplicate field names: %s
+u'record' object has no attribute '%s'
+uCannot set '%s' attribute
+u%% %ds: %%s
+urecord.pprint.<locals>.<genexpr>
+urecarray has no attribute %s
+urecord array has no attribute %s
+urec.array(%s,%sdtype=%s)
+uarray(%s,%sdtype=%s).view(numpy.recarray)
+uCreate a record array from a (flat) list of arrays
+        Record array consisting of given arrayList columns.
+uCreate a recarray from a list of records in text form.
+        record array consisting of given recList rows.
+    >>> r=np.rec.fromrecords([(456,'dbe',1.2),(2,'de',1.3)],
+uCreate a record array from binary data
+        Record array view into the data in datastring. This will be readonly
+        record array consisting of data enclosed in file.
+afromrecords
+    Construct a record array from a wide-variety of objects.
+    A general-purpose record array constructor that dispatches to the
+        Record array created from the specified object.
+    `fromarrays`, otherwise call `fromrecords`. If `obj` is a
+This module contains a set of functions for record arrays.
+unumpy._core.records
+urecord.__repr__
+urecord.__str__
+urecord.__getattribute__
+urecord.__setattr__
+urecord.__getitem__
+urecord.pprint
+    and ``arr['y']``.  Record arrays allow the fields to be accessed as members
+    numpy.rec.fromrecords : Construct a record array from data.
+    numpy.record : fundamental data-type for `recarray`.
+    This constructor can be compared to ``empty``: it creates a new record
+    array but does not fill it with data.  To create a record array from data,
+    1. Create a standard ndarray and convert it to a record array,
+    3. Use `np.rec.fromrecords`.
+    View the array as a record array:
+    Create a new, empty record array:
+nnnnFntunumpy\_core\records.py
+u<module numpy._core.records>
+uarray must have data type %s
+uarray must have %d dimension(s)
+uarray must have shape %s
+uarray must have flags %s
+u_%dd
+undpointer_%s
+.. [1] "SciPy Cookbook: ctypes", https://scipy-cookbook.readthedocs.io/items/Ctypes.html
+- URLs (http, ftp, ...) : 'http://www.scipy.org/not/real/data.txt'
+    >>> fp = ds.open('http://www.google.com/') # doctest: +SKIP
+    A generic data source file (file, http, ftp, ...).
+    URLs require a scheme string (``http://``) to be used, without it they
+        >>> repos.exists('http://www.google.com/index.html')
+        >>> urlname = 'http://www.google.com/'
+        >>> gfile = ds.open('http://www.google.com/')
+        >>> repos = np.lib._datasource.Repository('http://www.xyz.edu/data')
+            `PDF <https://www.ams.org/journals/mcom/1988-51-184/
+u%d-dimensional argument does not have enough dimensions for all core dimensions %r
+uInvalid otype specified: %s
+           https://en.wikipedia.org/wiki/Window_function
+           https://personal.math.ubc.ca/~cbm/aands/page_379.htm
+           Resource. https://mathworld.wolfram.com/SincFunction.html
+           https://en.wikipedia.org/wiki/Sinc_function
+    .. [1] Wikipedia page: https://en.wikipedia.org/wiki/Trapezoidal_rule
+           https://en.wikipedia.org/wiki/File:Composite_trapezoidal_rule_illustration.png
+    https://en.wikipedia.org/wiki/Histogram#Scott.27s_normal_reference_rule
+    https://digitalassets.lib.berkeley.edu/sdtr/ucb/text/34.pdf
+wluunrecognized case_sensitive value %s.
+uThe input argument `dtype` is neither a function nor a dtype (got '%s' instead)
+uCannot convert string '%s'
+uarr_%d
+uCannot use un-named variables and keyword %s
+uExpected 1D or 2D array, got %dD array instead
+ufmt has wrong shape.  %s
+w%ufmt has wrong number of %% formats:  %s
+u (%s+%sj)
+w-uMismatch between array dtype ('%s') and format specifier ('%s')
+        multi-format string, e.g. 'Iteration %d -- %10.5f', in which
+          like ``' (%s+%sj)' % (fmt, fmt)``
+           <https://docs.python.org/library/string.html#format-specification-mini-language>`_,
+uThe input argument 'converter' should be a valid dictionary (got '%s' instead)
+ugenfromtxt: Empty input file: "%s"
+u(occurred line #%i for value '%s')
+           <https://docs.scipy.org/doc/numpy/user/basics.io.genfromtxt.html>`_.
+unumpy.ma.mrecords
+aMaskedRecords
+    Load ASCII data from a file and return it in a record array.
+    if ``usemask=True`` a MaskedRecords array is returned.
+    The returned array is a record array (if ``usemask=False``, see
+    `recarray`) or a masked record array (if ``usemask=True``,
+    see `ma.mrecords.MaskedRecords`).
+           https://en.wikipedia.org/wiki/Curve_fitting
+           https://en.wikipedia.org/wiki/Polynomial_interpolation
+nupoly1d(%s)
+u%sj
+u(%s + %sj)
+wNu%s
+u%s %s
+u%s**%d
+u%s %s**%d
+w-u%s - %s
+u%s + %s
+      `bottleneck <https://github.com/pydata/bottleneck>`_.
+    `moving average <https://en.wikipedia.org/wiki/Moving_average>`_:
+    1. Information is derived with the help of `threadpoolctl <https://pypi.org/project/threadpoolctl/>`_
+u`%s` is deprecated!
+u`%s` is deprecated, use `%s` instead!
+udata pointer: %s%s
+utype: %s
+        This function does not preserve more strange things like record dtypes
+uNumpyVersion(%s)
+nuwe only support format version (1,0), (2,0), and (3,0), not %s
+    a descr which looks like a record array with one field with '' as
+u'%s': %s, 
+uEOF: reading %s, expected %d bytes got %d
+- Can represent all NumPy arrays including nested record arrays and
+    <https://numpy.org/neps/nep-0013-ufunc-overrides.html>`_.
+        ...         return '%s(%r)' % (type(self).__name__, self.value)
+uarray type %s is unsupported in linalg
+u%d-dimensional array given. Array must be two-dimensional
+u%d-dimensional array given. Array must be at least two-dimensional
+           https://en.wikipedia.org/wiki/Condition_number
+    https://en.wikipedia.org/wiki/QR_factorization
+           https://www.mathworks.com/help/techdoc/ref/rank.html
+    .. [2] https://en.wikipedia.org/wiki/Matrix_chain_multiplication
+- OpenBLAS: https://www.openblas.net/
+- threadpoolctl: https://github.com/joblib/threadpoolctl
+uUnable to transform %s to dtype %s
+uCannot set fill value of string with array of dtype %s
+uCannot convert fill_value %s to dtype %s
+uIncompatible dtypes '%s'<>'%s'
+FuInconsistent shape between the condition and the input (got %s and %s)
+        >>> x.recordmask
+uComing soon: setting the mask per records!
+        record : ndarray
+            mask boolean. The returned record shape matches self.shape.
+u    %s
+u%s%s
+arecordmask
+uMaskedArray.recordmask
+atorecords
+wm.numpy.ma.mrecords
+urecord array has no attribute 
+uMaskedRecords is currently limited tosimple records.
+        Sets the given record to value.
+u%%%is : %%s
+umasked_records(
+        Returns a copy of the masked record.
+        Number of records. If None, shape is defined from the shape of the
+arecfromrecords
+    Creates a MaskedRecords from a list of records.
+        A list of records. Each element of the sequence is first converted
+        Number of records. If None, ``shape`` is defined from the shape of the
+uAdds a new field to the masked record array
+u:mod:`numpy.ma..mrecords`
+        Underlying data, as a record array.
+        Mask of the records. A record is masked when all its fields are
+        Record array of booleans, setting the mask of each individual field
+        of each record.
+    _fill_value : record
+uMaskedRecords.__new__
+uMaskedRecords.__array_finalize__
+uMaskedRecords._data
+uMaskedRecords._fieldmask
+uMaskedRecords.__len__
+uMaskedRecords.__getattribute__
+uMaskedRecords.__setattr__
+uMaskedRecords.__getitem__
+uMaskedRecords.__setitem__
+uMaskedRecords.__str__
+uMaskedRecords.__repr__
+nnuMaskedRecords.view
+uMaskedRecords.harden_mask
+uMaskedRecords.soften_mask
+uMaskedRecords.copy
+uMaskedRecords.tolist
+uMaskedRecords.__getstate__
+uMaskedRecords.__setstate__
+uMaskedRecords.__reduce__
+unumpy\ma\mrecords.py
+u<module numpy.ma.mrecords>
+amrecord
+amaskrecordlength
+  (https://web.archive.org/web/20080221202153/https://www.math.hmc.edu/~benjamin/papers/CombTrig.pdf, pg. 4)
+    default font support for the unicode superscript and subscript ranges.
+    See https://github.com/numpy/numpy/issues/4763 for a detailed discussion
+.. _typing-extensions: https://pypi.org/project/typing-extensions/
+Record array dtypes
+uhttps://openpyxl.readthedocs.io
+u{%s}space
+afontId
+a_fonts
+uReadOnlyCell.font
+aInlineFont
+u, font=
+wtarFont
+uopenpyxl.styles.fonts
+arFont
+nnnnnnnnnnnnnnnuInlineFont.__init__
+u{%s}majorGridlines
+aprintSettings
+aprint_settings
+aPrintSettings
+.openpyxl.chart.print_settings
+uopenpyxl.chart.print_settings
+nnnuPrintSettings.__init__
+uopenpyxl\chart\print_settings.py
+u<module openpyxl.chart.print_settings>
+aCommentRecord
+uCommentRecord.__init__
+uCommentRecord.from_cell
+uCommentRecord.content
+u{%s}shapelayout
+u{%s}ext
+u{%s}idmap
+w1u{%s}shapetype
+u{%s}spt
+u{%s}stroke
+u{%s}path
+wtu{%s}connecttype
+u{%s}shape[@type='#_x0000_t202']
+u{%s}shapetype[@id='_x0000_t202']
+u{%s}insetmode
+u{%s}shape
+u{%s}fill
+u{%s}shadow
+u{%s}textbox
+u{%s}ClientData
+u{%s}MoveWithCells
+u{%s}SizeWithCells
+u{%s}AutoFill
+u{%s}Row
+u{%s}Column
+http://chimera.labs.oreilly.com/books/1230000000393/ch08.html#_discussiuncion_130
+u{%s}%s
+wrwgwbascrgbClr
+asrgbClr
+aRGBPercent
+argbClr
+uRGBPercent.__init__
+ascrgbClr
+    Assume RGBHex if a string is passed in.
+afontRef
+aFontReference
+uFontReference.__init__
+uhttp://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing
+afontAlgn
+abuFontTx
+abuFont
+afontScale
+nnnnuFont.__init__
+uMismatched ( and { pair in '%s'
+http://ewbi.blogs.com/develops/2004/12/excel_formula_p.html written by Eric
+u{%s}type
+uhttp://schemas.openxmlformats.org/markup-compatibility/2006
+arecordCount
+uhttp://schemas.openxmlformats.org/officeDocument/2006/relationships/pivotCacheDefinition
+.openpyxl.pivot.record
+aRecord
+uopenpyxl.pivot.record
+uRecord.__init__
+aRecordList
+uapplication/vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheRecords+xml
+uhttp://schemas.openxmlformats.org/officeDocument/2006/relationships/pivotCacheRecords
+u/xl/pivotCache/pivotCacheRecords{0}.xml
+apivotCacheRecords
+nuRecordList.__init__
+uRecordList.count
+uRecordList.to_tree
+uRecordList.path
+uRecordList._write
+uRecordList._write_rels
+uopenpyxl\pivot\record.py
+u<module openpyxl.pivot.record>
+aapplyFontFormats
+uhttp://schemas.openxmlformats.org/officeDocument/2006/relationships/pivotTable
+uopenpyxl does not support %s file format, please check you can open it with Excel first. Supported formats are: %s
+u{%s}si
+uopenpyxl.worksheet.print_settings
+    <font>
+    </font>
+        <fgColor rgb="FFC6EFCE"/>
+      <color rgb="FF006100"/>
+        <fgColor rgb="FFFFC7CE"/>
+      <color rgb="FF9C0006"/>
+        <fgColor rgb="FFFFEB9C"/>
+      <color rgb="FF9C6500"/>
+        <color rgb="FF7F7F7F"/>
+        <fgColor rgb="FFFFCC99"/>
+      <color rgb="FF3F3F76"/>
+        <color rgb="FF3F3F3F"/>
+        <fgColor rgb="FFF2F2F2"/>
+      <color rgb="FF3F3F3F"/>
+      <color rgb="FFFA7D00"/>
+        <color rgb="FFFF8001"/>
+        <fgColor rgb="FFA5A5A5"/>
+      <color rgb="FFFF0000"/>
+        <color rgb="FFB2B2B2"/>
+        <fgColor rgb="FFFFFFCC"/>
+      <color rgb="FF7F7F7F"/>
+      <left style="thin"><color rgb="00000000"/></left>
+      <right style="thin"><color rgb="00000000"/></right>
+      <top style="thin"><color rgb="00000000"/></top>
+      <bottom style="thin"><color rgb="00000000"/></bottom>
+aapplyFont
+aaRGB_REGEX
+uColors must be aRGB hex values
+        Adding colours is undefined behaviour best do nothing
+    Descriptor for aRGB values
+uRGB.__set__
+aRgbColor
+argbColor
+nuRgbColor.__init__
+aDEFAULT_FONT
+    Automatically assign positions if a list of colours is provided.
+    It is not permitted to mix colours and stops
+        - A type='linear' gradient interpolates colours between
+.openpyxl.styles.fonts
+u{%s}u
+uFont options used in styles.
+uFont.from_tree
+uopenpyxl\styles\fonts.py
+u<module openpyxl.styles.fonts>
+u%Y-%m-%dT%H:%M:%SZ
+    http://code.activestate.com/recipes/52303-the-auxiliary-dictionary-idiom-for-sequences-with-/
+    See also http://blogs.msdn.com/b/ericwhite/archive/2008/02/23/the-legacy-hashing-algorithm-in-open-xml.aspx
+uhttp://schemas.microsoft.com/office/2006/relationships/vbaProject
+uWrite the workbook global settings to the archive.
+abackupFile
+aincludePrintSettings
+u{%s}c
+u{%s}v
+u{%s}f
+u{%s}mergeCells
+u{%s}is
+u{%s}col
+u{%s}row
+u{%s}conditionalFormatting
+u{%s}legacyDrawing
+u{%s}sheetProtection
+u{%s}extLst
+u{%s}hyperlinks
+u{%s}tableParts
+u{%s}printOptions
+u{%s}pageMargins
+u{%s}pageSetup
+u{%s}headerFooter
+u{%s}autoFilter
+u{%s}dataValidations
+u{%s}sheetPr
+u{%s}sheetViews
+u{%s}sheetFormatPr
+u{%s}rowBreaks
+u{%s}colBreaks
+u{%s}scenarios
+u{%s}sheetData
+u{%s}dimension
+u{%s}customSheetViews
+afontColor
+    # See http://stackoverflow.com/questions/27711175/regex-with-multiple-optional-groups for discussion
+u&"(?P<font>.+)"
+aFONT_PATTERN
+    * &"fontname"   Selects the named font
+    * &nn   Selects the specified 2-digit font point size
+    Colours are in RGB Hex
+.openpyxl.worksheet.print_settings
+uopenpyxl\worksheet\print_settings.py
+wkwvu<module openpyxl.worksheet.print_settings>
+uSet printer settings 
+aset_printer_settings
+uWorksheet.set_printer_settings
+<a:theme xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" name="Office Theme">
+        <a:srgbClr val="1F497D"/>
+        <a:srgbClr val="EEECE1"/>
+        <a:srgbClr val="4F81BD"/>
+        <a:srgbClr val="C0504D"/>
+        <a:srgbClr val="9BBB59"/>
+        <a:srgbClr val="8064A2"/>
+        <a:srgbClr val="4BACC6"/>
+        <a:srgbClr val="F79646"/>
+        <a:srgbClr val="0000FF"/>
+        <a:srgbClr val="800080"/>
+    <a:fontScheme name="Office">
+      <a:majorFont>
+        <a:font script="Jpan" typeface="&#xFF2D;&#xFF33; &#xFF30;&#x30B4;&#x30B7;&#x30C3;&#x30AF;"/>
+        <a:font script="Hang" typeface="&#xB9D1;&#xC740; &#xACE0;&#xB515;"/>
+        <a:font script="Hans" typeface="&#x5B8B;&#x4F53;"/>
+        <a:font script="Hant" typeface="&#x65B0;&#x7D30;&#x660E;&#x9AD4;"/>
+        <a:font script="Arab" typeface="Times New Roman"/>
+        <a:font script="Hebr" typeface="Times New Roman"/>
+        <a:font script="Thai" typeface="Tahoma"/>
+        <a:font script="Ethi" typeface="Nyala"/>
+        <a:font script="Beng" typeface="Vrinda"/>
+        <a:font script="Gujr" typeface="Shruti"/>
+        <a:font script="Khmr" typeface="MoolBoran"/>
+        <a:font script="Knda" typeface="Tunga"/>
+        <a:font script="Guru" typeface="Raavi"/>
+        <a:font script="Cans" typeface="Euphemia"/>
+        <a:font script="Cher" typeface="Plantagenet Cherokee"/>
+        <a:font script="Yiii" typeface="Microsoft Yi Baiti"/>
+        <a:font script="Tibt" typeface="Microsoft Himalaya"/>
+        <a:font script="Thaa" typeface="MV Boli"/>
+        <a:font script="Deva" typeface="Mangal"/>
+        <a:font script="Telu" typeface="Gautami"/>
+        <a:font script="Taml" typeface="Latha"/>
+        <a:font script="Syrc" typeface="Estrangelo Edessa"/>
+        <a:font script="Orya" typeface="Kalinga"/>
+        <a:font script="Mlym" typeface="Kartika"/>
+        <a:font script="Laoo" typeface="DokChampa"/>
+        <a:font script="Sinh" typeface="Iskoola Pota"/>
+        <a:font script="Mong" typeface="Mongolian Baiti"/>
+        <a:font script="Viet" typeface="Times New Roman"/>
+        <a:font script="Uigh" typeface="Microsoft Uighur"/>
+      </a:majorFont>
+      <a:minorFont>
+        <a:font script="Arab" typeface="Arial"/>
+        <a:font script="Hebr" typeface="Arial"/>
+        <a:font script="Khmr" typeface="DaunPenh"/>
+        <a:font script="Viet" typeface="Arial"/>
+      </a:minorFont>
+    </a:fontScheme>
+              <a:srgbClr val="000000">
+              </a:srgbClr>
+uhttp://www.w3.org/XML/1998/namespace
+uhttp://purl.org/dc/elements/1.1/
+uhttp://purl.org/dc/terms/
+uhttp://schemas.openxmlformats.org/officeDocument/2006/
+uhttp://schemas.openxmlformats.org/package/2006/
+uhttp://www.w3.org/2001/XMLSchema-instance
+uhttp://schemas.openxmlformats.org/spreadsheetml/2006/main
+uhttp://schemas.openxmlformats.org/drawingml/2006/chart
+uhttp://schemas.openxmlformats.org/drawingml/2006/main
+uhttp://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing
+uhttp://schemas.openxmlformats.org/drawingml/2006/chartDrawing
+uhttp://schemas.microsoft.com/office/2006/relationships/ui/extensibility
+uhttp://purl.org/dc/dcmitype/
+uapplication/vnd.ms-excel.%s.macroEnabled.main+xml
+uapplication/vnd.openxmlformats-officedocument.spreadsheetml.%s.main+xml
+uapplication/vnd.openxmlformats-officedocument.spreadsheetml.%s+xml
+u%s%d%d%s.dll
+uModule '%s' isn't in frozen sys.path %s
+uNo system module '%s' (%s)
+uPython HTTP for Humans.
+uhttps://requests.readthedocs.io
+        :class:`HTTPAdapter <requests.adapters.HTTPAdapter>`.
+ahttps
+        :class:`HTTPAdapter <requests.adapters.HTTPAdapter>`
+        To override these settings, one may subclass this class, call this
+ahttp
+uReturns a urllib3 connection for the given request and TLS settings.
+        when subclassing the :class:`HTTPAdapter <requests.adapters.HTTPAdapter>`.
+        for all subclasses of HTTPAdapter using Requests>=2.32.2.
+        If the message is being sent through a HTTP proxy, the full URL has to
+a_HTTPError
+aHTTPError
+aHTTPAdapter
+uThe built-in HTTP Adapter for urllib3.
+    Provides a general-case interface for Requests sessions to contact HTTP and
+    HTTPS urls by implementing the Transport Adapter interface. This class will
+      >>> a = requests.adapters.HTTPAdapter(max_retries=3)
+      >>> s.mount('http://', a)
+uHTTPAdapter.__init__
+uHTTPAdapter.__getstate__
+uHTTPAdapter.__setstate__
+uHTTPAdapter.init_poolmanager
+uHTTPAdapter.proxy_manager_for
+uHTTPAdapter.cert_verify
+uHTTPAdapter.build_response
+nuHTTPAdapter.build_connection_pool_key_attributes
+nnuHTTPAdapter.get_connection_with_tls_context
+uHTTPAdapter.get_connection
+uHTTPAdapter.close
+uHTTPAdapter.request_url
+        the :class:`HTTPAdapter <requests.adapters.HTTPAdapter>`.
+uHTTPAdapter.add_headers
+uHTTPAdapter.proxy_headers
+uHTTPAdapter.send
+ais_proxied_http_request
+    :param headers: (optional) Dictionary of HTTP Headers to send with the :class:`Request`.
+    :param auth: (optional) Auth tuple to enable Basic/Digest/Custom HTTP Auth.
+      >>> req = requests.request('GET', 'https://httpbin.org/get')
+uHTTPDigestAuth.build_digest_header.<locals>.md5_utf8
+uHTTPDigestAuth.build_digest_header.<locals>.sha_utf8
+uHTTPDigestAuth.build_digest_header.<locals>.sha256_utf8
+uHTTPDigestAuth.build_digest_header.<locals>.sha512_utf8
+uHTTPDigestAuth.build_digest_header.<locals>.<lambda>
+aHTTPBasicAuth
+uAttaches HTTP Basic Authentication to the given Request object.
+uHTTPBasicAuth.__init__
+uHTTPBasicAuth.__eq__
+uHTTPBasicAuth.__ne__
+uHTTPBasicAuth.__call__
+aHTTPProxyAuth
+uAttaches HTTP Proxy Authentication to a given Request object.
+uHTTPProxyAuth.__call__
+aHTTPDigestAuth
+uAttaches HTTP Digest Authentication to the given Request object.
+uHTTPDigestAuth.__init__
+uHTTPDigestAuth.init_per_thread_state
+uHTTPDigestAuth.build_digest_header
+uHTTPDigestAuth.handle_redirect
+uHTTPDigestAuth.handle_401
+uHTTPDigestAuth.__call__
+uHTTPDigestAuth.__eq__
+uHTTPDigestAuth.__ne__
+uhttp.cookies
+aparse_http_list
+Requests HTTP Library
+Requests is an HTTP library, written in Python, for human beings.
+   >>> r = requests.get('https://www.python.org')
+   >>> r = requests.post('https://httpbin.org/post', data=payload)
+The other HTTP methods are supported - see `requests.api`. Full documentation
+is at <https://requests.readthedocs.io>.
+        :param headers: a httplib.HTTPMessage or analogous carrying the headers
+    :param jar: http.cookiejar.CookieJar (not necessarily a RequestsCookieJar)
+    :param response: urllib3.HTTPResponse object
+uDeletes a cookie given a name. Wraps ``http.cookiejar.CookieJar``'s
+aHttpOnly
+u%a, %d-%b-%Y %H:%M:%S GMT
+ahttponly
+Compatibility code to be able to use `http.cookiejar.CookieJar` with requests.
+    The code in `http.cookiejar.CookieJar` expects this interface in order to correctly
+uWraps a `httplib.HTTPMessage` to mimic a `urllib.addinfourl`.
+    ...what? Basically, expose the parsed HTTP headers from the server response
+    the way `http.cookiejar` expects to see them.
+uCompatibility class; is a http.cookiejar.CookieJar, but exposes a dict
+aBaseHTTPError
+uAn HTTP error occurred.
+uThe URL scheme (e.g. http or https) is missing.
+uPrepares the given HTTP method.
+u: No scheme supplied. Perhaps you meant https://
+uPrepares the given HTTP URL.
+uPrepares the given HTTP headers.
+uPrepares the given HTTP body data.
+uPrepares the given HTTP auth data.
+uPrepares the given HTTP cookie data.
+uTrue if this Response is a well-formed HTTP redirect that could have
+        The encoding of the response content is determined based solely on HTTP
+        non-HTTP knowledge to make a better guess at the encoding, you should
+uRaises :class:`HTTPError`, if one occurred.
+    :param method: HTTP method to use.
+      >>> req = requests.Request('GET', 'https://httpbin.org/get')
+    server's response to an HTTP request.
+ahttp_error_msg
+lPnahttps
+uhttps://
+uhttp://
+        transmission and returns it. The :class:`PreparedRequest` has settings
+            session's settings.
+amerge_environment_settings
+        :param headers: (optional) Dictionary of HTTP Headers to send with the
+            Basic/Digest/Custom HTTP Auth.
+        Check the environment and merge it with some settings.
+This module provides a Session object to manage and persist settings across
+      >>> s.get('https://httpbin.org/get')
+      ...     s.get('https://httpbin.org/get')
+uSession.merge_environment_settings
+u* %d: %s
+The ``codes`` object defines a mapping from common names for HTTP statuses
+``codes.okay`` all correspond to the HTTP status code 200.
+ahttp_version_not_supported
+ahttp_version
+uSoftware\Microsoft\Windows\CurrentVersion\Internet Settings
+uReturns encodings from given HTTP Header Dict.
+    input to resolve a mapping of target proxies. This will consider settings
+    i.e. Link: <http:/.../front.jpeg>; rel=front; type="image/jpeg",<http://.../back.jpeg>; rel=back;type="image/jpeg"
+uMove file pointer back to its recorded starting position
+ainternetSettings
+unot expecting type '%s'
+u@python_2_unicode_compatible cannot be applied to %s because it doesn't define __str__().
+ahttp_cookiejar
+uhttp.cookiejar
+ahttp_cookies
+ahttp_client
+ahttplib
+uhttp.client
+aBaseHTTPServer
+uhttp.server
+aCGIHTTPServer
+aSimpleHTTPServer
+atkinter_font
+atkFont
+utkinter.font
+aHTTPDefaultErrorHandler
+aHTTPRedirectHandler
+aHTTPCookieProcessor
+aHTTPPasswordMgr
+aHTTPPasswordMgrWithDefaultRealm
+aHTTPBasicAuthHandler
+aHTTPDigestAuthHandler
+aHTTPHandler
+aHTTPSHandler
+aHTTPErrorProcessor
+ause_forwarding_for_https
+aHTTPHeaderDict
+aensure_can_construct_http_header_dict
+uHTTPHeaderDict.__iter__
+        >>> headers = HTTPHeaderDict(foo='bar')
+uHTTPHeaderDict.iteritems
+uHTTPHeaderDict.itermerged
+aHTTPHeaderDictItemView
+aValidHTTPHeaderSource
+uValidHTTPHeaderSource | None
+    HTTPHeaderDict is unusual for a Mapping[str, str] in that it has two modes of
+    However, if we iterate over an HTTPHeaderDict's items, we will optionally combine
+    >>> d = HTTPHeaderDict({"A": "1", "B": "foo"})
+uHTTPHeaderDictItemView.__init__
+uHTTPHeaderDictItemView.__len__
+uHTTPHeaderDictItemView.__iter__
+uHTTPHeaderDictItemView.__contains__
+    A ``dict`` like container for storing HTTP Headers.
+    compare equal, instead create a new ``HTTPHeaderDict`` and use ``.add``
+    >>> headers = HTTPHeaderDict()
+uHTTPHeaderDict.__init__
+uHTTPHeaderDict.__setitem__
+puHTTPHeaderDict.__getitem__
+uHTTPHeaderDict.__delitem__
+uHTTPHeaderDict.__contains__
+ppuHTTPHeaderDict.setdefault
+uHTTPHeaderDict.__eq__
+uHTTPHeaderDict.__ne__
+uHTTPHeaderDict.__len__
+uHTTPHeaderDict.discard
+uHTTPHeaderDict.add
+uHTTPHeaderDict.extend
+uHTTPHeaderDict.getlist
+uHTTPHeaderDict._prepare_for_method_change
+uHTTPHeaderDict.__repr__
+uHTTPHeaderDict._copy_from
+uHTTPHeaderDict.copy
+uHTTPHeaderDict.items
+uHTTPHeaderDict._has_value_for_header
+uHTTPHeaderDict.__ior__
+uHTTPHeaderDict.__or__
+uHTTPHeaderDict.__ror__
+aother_as_http_header_dict
+            HTTP request method (such as GET, POST, PUT, etc.)
+aBaseHTTPResponse
+    as :class:`urllib3.HTTPConnectionPool` and
+    Provides behavior for making common types of HTTP request methods and
+        actual TCP connection across which we're going to send HTTP requests).
+        We assume that only urllib3 uses the _dns_host attribute; httplib itself
+uhttp.client.connect
+uEstablish a socket connection and set nodelay settings on it.
+u, must be either 'http' or 'https'
+uHTTPConnection.putheader.<locals>.<genexpr>
+uHTTPConnection.request.<locals>.<genexpr>
+aHTTPResponse
+uFailed to parse headers (url=%s): %s
+taHTTPHeaderDict
+a_http_vsn_str
+uHTTP/?
+uCertificate did not match expected hostname: %s. Certificate: %s
+urecord layer failure
+aHTTPSConnection
+aHTTPConnection
+a_HTTPConnection
+aHTTPException
+    Based on :class:`http.client.HTTPConnection` but provides an extra constructor
+      defaults are loaded from ``HTTPConnection.default_socket_options`` which includes disabling
+         HTTPConnection.default_socket_options + [
+uHTTPConnection.__init__
+uHTTPConnection.host
+uHTTPConnection._new_conn
+nnahttp
+uHTTPConnection.set_tunnel
+uHTTPConnection.connect
+uHTTPConnection.is_closed
+uHTTPConnection.is_connected
+uHTTPConnection.has_connected_to_proxy
+uHTTPConnection.proxy_is_forwarding
+uHTTPConnection.close
+uHTTPConnection.putrequest
+uHTTPConnection.putheader
+uHTTPConnection.request
+uHTTPConnection.request_chunked
+uHTTPConnection.getresponse
+uHTTPSConnection.__init__
+uHTTPSConnection.set_cert
+uHTTPSConnection.connect
+uHTTPSConnection._connect_tls_proxy
+aVerifiedHTTPSConnection
+uHTTPConnection | HTTPSConnection
+ais_likely_http_proxy
+ahttp_proxy_warning
+ahttplib_response
+uStarting new HTTP connection (%d): %s:%s
+        Return a fresh :class:`HTTPConnection`.
+uResetting dropped connection: %s
+uConnection pool is full, discarding connection: %s. Connection pool size: %s
+u%s://%s:%s "%s %s HTTP/%s" %s %s
+unot enough values to unpack (expected at least 4, got %d)
+aconnection_requires_http_tunnel
+uRetrying (%r) after connection broken by '%r': %s
+uRedirecting %s -> %s
+uRetry: %s
+        Get a connection from the pool and perform an HTTP request. This is the
+            use the pool on an HTTP proxy and request foreign hosts.
+uEstablishes a tunnel connection through HTTP CONNECT.
+uStarting new HTTPS connection (%d): %s:%s
+uCan't connect to HTTPS URL because the SSL module is not available.
+        Return a fresh :class:`urllib3.connection.HTTPConnection`.
+uUnverified HTTPS request is being made to host '
+lPaHTTPSConnectionPool
+aHTTPConnectionPool
+        >>> conn = connection_from_url('http://google.com/')
+    :class:`.HTTPConnectionPool` and :class:`.HTTPSConnectionPool`.
+        Host used for this HTTP Connection (e.g. "localhost"), passed into
+        :class:`http.client.HTTPConnection`.
+        Port used for this HTTP Connection (None is equivalent to 80), passed
+        into :class:`http.client.HTTPConnection`.
+        be a float or integer, which sets the timeout for the HTTP request,
+        Additional parameters are used to create fresh :class:`urllib3.connection.HTTPConnection`,
+        :class:`urllib3.connection.HTTPSConnection` instances.
+utype[BaseHTTPConnection] | type[BaseHTTPSConnection]
+uHTTPConnectionPool.__init__
+aBaseHTTPConnection
+uHTTPConnectionPool._new_conn
+uHTTPConnectionPool._get_conn
+uBaseHTTPConnection | None
+uHTTPConnectionPool._put_conn
+uHTTPConnectionPool._validate_conn
+uHTTPConnectionPool._prepare_proxy
+uHTTPConnectionPool._get_timeout
+uHTTPConnectionPool._raise_timeout
+ppaBaseHTTPResponse
+uHTTPConnectionPool._make_request
+uHTTPConnectionPool.close
+uHTTPConnectionPool.is_same_host
+uHTTPConnectionPool.urlopen
+    Same as :class:`.HTTPConnectionPool`, but HTTPS.
+    :class:`.HTTPSConnection` uses one of ``assert_fingerprint``,
+utype[BaseHTTPSConnection]
+uHTTPSConnectionPool.__init__
+uHTTPSConnectionPool._prepare_proxy
+aBaseHTTPSConnection
+uHTTPSConnectionPool._new_conn
+uHTTPSConnectionPool._validate_conn
+uHTTPConnectionPool | HTTPSConnectionPool
+ahttp_tunnel_required
+uAdded a stderr logging handler to logger: %s
+        HTTP request method (such as GET, POST, PUT, etc.)
+Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more
+aHTTPSConnectionPool
+u. See: https://github.com/urllib3/urllib3/issues/3020
+ppu. See: https://github.com/urllib3/urllib3/issues/2168
+aHTTPWarning
+before you begin making HTTP requests. This can be done in a ``sitecustomize``
+.. _pyopenssl: https://www.pyopenssl.org
+.. _cryptography: https://cryptography.io
+.. _idna: https://github.com/kjd/idna
+    A plain-text HTTP connection that connects via a SOCKS proxy.
+aSOCKSHTTPSConnection
+aSOCKSHTTPConnectionPool
+aSOCKSHTTPSConnectionPool
+uProxy URL had no scheme, should start with http:// or https://
+u, should use http:// or https://
+ahttplib_IncompleteRead
+uRaised when SSL certificate fails in an HTTPS connection.
+    :type pool: :class:`~urllib3.connectionpool.HTTPConnectionPool`
+uWarned when making an unverified HTTPS request.
+aBodyNotHttplibCompatible
+    Body should be :class:`http.client.HTTPResponse` like
+    Subclass of :class:`http.client.IncompleteRead` to allow int value
+uFetching HTTPS resources through HTTPS proxies is unsupported
+    `RFC 2388 Section 4.4 <https://tools.ietf.org/html/rfc2388#section-4.4>`_.
+        https://html.spec.whatwg.org/multipage/
+    key for an HTTPS request. If you wish to change this behaviour, provide
+        request.  Normally this is only needed when not using an HTTP CONNECT
+        Same as :meth:`urllib3.HTTPConnectionPool.urlopen`
+uSame as HTTP(S)ConnectionPool.urlopen, ``url`` must be absolute.
+        http = urllib3.PoolManager(num_pools=2)
+        resp1 = http.request("GET", "https://google.com/")
+        resp2 = http.request("GET", "https://google.com/mail")
+        resp3 = http.request("GET", "https://yahoo.com/")
+        print(len(http.pools))
+nahttp
+    the defined proxy, using the CONNECT method for HTTPS URLs.
+        of HTTP they are being sent with each request, while in the
+        HTTPS/CONNECT case they are sent only once. Could be used for proxy
+        proxy when using HTTPS proxies.
+    :param use_forwarding_for_https:
+        (Defaults to False) If set to True will forward requests to the HTTPS
+        and response headers and content will be visible from the HTTPS proxy**
+        to an HTTPS proxy even when this flag is disabled.
+        proxy = urllib3.ProxyManager("https://localhost:3128/")
+        resp1 = proxy.request("GET", "https://google.com/")
+        resp2 = proxy.request("GET", "https://httpbin.org/")
+        resp3 = proxy.request("GET", "https://httpbin.org/")
+        resp4 = proxy.request("GET", "https://twitter.com/")
+uBaseHTTPResponse.__init__.<locals>.<genexpr>
+        Deserializes the body of the HTTP response as a Python object.
+        The body of the HTTP response must be encoded using UTF-8, as per
+        `RFC 8529 Section 8.1 <https://www.rfc-editor.org/rfc/rfc8259#section-8.1>`_.
+        To use a custom JSON decoder pass the result of :attr:`HTTPResponse.data` to
+        If the body of the HTTP response is not decodable to UTF-8, a
+        `UnicodeDecodeError` will be raised. If the body of the HTTP response is not a
+        :returns: The body of the HTTP response as a Python object.
+uReceived response with content-encoding: %s, but failed to decode it.
+        Read and discard any remaining HTTP response data in the response connection.
+        Unread data in the HTTPResponse connection blocks the connection from being released back to the pool.
+        the amount of content returned by :meth:``urllib3.response.HTTPResponse.read``
+uContent-Length contained multiple unmatching values (%s)
+uHTTPResponse._error_catcher
+            https://github.com/urllib3/urllib3/issues/2513#issuecomment-1152559900.
+        Similar to :meth:`http.client.HTTPResponse.read`, but with two additional
+        Similar to ``http.client.HTTPResponse.read1`` and documented
+uHTTPResponse.stream
+uHTTPResponse has no file to get a fileno from
+uThe file-like object this HTTPResponse is wrapped around has no file descriptor
+        :class:`http.client.HTTPResponse` object. We do this by testing for
+        Similar to :meth:`HTTPResponse.read`, but with an additional
+uBody should be http.client.HTTPResponse like. It should have have an fp attribute which returns raw chunks.
+uHTTPResponse.read_chunked
+uHTTPResponse.__iter__
+aHTTPMessage
+a_HttplibHTTPMessage
+a_HttplibHTTPResponse
+uBaseHTTPResponse.__init__
+uBaseHTTPResponse.get_redirect_location
+uBaseHTTPResponse.data
+uBaseHTTPResponse.json
+uBaseHTTPResponse.url
+uBaseHTTPResponse.connection
+uBaseHTTPResponse.retries
+uBaseHTTPResponse.stream
+uBaseHTTPResponse.read
+uBaseHTTPResponse.read1
+uBaseHTTPResponse.read_chunked
+uBaseHTTPResponse.release_conn
+uBaseHTTPResponse.drain_conn
+uBaseHTTPResponse.close
+uBaseHTTPResponse._init_decoder
+uBaseHTTPResponse._decode
+uBaseHTTPResponse._flush_decoder
+uBaseHTTPResponse.readinto
+uBaseHTTPResponse.getheaders
+uBaseHTTPResponse.getheader
+uBaseHTTPResponse.info
+uBaseHTTPResponse.geturl
+    HTTP Response container.
+    Backwards-compatible with :class:`http.client.HTTPResponse` but the response ``body`` is
+    Extra parameters for behaviour not present in :class:`http.client.HTTPResponse`:
+        When this HTTPResponse wrapper is generated from an :class:`http.client.HTTPResponse`
+puHTTP/?
+pu_HttplibHTTPResponse | None
+uHTTPConnectionPool | None
+uHTTPConnection | None
+u_HttplibHTTPMessage | None
+uHTTPResponse.__init__
+uHTTPResponse.release_conn
+uHTTPResponse.drain_conn
+uHTTPResponse.data
+uHTTPResponse.connection
+uHTTPResponse.isclosed
+uHTTPResponse.tell
+uHTTPResponse._init_length
+uHTTPResponse._fp_read
+uHTTPResponse._raw_read
+uHTTPResponse.read
+uHTTPResponse.read1
+uHTTPResponse.readable
+uHTTPResponse.close
+uHTTPResponse.closed
+uHTTPResponse.fileno
+uHTTPResponse.flush
+uHTTPResponse.supports_chunked_reads
+uHTTPResponse._update_chunk_length
+uHTTPResponse._handle_chunk
+uHTTPResponse.url
+    :param conn: :class:`urllib3.connection.HTTPConnection` object.
+    will perform a DNS search for both IPv6 and IPv4 records.
+    Returns True if the connection requires an HTTP CONNECT through the proxy.
+        The scheme of the destination. (i.e https, http, etc)
+    Otherwise, we'll attempt to record a position for future use.
+uUnable to record file position for rewinding request body during a redirect/retry.
+uTakes the HTTP request method, body, and blocksize and
+uexpected httplib.Message, got 
+    :param http.client.HTTPMessage headers: Headers to verify.
+    :param http.client.HTTPResponse response:
+uhttplib.HTTPMessage
+uhttplib.HTTPResponse
+uChecks if a given HTTP method should be retried upon, depending if
+uIncremented Retry for (url='%s'): %r
+        :type response: :class:`~urllib3.response.BaseHTTPResponse`
+        http = PoolManager(retries=retries)
+        response = http.request("GET", "https://example.com/")
+        response = http.request("GET", "https://example.com/", retries=Retry(10))
+        response = http.request("GET", "https://example.com/", retries=False)
+        A redirect is a HTTP response with a status code 301, 302, 303, 307 or
+        Set of uppercased HTTP method verbs that we should retry on.
+        A set of integer HTTP status codes that we should force a retry on.
+uBaseHTTPResponse | None
+    https://github.com/urllib3/urllib3/issues/2192#issuecomment-821832963
+    https://foss.heptapod.net/pypy/pypy/-/issues/3539
+uhttp/1.1
+    http://tools.ietf.org/html/rfc6125#section-6.4.3
+uhostname %r doesn't match either of %s
+        Python's httpclient uses makefile and buffered io when reading HTTP
+uTimeout value %s was %s, but it must be an int, float or None.
+uAttempted to set %s timeout to %s, but the timeout cannot be set to a value less than or equal to 0.
+        The timeout value used by httplib.py sets the same timeout on the
+        http = urllib3.PoolManager(timeout=timeout)
+        resp = http.request("GET", "https://example.com/")
+       response = http.request("GET", "https://example.com/", timeout=Timeout(10))
+       response = http.request("GET", "https://example.com/", timeout=no_timeout)
+        <http://hg.python.org/cpython/file/603b4d593758/Lib/socket.py#l535>`_.
+        an HTTP response.
+            U = urllib3.util.parse_url("https://google.com/mail/")
+            # "https://google.com/mail/"
+            print( urllib3.util.Url("https", "username:password",
+            # "https://username:password@host.com:80/path?query#fragment"
+        print( urllib3.util.parse_url('http://google.com/mail/'))
+        # Url(scheme='http', host='google.com', port=None, path='/mail/', ...)
+u^(%s|%s|%s)(?::0*?(|0|[1-9][0-9]{0,4}))?$
+    Data structure for representing an HTTP URL. Used as a return value for
+aCC_RGBINIT
+aCF_SCREENFONTS
+aCF_PRINTERFONTS
+aCF_INITTOLOGFONTSTRUCT
+aCF_NOVECTORFONTS
+aCF_NOOEMFONTS
+aCF_FORCEFONTEXIST
+aCF_NOVERTFONTS
+aSIMULATED_FONTTYPE
+aPRINTER_FONTTYPE
+aSCREEN_FONTTYPE
+aBOLD_FONTTYPE
+aITALIC_FONTTYPE
+aREGULAR_FONTTYPE
+aOPENTYPE_FONTTYPE
+aTYPE1_FONTTYPE
+aDSIG_FONTTYPE
+aWM_CHOOSEFONT_GETLOGFONT
+aWM_CHOOSEFONT_SETLOGFONT
+aWM_CHOOSEFONT_SETFLAGS
+acommdlg_SetRGBColor
+aSETRGBSTRINGA
+aSETRGBSTRING
+aEC_USEFONTINFO
+aRT_FONTDIR
+aRT_FONT
+aWH_JOURNALRECORD
+aDESKTOP_JOURNALRECORD
+aWM_FONTCHANGE
+aWM_SETFONT
+aWM_GETFONT
+aDS_SETFONT
+aIMC_GETCOMPOSITIONFONT
+aIMC_SETCOMPOSITIONFONT
+aDOMAIN_ALIAS_RID_BACKUP_OPS
+aSeBackupPrivilege
+aSE_BACKUP_NAME
+aOBJ_FONT
+aBI_RGB
+aNUMFONTS
+aRC_BIGFONT
+aDIB_RGB_COLORS
+aFONTMAPPER_MAX
+aEMR_EXTCREATEFONTINDIRECTW
+aRASTER_FONTTYPE
+aDEVICE_FONTTYPE
+aTRUETYPE_FONTTYPE
+aOEM_FIXED_FONT
+aANSI_FIXED_FONT
+aANSI_VAR_FONT
+aSYSTEM_FONT
+aDEVICE_DEFAULT_FONT
+aSYSTEM_FIXED_FONT
+aSPI_GETICONTITLELOGFONT
+aSPI_SETICONTITLELOGFONT
+aSPI_GETFASTTASKSWITCH
+aSPI_SETFASTTASKSWITCH
+aSPI_GETFONTSMOOTHING
+aSPI_SETFONTSMOOTHING
+l@aSPI_GETFONTSMOOTHINGTYPE
+l@aSPI_SETFONTSMOOTHINGTYPE
+l@aSPI_GETFONTSMOOTHINGCONTRAST
+l@aSPI_SETFONTSMOOTHINGCONTRAST
+l@aSPI_GETFONTSMOOTHINGORIENTATION
+l@aSPI_SETFONTSMOOTHINGORIENTATION
+aFE_FONTSMOOTHINGSTANDARD
+aFE_FONTSMOOTHINGCLEARTYPE
+aFE_FONTSMOOTHINGDOCKING
+aENUM_CURRENT_SETTINGS
+aENUM_REGISTRY_SETTINGS
+aIMN_SETCOMPOSITIONFONT
+aMETA_CREATEFONTINDIRECT
+aFILE_FLAG_BACKUP_SEMANTICS
+aBACKUP_INVALID
+aBACKUP_DATA
+aBACKUP_EA_DATA
+aBACKUP_SECURITY_DATA
+aBACKUP_ALTERNATE_DATA
+aBACKUP_LINK
+aBACKUP_PROPERTY_DATA
+aBACKUP_OBJECT_ID
+aBACKUP_REPARSE_DATA
+aBACKUP_SPARSE_BLOCK
+aAC_LINE_BACKUP_POWER
+uunsupported type %s
+uUsing deprecated class%s. %s
+uCall to deprecated item%s. %s
+uAccessing deprecated property. %s
+aNORMAL_FONT
+aFONT_NORMAL
+aSMALL_FONT
+aFONT_SMALL
+aSWISS_FONT
+aFONT_SWISS
+aITALIC_FONT
+aFONT_ITALIC
+aGetColour
+aCOLOUR_BLACK
+aCOLOUR_BLUE
+aCOLOUR_CYAN
+aCOLOUR_GREEN
+aCOLOUR_YELLOW
+aCOLOUR_LIGHTGREY
+aCOLOUR_RED
+aCOLOUR_WHITE
+a_getTheFontList
+aTheFontList
+a_getTheColourDatabase
+aTheColourDatabase
+u<wx.DateTime: "%s">
+a_im_Colour
+    Returns an immutable representation of the ``wx.Colour`` object, based on ``namedtuple``.
+    be added to sets, etc.  It can be converted back into a real ``wx.Colour``
+    with a simple statement like this: ``obj = wx.Colour(imObj)``.
+uwx.Colour
+    Compatibility wrapper for creating an image from RGB data
+    Compatibility wrapper for creating an image from RGB and Alpha data
+    contain a series of RGB bytes and be width*height*3 bytes long.  A buffer
+aFromBufferRGBA
+    A compatibility wrapper for :meth:`wx.Bitmap.FromBufferRGBA`
+aFromRGBA
+    A compatibility wrapper for :meth:`wx.Bitmap.FromRGBA`
+    :param foregrounds: A list of `wx.Colour` objects to use for the
+    :param backgrounds: A list of `wx.Colour` objects to use for the
+upixel(%d,%d): %s
+        default "C" locale settings.
+uIndex (%s) out of range
+uString ('%s') not found
+paSetColour
+aColourPickerCtrl
+a_colourData
+aColourData
+aSetCustomColour
+acolour
+aColourDialog
+aGetColourData
+aColourPickerEvent
+uwx.lib.colourutils
+aBestLabelColour
+aColourPickerButton
+aEVT_COLOURPICKER_CHANGED
+aOnColourChange
+uSet the displayed colour.
+uReturns the currently selected colour.
+u%s %s (phoenix) %s
+a_ColourDatabase_FindColour
+aColourDatabase
+aFindColour
+a_Colour_GetIM
+a_Colour___str__
+a_Colour___repr__
+a_Colour___len__
+a_Colour___reduce__
+a_Colour___getitem__
+a_Colour___setitem__
+uUse Colour instead.
+aNamedColour
+uUse :meth:`wx.Bitmap.FromBufferRGBA` instead.
+aBitmapFromBufferRGBA
+uUse :meth:`wx.Bitmap.FromRGBA` instead.
+aEmptyBitmapRGBA
+a_Font_SetNoAntiAliasing
+a_Font_GetNoAntiAliasing
+aFONTFAMILY_DEFAULT
+aFONTFAMILY_DECORATIVE
+aFONTFAMILY_ROMAN
+aFONTFAMILY_SCRIPT
+aFONTFAMILY_SWISS
+aFONTFAMILY_MODERN
+aFONTFAMILY_TELETYPE
+aFONTWEIGHT_NORMAL
+aFONTWEIGHT_LIGHT
+aFONTWEIGHT_BOLD
+aFONTSTYLE_NORMAL
+aFONTSTYLE_ITALIC
+aFONTSTYLE_SLANT
+a_DCTextColourChanger___enter__
+aDCTextColourChanger
+a_DCTextColourChanger___exit__
+a_DCFontChanger___enter__
+aDCFontChanger
+a_DCFontChanger___exit__
+a_DCTextBgColourChanger___enter__
+aDCTextBgColourChanger
+a_DCTextBgColourChanger___exit__
+awxEVT_SYS_COLOUR_CHANGED
+aEVT_SYS_COLOUR_CHANGED
+awxEVT_COLOURPICKER_CHANGED
+awxEVT_COLOURPICKER_CURRENT_CHANGED
+aEVT_COLOURPICKER_CURRENT_CHANGED
+awxEVT_COLOURPICKER_DIALOG_CANCELLED
+aEVT_COLOURPICKER_DIALOG_CANCELLED
+awxEVT_COMMAND_COLOURPICKER_CHANGED
+awxEVT_FONTPICKER_CHANGED
+aEVT_FONTPICKER_CHANGED
+awxEVT_COMMAND_FONTPICKER_CHANGED
+        This control allows the user to select a colour. The
+        brings up a `wx.ColourDialog` when clicked.
+                                    by the `wx.ColourPickerCtrl` and which can
+                                    be used by the user to specify a colour.
+            wx.CLRP_SHOW_LABEL      Shows the colour in HTML form (AABBCC) as the
+                                    colour button label (instead of no label at all).
+            EVT_COLOURPICKER_CHANGED  The user changed the colour selected in the
+uColourPickerCtrl.ColourPickerButton
+acolourpickerwidget
+uColourPickerCtrl.ColourPickerButton.__init__
+uColourPickerCtrl.ColourPickerButton.SetColour
+uColourPickerCtrl.ColourPickerButton.GetColour
+uColourPickerCtrl.ColourPickerButton.OnButtonClick
+uColourPickerCtrl.ColourPickerButton._makeBitmap
+acolourpicker
+uColourPickerCtrl.__init__
+uColourPickerCtrl.GetColour
+uColourPickerCtrl.SetColour
+uColourPickerCtrl.UpdatePickerFromTextCtrl
+uColourPickerCtrl.UpdateTextCtrlFromPicker
+uColourPickerCtrl.GetPickerStyle
+uColourPickerCtrl.OnColourChange
+awxEVT_COLOUR_CHANGED
+aEVT_COLOUR_CHANGED
+ERROR: Style "AS_SHADOW_BITMAP" Used With Invalid "shadowcolour" Parameter
+aSetTextFont
+         can obtain the same effect as above by masking a specific colour in
+        :param `shadowcolour`: if you construct :class:`AdvancedSplash` using the style
+         ``AS_SHADOW_BITMAP``, here you can specify the colour that will be masked on
+         your input bitmap. This has to be a valid wxPython colour.
+        :type shadowcolour: :class:`wx.Colour`
+         - The ``AS_SHADOW_BITMAP`` style is set but `shadowcolour` is not a valid wxPython colour;
+        :param `bmp`: the bitmap to which we want to apply the mask colour `shadowcolour`;
+        :param `shadowcolour`: the mask colour for our bitmap.
+aGetTextColour
+aGetTextFont
+a_textfont
+        Sets the font for the text in :class:`AdvancedSplash`.
+        :param `font`: the font to use while drawing the text on top of our bitmap. If `font`
+         is ``None``, a simple generic font is generated.
+        :type font: :class:`wx.Font` or ``None``
+        Gets the font for the text in :class:`AdvancedSplash`.
+        :return: An instance of :class:`wx.Font` to draw the text and a :class:`wx.Size` object containing
+a_textcolour
+        Sets the colour for the text in :class:`AdvancedSplash`.
+        :param `colour`: the text colour to use while drawing the text on top of our
+         bitmap. If `colour` is ``None``, then ``wx.BLACK`` is used.
+        :type colour: :class:`wx.Colour` or ``None``
+        Gets the colour for the text in :class:`AdvancedSplash`.
+        :return: An instance of :class:`wx.Colour`.
+                               shadowcolour=shadow)
+Methods and Settings
+- Whether you want to mask a colour or not in your input bitmap;
+- The font, colour and position of the displayed text (optional).
+l'aNullColour
+uAdvancedSplash.SetTextFont
+uAdvancedSplash.GetTextFont
+uAdvancedSplash.SetTextColour
+uAdvancedSplash.GetTextColour
+atextcolour
+atextfont
+ashadowcolour
+- CubeColourDialog: an alternative implementation of :class:`wx.ColourDialog`, it
+  offers different functionalities like colour wheel and RGB cube;
+http://svn.wxwidgets.org/viewvc/wx/wxPython/3rdParty/AGW/
+http://xoomer.alice.it/infinity77
+a_LinkRolloverColour
+a_VisitedColour
+a_LinkColour
+afontTemp
+        Sets the colours for the link, the visited link and the mouse rollover.
+        :param `link`: a valid :class:`wx.Colour` to use as text foreground for new links
+        :param `visited`: a valid :class:`wx.Colour` to use as text foreground for visited
+        :param `rollover`: a valid :class:`wx.Colour` to use as text foreground for links
+        Gets the colours for the link, the visited link and the mouse
+                                      URL="http://www.wxpython.org/")
+                                      URL="http://xoomer.virgilio.it/infinity77/")
+            hyper2.SetColours("BLUE", "BLUE", "BLUE")
+lOl/lOuHyperLinkCtrl.SetColours
+aGetColours
+uHyperLinkCtrl.GetColours
+a_border_colour
+a_barColour
+a_barColourSorted
+u Returns the :class:`PyGauge` border colour. 
+        Sets the :class:`PyGauge` border colour.
+        :param `colour`: an instance of :class:`wx.Colour`.
+u Returns the :class:`PyGauge` main bar colour. 
+        Sets the :class:`PyGauge` main bar colour.
+u Returns a tuple containing the gradient start and end colours. 
+        :param `gradient`: a tuple containing the gradient start and end colours.
+        :note: This overrides the bar colour previously set with :meth:`PyGauge.SetBarColour`.
+aGetBackgroundColour
+aGetBorderColour
+a_drawIndicatorText_font
+a_drawIndicatorText_colour
+uWe have exception: %s
+        :param wx.Font `font`: a font with which indication should be drawn, if ``None``, then ``wx.NORMAL_FONT``
+         will be used. Usually text would be displayed centered in the control, but if the text font is too large
+            gauge1.SetBackgroundColour(wx.WHITE)
+            gauge2.SetBarColor([wx.Colour(162, 255, 178), wx.Colour(159, 176, 255)])
+            gauge2.SetBackgroundColour(wx.WHITE)
+            gauge3.SetBackgroundColour(wx.WHITE)
+uPyGauge.GetBorderColour
+aSetBorderColour
+uPyGauge.SetBorderColour
+aGetBarColour
+uPyGauge.GetBarColour
+aSetBarColour
+uPyGauge.SetBarColour
+aSetMaskColour
+        Adds a new image or images using a bitmap and a colour mask.
+        :param `colour`: an instance of :class:`wx.Colour`, a colour indicating which parts
+a_font
+a_footerFont
+        :param `colText`: the item text colour;
+        :param `colBack`: the item background colour;
+        :param `font`: the item font;
+        :param `footerColText`: for footer items, the item text colour;
+        :param `footerColBack`: for footer items, the item background colour;
+        :param `footerFont`: for footer items, the item font.
+        Sets a new text colour.
+        :param `colText`: an instance of :class:`wx.Colour`.
+        Sets a new background colour.
+        :param `colBack`: an instance of :class:`wx.Colour`.
+        Sets a new font for the item.
+        :param `font`: an instance of :class:`wx.Font`.
+        Sets a new footer item text colour.
+        Sets a new footer item background colour.
+        Sets a new font for the footer item.
+u Returns ``True`` if the currently set text colour is valid. 
+u Returns ``True`` if the currently set background colour is valid. 
+u Returns ``True`` if the currently set font is valid. 
+        Returns ``True`` if the currently set text colour for the footer item
+        Returns ``True`` if the currently set background colour for the footer item
+        Returns ``True`` if the currently set font for the footer item
+u Returns the currently set text colour. 
+u Returns the currently set background colour. 
+u Returns the currently set item font. 
+u Returns the currently set text colour for a footer item. 
+u Returns the currently set background colour for a footer item. 
+u Returns the currently set font for a footer item. 
+a_colour
+         ``ULC_MASK_FONTCOLOUR``           0x80 :meth:`~UltimateListItem.GetTextColour` is valid
+         ``ULC_MASK_FONT``                0x100 :meth:`~UltimateListItem.GetFont` is valid
+         ``ULC_MASK_BACKCOLOUR``          0x200 :meth:`~UltimateListItem.GetBackgroundColour` is valid
+         ``ULC_MASK_FOOTER_FONT``      0x400000 :meth:`~UltimateListItem.GetFooterFont` is valid
+        Sets the text colour for the item.
+        :param `colText`: a valid :class:`wx.Colour` object.
+        Sets the background colour for the item.
+        :param `colBack`: a valid :class:`wx.Colour` object.
+        Sets the font for the item.
+        :param `font`: a valid :class:`wx.Font` object.
+aSetFooterTextColour
+        Sets the text colour for the footer item.
+aSetFooterBackgroundColour
+        Sets the background colour for the footer item.
+aSetFooterFont
+        Sets the font for the footer item.
+aNullColour
+u Returns the text colour. 
+u Returns the background colour. 
+aNullFont
+u Returns the item font. 
+aSystemSettings
+aSYS_DEFAULT_GUI_FONT
+aGetFooterTextColour
+u Returns the footer item text colour. 
+aGetFooterBackgroundColour
+u Returns the footer item background colour. 
+aGetFooterFont
+u Returns the footer item font. 
+a_backColour
+a_hasFont
+u Returns the currently set font. 
+a_hasColour
+        Sets the text font for the item.
+a_hasBackColour
+aULC_MASK_FONTCOLOUR
+aSetColour
+aULC_MASK_FONT
+aULC_MASK_BACKCOLOUR
+aHasTextColour
+aHasBackgroundColour
+aHasFont
+u Returns the header/footer item font. 
+aULC_MASK_FOOTER_FONT
+        Sets a new font for the header item.
+        :param `c`: an instance of :class:`wx.Colour`.
+aSYS_COLOUR_HIGHLIGHTTEXT
+aHasColour
+aGetDisabledTextColour
+aGetHyperTextFont
+aGetHyperTextVisitedColour
+aGetHyperTextNewColour
+a_secondcolour
+a_firstcolour
+        Gradient fill from colour 1 to colour 2 from top to bottom.
+        Gradient fill from colour 1 to colour 2 from left to right.
+a_rgbSelectOuter
+a_rgbSelectInner
+a_rgbSelectTop
+a_rgbSelectBottom
+a_rgbNoFocusOuter
+a_rgbNoFocusInner
+a_rgbNoFocusTop
+a_rgbNoFocusBottom
+aSetOwnForegroundColour
+aSetOwnBackgroundColour
+aSetOwnFont
+aSYS_COLOUR_WINDOWTEXT
+aSYS_COLOUR_BTNFACE
+aSYS_COLOUR_HIGHLIGHT
+aSYS_COLOUR_BTNSHADOW
+ppa_disabledColour
+paFont
+a_hypertextfont
+a_hypertextnewcolour
+a_hypertextvisitedcolour
+        Overridden base class virtual to reset the line height when the font changes.
+aSYS_COLOUR_3DLIGHT
+u Returns the colour to be used for drawing the horizontal and vertical rules. 
+aOnGetItemTextColour
+aGetRuleColour
+uReturns the font used to render an hypertext item.
+        Sets the font used to render hypertext items.
+        :param `font`: a valid :class:`wx.Font` instance.
+        Sets the colour used to render a non-visited hypertext item.
+        :param `colour`: a valid :class:`wx.Colour` instance.
+u Returns the colour used to render a non-visited hypertext item. 
+        Sets the colour used to render a visited hypertext item.
+u Returns the colour used to render a visited hypertext item. 
+        Sets the first gradient colour for gradient-style selections.
+        :param `colour`: if not ``None``, a valid :class:`wx.Colour` instance. Otherwise,
+         the colour is taken from the system value ``wx.SYS_COLOUR_HIGHLIGHT``.
+        Sets the second gradient colour for gradient-style selections.
+         the colour generated is a slightly darker version of the :class:`UltimateListCtrl`
+         background colour.
+u Returns the first gradient colour for gradient-style selections. 
+u Returns the second gradient colour for gradient-style selections. 
+        Sets the items disabled colour.
+u Returns the items disabled colour. 
+        Sets the item text colour.
+        :param `col`: a valid :class:`wx.Colour` object.
+        Returns the item text colour.
+        Sets the item background colour.
+        Returns the item background colour.
+aGetItemBackgroundColour
+        Sets the item font.
+        :param `f`: a valid :class:`wx.Font` object.
+        Returns the item font.
+u Returns the :class:`UltimateListCtrl` foreground colour. 
+        Sets the :class:`UltimateListCtrl` foreground colour.
+        Changes the background colour of :class:`UltimateListCtrl`.
+        :param `colour`: the colour to be used as the background colour, pass
+         :class:`NullColour` to reset to the default colour.
+        :note: The background colour is usually painted by the default :class:`EraseEvent`
+        :note: Setting the background colour does not cause an immediate refresh, so
+        Changes the foreground colour of :class:`UltimateListCtrl`.
+        :param `colour`: the colour to be used as the foreground colour, pass
+        Sets the :class:`UltimateListCtrl` font.
+aSYS_COLOUR_LISTBOXTEXT
+aSYS_COLOUR_LISTBOX
+        Returns the default font and colours which are used by the control. This is
+        useful if you want to use the same font or colour in your own control as in
+        colours or fonts which might look completely out of place on the users system,
+        :note: The :class:`VisualAttributes` structure has at least the fields `font`,
+         colour, if the field doesn't make sense as is the case for `colBg` for the
+        Returns the background colour of the window.
+        Returns the foreground colour of the window.
+uUltimateListCtrl.OnGetItemTextColour not supposed to be called
+        ``ULC_VIRTUAL`` style. It should return a :class:`wx.Colour` object or ``None`` for
+aSetFirstGradientColour
+aSetSecondGradientColour
+aGetFirstGradientColour
+aGetSecondGradientColour
+aSetDisabledTextColour
+u Returns the font used to render an hypertext item. 
+aSetHyperTextFont
+aSetHyperTextNewColour
+aSetHyperTextVisitedColour
+uInvalid height passed to SetHeaderHeight: %s
+uInvalid height passed to SetFooterHeight: %s
+* Font, colour, background, custom renderers and formatting for items and subitems;
+* Column headers are fully customizable in terms of icons, colour, font, alignment etc...;
+* Column footers are fully customizable in terms of icons, colour, font, alignment etc...;
+aAddWithColourMask
+uPyImageList.AddWithColourMask
+    Represents the attributes (colour, font, ...) of a :class:`UltimateListCtrl`
+uUltimateListItemAttr.SetTextColour
+uUltimateListItemAttr.SetBackgroundColour
+uUltimateListItemAttr.SetFont
+uUltimateListItemAttr.SetFooterTextColour
+uUltimateListItemAttr.SetFooterBackgroundColour
+uUltimateListItemAttr.SetFooterFont
+uUltimateListItemAttr.HasTextColour
+uUltimateListItemAttr.HasBackgroundColour
+uUltimateListItemAttr.HasFont
+aHasFooterTextColour
+uUltimateListItemAttr.HasFooterTextColour
+aHasFooterBackgroundColour
+uUltimateListItemAttr.HasFooterBackgroundColour
+aHasFooterFont
+uUltimateListItemAttr.HasFooterFont
+uUltimateListItemAttr.GetTextColour
+uUltimateListItemAttr.GetBackgroundColour
+uUltimateListItemAttr.GetFont
+uUltimateListItemAttr.GetFooterTextColour
+uUltimateListItemAttr.GetFooterBackgroundColour
+uUltimateListItemAttr.GetFooterFont
+uUltimateListItem.SetTextColour
+uUltimateListItem.SetBackgroundColour
+uUltimateListItem.SetFont
+uUltimateListItem.SetFooterTextColour
+uUltimateListItem.SetFooterBackgroundColour
+uUltimateListItem.SetFooterFont
+uUltimateListItem.GetTextColour
+uUltimateListItem.GetBackgroundColour
+uUltimateListItem.GetFont
+uUltimateListItem.GetFooterTextColour
+uUltimateListItem.GetFooterBackgroundColour
+uUltimateListItem.GetFooterFont
+uUltimateListItemData.GetBackgroundColour
+uUltimateListItemData.GetColour
+uUltimateListItemData.GetFont
+uUltimateListItemData.SetColour
+uUltimateListItemData.SetFont
+uUltimateListItemData.SetBackgroundColour
+uUltimateListItemData.HasColour
+uUltimateListItemData.HasFont
+uUltimateListItemData.HasBackgroundColour
+uUltimateListHeaderData.GetFont
+uUltimateListHeaderData.SetFont
+uUltimateListHeaderData.SetFooterFont
+uUltimateListLineData.SetColour
+uUltimateListMainWindow.SetFont
+uUltimateListMainWindow.GetRuleColour
+uUltimateListMainWindow.GetHyperTextFont
+uUltimateListMainWindow.SetHyperTextFont
+uUltimateListMainWindow.SetHyperTextNewColour
+uUltimateListMainWindow.GetHyperTextNewColour
+uUltimateListMainWindow.SetHyperTextVisitedColour
+uUltimateListMainWindow.GetHyperTextVisitedColour
+uUltimateListMainWindow.SetFirstGradientColour
+uUltimateListMainWindow.SetSecondGradientColour
+uUltimateListMainWindow.GetFirstGradientColour
+uUltimateListMainWindow.GetSecondGradientColour
+uUltimateListMainWindow.SetDisabledTextColour
+uUltimateListMainWindow.GetDisabledTextColour
+aSetItemTextColour
+uUltimateListCtrl.SetItemTextColour
+aGetItemTextColour
+uUltimateListCtrl.GetItemTextColour
+uUltimateListCtrl.SetItemBackgroundColour
+uUltimateListCtrl.GetItemBackgroundColour
+aSetItemFont
+uUltimateListCtrl.SetItemFont
+aGetItemFont
+uUltimateListCtrl.GetItemFont
+uUltimateListCtrl.GetTextColour
+uUltimateListCtrl.SetTextColour
+uUltimateListCtrl.SetBackgroundColour
+uUltimateListCtrl.SetForegroundColour
+uUltimateListCtrl.SetFont
+uUltimateListCtrl.GetBackgroundColour
+uUltimateListCtrl.GetForegroundColour
+uUltimateListCtrl.OnGetItemTextColour
+uUltimateListCtrl.SetFirstGradientColour
+uUltimateListCtrl.SetSecondGradientColour
+uUltimateListCtrl.GetFirstGradientColour
+uUltimateListCtrl.GetSecondGradientColour
+uUltimateListCtrl.SetDisabledTextColour
+uUltimateListCtrl.GetDisabledTextColour
+uUltimateListCtrl.GetHyperTextFont
+uUltimateListCtrl.SetHyperTextFont
+uUltimateListCtrl.SetHyperTextNewColour
+uUltimateListCtrl.GetHyperTextNewColour
+uUltimateListCtrl.SetHyperTextVisitedColour
+uUltimateListCtrl.GetHyperTextVisitedColour
+amaskColour
+aboldFont
+acoloured
+anormalFont
+afooterFont
+wrwgwbabackcolour
+wxwywwwh.wx.lib.colourutils
+    Adjust the alpha of a given colour
+    :param integer `alpha`: the new value for the colour alpha channel (between 0
+    :rtype: :class:`wx.Colour`
+    :returns: A new :class:`wx.Colour` with the alpha channel specified as input
+    Brighten/darken input colour by `percent` and adjust alpha
+    :param wx.Colour `color`: color object to adjust;
+    :returns: A new darkened/lightened :class:`wx.Colour` with the alpha channel
+aAdjustColour
+    :param wx.Colour `color`: background color that text will be drawn on;
+aMacThemeColour
+Some useful colour-related utility functions.
+uCody Precord <cprecord@editra.org>
+aGetHighlightColour
+uwx\lib\colourutils.py
+u<module wx.lib.colourutils>
+        Sets the font for the :class:`ExpandoTextCtrl`.
+        :param wx.Font font: font to associate with the :class:`ExpandoTextCtrl`, pass
+         ``NullFont`` to reset to the default font.
+        :returns: ``True`` if the font was really changed, ``False`` if it was already
+         set to this font and nothing was done.
+uExpandoTextCtrl.SetFont
+uGenerate GOO with %d
+uMOO = %s
+ugoo = %s
+            b = wx.Button(self, ID_CMD1, "Generate GOO with %d" % ID_CMD1)
+            b = wx.Button(self, ID_CMD2, "Generate GOO with %d" % ID_CMD2)
+            self.show("MOO = %s" % e.moo, "Got Moo")
+            self.show("goo = %s" % e.goo, "Got Goo (cmd1)")
+            self.show("goo = %s" % e.goo, "Got Goo (cmd2)")
+        Sets the static text font and updates the control's size to exactly
+        :param wx.Font `font`: a valid font instance, which will be the new font used
+        the control based on the label size and the current font.
+        the same font/colour attributes as the native :class:`wx.StaticText`.
+aSYS_COLOUR_GRAYTEXT
+background colour.
+    st2.SetBackgroundColour('Yellow')
+uGenStaticText.SetFont
+        colours then we want this control to inherit them.
+aShouldInheritColours
+uGenStaticText.ShouldInheritColours
+athemeColour
+    using its current font settings.  By default words that are wider
+uunable to set compression context parameter: %s
+uunable to get compression context parameter: %s
+uerror setting source size: %s
+uzstd compress error: %s
+uerror ending compression stream: %s
+ulevel must be less than %d
+ucould not set compression parameters: %s
+ucould not load compression dictionary: %s
+ucannot compress: %s
+ucould not determine frame header size: %s
+ucannot get frame parameters: %s
+unot enough data for frame parameters; need %d bytes
+uinvalid dictionary load mode: %d; must use DICT_TYPE_* constants
+ucannot train dict: %s
+uzstd decompressor error: %s
+uzstd decompress error: %s
+udecompression error: %s
+udecompression error: decompressed %d bytes; expected %d
+ucompressed input contains %d bytes of unused data, which is disallowed
+ucould not decompress chunk 0: %s
+wiuchunk %d must be bytes
+uchunk %d is not a valid zstd frame
+uchunk %d is too small to contain a zstd frame
+uchunk %d missing content size in frame
+ucould not decompress chunk %d: %s
+uchunk %d did not decompress full frame
+uunable to set max window size: %s
+uunable to set decoding format: %s
+uunable to reference prepared dictionary: %s
+    >>> # Derive compression settings for compression level 7.
+    parameters or to define additional settings that aren't automatically derived.
+    Or you can define low-level compression settings directly:
+    Some of these are very low-level settings. It may help to consult the official
+    in ``zstd.h`` (https://github.com/facebook/zstd/blob/dev/lib/zstd.h).
+    settings.
+uunknown module import policy: %s; use default, cffi_fallback, cext, or cffi

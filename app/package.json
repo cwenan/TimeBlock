@@ -1,0 +1,52 @@
+{
+  "name": "timeblock",
+  "productName": "时间块",
+  "version": "0.1.0",
+  "description": "按下按钮，这块时间就有主了",
+  "author": "timeblock",
+  "license": "MIT",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win"
+  },
+  "devDependencies": {
+    "electron": "^33.4.11",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "com.timeblock.app",
+    "productName": "时间块",
+    "directories": {
+      "output": "dist",
+      "buildResources": "build"
+    },
+    "files": [
+      "main.js",
+      "preload.js",
+      "index.html",
+      "build/icon.png"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis"
+        },
+        {
+          "target": "portable"
+        }
+      ],
+      "icon": "build/icon.png"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "artifactName": "TimeBlock-${version}-setup.${ext}",
+      "createDesktopShortcut": true,
+      "shortcutName": "时间块"
+    },
+    "portable": {
+      "artifactName": "TimeBlock-${version}-portable.${ext}"
+    }
+  }
+}

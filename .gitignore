@@ -1,0 +1,15 @@
+# 依赖
+node_modules/
+
+# 打包产物（体积大、可重新生成）
+app/dist/
+app/build.log
+
+# 临时截图 / 日志
+app/_tb*.png
+*.log
+
+# 系统杂项
+Thumbs.db
+.DS_Store
+desktop.ini
