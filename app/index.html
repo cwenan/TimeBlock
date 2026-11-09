@@ -1007,14 +1007,31 @@ function drawBadgeOnly(mins,gray){
 document.addEventListener('visibilitychange',()=>{
   if(!document.hidden&&lastOverlayPayload&&window.timeblock)window.timeblock.overlay(lastOverlayPayload);
 });
+let lastProgressSignature='';
+let lastTrayTip='';
 function sendProgress(){
   if(!window.timeblock)return;
   const r=store.running;
-  if(!r){window.timeblock.progress(-1,'none');return;}
+  if(!r){
+    if(lastProgressSignature!=='idle')window.timeblock.progress(-1,'none');
+    lastProgressSignature='idle';
+    if(lastTrayTip!==''){window.timeblock.trayTip('时间块');lastTrayTip='';}
+    return;
+  }
   const up=r.plannedSec===0;
   const fr=up?clamp(elapsedOf(r)/UP_SOFT,0,1):clamp(remainingOf(r)/r.plannedSec,0,1);
-  window.timeblock.progress(fr,r.pausedAt?'paused':'normal');
-  window.timeblock.trayTip(document.title);
+  const mode=r.pausedAt?'paused':'normal';
+  // Native progress changes imperceptibly between whole percentage points;
+  // avoid sending redundant IPC/native calls on every 500 ms timer tick.
+  const progressSignature=`${Math.round(fr*100)}|${mode}`;
+  if(progressSignature!==lastProgressSignature){
+    window.timeblock.progress(fr,mode);
+    lastProgressSignature=progressSignature;
+  }
+  if(document.title!==lastTrayTip){
+    window.timeblock.trayTip(document.title);
+    lastTrayTip=document.title;
+  }
 }
 function drawBadge(mins,frac,gray){
   /* 任务栏动态图标：自然番茄直接铺满按钮（透明底、无底板无边框，随系统按钮底色）

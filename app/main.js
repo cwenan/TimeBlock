@@ -49,7 +49,11 @@ if (!gotLock) {
       webPreferences: {
         preload: path.join(__dirname, 'preload.js'),
         contextIsolation: true,
-        nodeIntegration: false
+        nodeIntegration: false,
+        // The timer and taskbar badge are updated by the renderer. Electron's
+        // default background throttling can freeze them while the window is
+        // minimized/hidden, so keep this lightweight page's timer running.
+        backgroundThrottling: false
       }
     });
     Menu.setApplicationMenu(null);
