@@ -1,7 +1,7 @@
 {
   "name": "timeblock",
   "productName": "时间块",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "description": "按下按钮，这块时间就有主了",
   "author": "timeblock",
   "license": "MIT",
