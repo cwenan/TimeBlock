@@ -6,6 +6,16 @@
 
 完整产品设计见 [PRD.md](PRD.md)，任务追踪见 [ISSUES.md](ISSUES.md)。
 
+## 界面
+
+| 主界面 | 计时中 |
+| :---: | :---: |
+| ![主界面](docs/screenshots/main.png) | ![计时中](docs/screenshots/running.png) |
+| **到点 ≠ 收口** | **归档** |
+| ![收口回执](docs/screenshots/receipt.png) | ![归档](docs/screenshots/archive.png) |
+| **理念页** | **暗夜主题** |
+| ![理念页](docs/screenshots/philosophy.png) | ![暗夜主题](docs/screenshots/dark.png) |
+
 ## 现在就能用
 
 | 方式 | 做法 |
